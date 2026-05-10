@@ -1,0 +1,14 @@
+{
+  "id": 930,
+  "montenegrin": "red",
+  "russian": "ряд / порядок",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "row of seats or queue, flat illustration",
+  "status": "pending",
+  "query_text": "ряд / порядок\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

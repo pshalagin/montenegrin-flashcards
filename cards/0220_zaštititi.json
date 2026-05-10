@@ -1,0 +1,14 @@
+{
+  "id": 220,
+  "montenegrin": "zaštititi",
+  "russian": "защитить",
+  "pos": "гл.",
+  "context_ru": "оградить от угрозы (сов.)",
+  "dalle_prompt": "shield protecting person, flat illustration",
+  "status": "pending",
+  "query_text": "защитить\n[гл.  оградить от угрозы (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

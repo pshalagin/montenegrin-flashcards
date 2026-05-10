@@ -1,0 +1,14 @@
+{
+  "id": 971,
+  "montenegrin": "zbuniti",
+  "russian": "сбить с толку",
+  "pos": "гл.",
+  "context_ru": "запутать (сов.)",
+  "dalle_prompt": "confused person mixed signals, flat illustration",
+  "status": "pending",
+  "query_text": "сбить с толку\n[гл.  запутать (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

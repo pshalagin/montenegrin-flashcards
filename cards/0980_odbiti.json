@@ -1,0 +1,14 @@
+{
+  "id": 980,
+  "montenegrin": "odbiti",
+  "russian": "отказать / отклонить",
+  "pos": "гл.",
+  "context_ru": "отвергнуть (сов.)",
+  "dalle_prompt": "person declining offer, flat illustration",
+  "status": "pending",
+  "query_text": "отказать / отклонить\n[гл.  отвергнуть (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

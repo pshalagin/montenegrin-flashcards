@@ -1,0 +1,14 @@
+{
+  "id": 865,
+  "montenegrin": "porezi",
+  "russian": "налоги",
+  "pos": "сущ.",
+  "context_ru": "мн.ч. м.р.",
+  "dalle_prompt": "tax form document, flat illustration",
+  "status": "pending",
+  "query_text": "налоги\n[сущ.  мн.ч. м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 351,
+  "montenegrin": "pauk",
+  "russian": "паук",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "spider in web, flat illustration",
+  "status": "pending",
+  "query_text": "паук\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

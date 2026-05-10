@@ -1,0 +1,14 @@
+{
+  "id": 519,
+  "montenegrin": "učitelj",
+  "russian": "учитель",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "teacher at blackboard, flat illustration",
+  "status": "pending",
+  "query_text": "учитель\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 862,
+  "montenegrin": "policija",
+  "russian": "полиция",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "police badge, flat illustration",
+  "status": "pending",
+  "query_text": "полиция\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

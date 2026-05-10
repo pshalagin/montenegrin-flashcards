@@ -1,0 +1,14 @@
+{
+  "id": 52,
+  "montenegrin": "po",
+  "russian": "по / после",
+  "pos": "предл.",
+  "context_ru": "движение по поверхн.",
+  "dalle_prompt": "person walking along a path, flat illustration",
+  "status": "pending",
+  "query_text": "по / после\n[предл.  движение по поверхн.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

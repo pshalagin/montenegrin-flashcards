@@ -1,0 +1,14 @@
+{
+  "id": 823,
+  "montenegrin": "izdaja",
+  "russian": "предательство",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "backstab betrayal illustration, flat",
+  "status": "pending",
+  "query_text": "предательство\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

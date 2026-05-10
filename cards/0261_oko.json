@@ -1,0 +1,14 @@
+{
+  "id": 261,
+  "montenegrin": "oko",
+  "russian": "глаз",
+  "pos": "сущ.",
+  "context_ru": "ср.р.",
+  "dalle_prompt": "human eye close-up, flat illustration",
+  "status": "pending",
+  "query_text": "глаз\n[сущ.  ср.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

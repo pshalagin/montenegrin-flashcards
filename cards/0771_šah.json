@@ -1,0 +1,14 @@
+{
+  "id": 771,
+  "montenegrin": "šah",
+  "russian": "шахматы",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "chess board and pieces, flat illustration",
+  "status": "pending",
+  "query_text": "шахматы\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

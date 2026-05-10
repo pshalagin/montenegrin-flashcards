@@ -1,0 +1,14 @@
+{
+  "id": 480,
+  "montenegrin": "zid",
+  "russian": "стена",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "wall with picture frame, flat illustration",
+  "status": "pending",
+  "query_text": "стена\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

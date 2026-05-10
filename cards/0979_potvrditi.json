@@ -1,0 +1,14 @@
+{
+  "id": 979,
+  "montenegrin": "potvrditi",
+  "russian": "подтвердить",
+  "pos": "гл.",
+  "context_ru": "дать подтверждение (сов.)",
+  "dalle_prompt": "confirmation checkmark, flat illustration",
+  "status": "pending",
+  "query_text": "подтвердить\n[гл.  дать подтверждение (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

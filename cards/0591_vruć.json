@@ -1,0 +1,14 @@
+{
+  "id": 591,
+  "montenegrin": "vruć",
+  "russian": "горячий",
+  "pos": "прил.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "hot food steaming fire, flat illustration",
+  "status": "pending",
+  "query_text": "горячий\n[прил.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

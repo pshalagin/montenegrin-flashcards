@@ -1,0 +1,14 @@
+{
+  "id": 277,
+  "montenegrin": "grudi",
+  "russian": "грудь",
+  "pos": "сущ.",
+  "context_ru": "мн.ч. ж.р.",
+  "dalle_prompt": "chest area, flat illustration",
+  "status": "pending",
+  "query_text": "грудь\n[сущ.  мн.ч. ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

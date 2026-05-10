@@ -1,0 +1,14 @@
+{
+  "id": 64,
+  "montenegrin": "pored",
+  "russian": "рядом с",
+  "pos": "предл.",
+  "context_ru": "рядом",
+  "dalle_prompt": "two objects side by side, flat illustration",
+  "status": "pending",
+  "query_text": "рядом с\n[предл.  рядом]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

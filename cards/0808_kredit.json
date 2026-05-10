@@ -1,0 +1,14 @@
+{
+  "id": 808,
+  "montenegrin": "kredit",
+  "russian": "кредит",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "loan credit agreement, flat illustration",
+  "status": "pending",
+  "query_text": "кредит\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

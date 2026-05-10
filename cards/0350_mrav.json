@@ -1,0 +1,14 @@
+{
+  "id": 350,
+  "montenegrin": "mrav",
+  "russian": "муравей",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "ants working together, flat illustration",
+  "status": "pending",
+  "query_text": "муравей\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

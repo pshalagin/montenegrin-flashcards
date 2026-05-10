@@ -1,0 +1,14 @@
+{
+  "id": 750,
+  "montenegrin": "injekcija",
+  "russian": "инъекция / укол",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "syringe injection, flat illustration",
+  "status": "pending",
+  "query_text": "инъекция / укол\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

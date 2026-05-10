@@ -1,0 +1,14 @@
+{
+  "id": 77,
+  "montenegrin": "iako",
+  "russian": "хотя",
+  "pos": "союз",
+  "context_ru": "уступит.",
+  "dalle_prompt": "person persisting despite obstacle, flat illustration",
+  "status": "pending",
+  "query_text": "хотя\n[союз  уступит.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

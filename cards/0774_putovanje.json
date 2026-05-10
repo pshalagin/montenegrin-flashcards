@@ -1,0 +1,14 @@
+{
+  "id": 774,
+  "montenegrin": "putovanje",
+  "russian": "путешествие",
+  "pos": "сущ.",
+  "context_ru": "ср.р.",
+  "dalle_prompt": "suitcase and world map, flat illustration",
+  "status": "pending",
+  "query_text": "путешествие\n[сущ.  ср.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

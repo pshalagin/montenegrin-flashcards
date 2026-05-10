@@ -1,0 +1,14 @@
+{
+  "id": 660,
+  "montenegrin": "opet",
+  "russian": "снова / опять",
+  "pos": "нар.",
+  "context_ru": "повторение",
+  "dalle_prompt": "repeat arrows loop, flat illustration",
+  "status": "pending",
+  "query_text": "снова / опять\n[нар.  повторение]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

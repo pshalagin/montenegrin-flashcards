@@ -1,0 +1,14 @@
+{
+  "id": 12,
+  "montenegrin": "njegov",
+  "russian": "его",
+  "pos": "местоим.",
+  "context_ru": "притяж. м.р.",
+  "dalle_prompt": "man pointing to his things, flat illustration",
+  "status": "pending",
+  "query_text": "его\n[местоим.  притяж. м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

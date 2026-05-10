@@ -1,0 +1,14 @@
+{
+  "id": 963,
+  "montenegrin": "ozbiljan",
+  "russian": "серьёзный",
+  "pos": "прил.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "serious focused person, flat illustration",
+  "status": "pending",
+  "query_text": "серьёзный\n[прил.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

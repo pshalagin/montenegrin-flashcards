@@ -1,0 +1,14 @@
+{
+  "id": 663,
+  "montenegrin": "jako",
+  "russian": "очень",
+  "pos": "нар.",
+  "context_ru": "усиление",
+  "dalle_prompt": "exclamation marks emphasis, flat illustration",
+  "status": "pending",
+  "query_text": "очень\n[нар.  усиление]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

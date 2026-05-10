@@ -1,0 +1,14 @@
+{
+  "id": 888,
+  "montenegrin": "savjetovati",
+  "russian": "советовать",
+  "pos": "гл.",
+  "context_ru": "давать совет",
+  "dalle_prompt": "advisor giving advice, flat illustration",
+  "status": "pending",
+  "query_text": "советовать\n[гл.  давать совет]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

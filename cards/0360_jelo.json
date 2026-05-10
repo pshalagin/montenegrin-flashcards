@@ -1,0 +1,14 @@
+{
+  "id": 360,
+  "montenegrin": "jelo",
+  "russian": "блюдо / еда",
+  "pos": "сущ.",
+  "context_ru": "ср.р.",
+  "dalle_prompt": "plate of delicious food, flat illustration",
+  "status": "pending",
+  "query_text": "блюдо / еда\n[сущ.  ср.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

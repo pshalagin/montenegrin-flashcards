@@ -1,0 +1,14 @@
+{
+  "id": 146,
+  "montenegrin": "osjećati",
+  "russian": "чувствовать",
+  "pos": "гл.",
+  "context_ru": "ощущение / эмоции",
+  "dalle_prompt": "person with various emotions, flat illustration",
+  "status": "pending",
+  "query_text": "чувствовать\n[гл.  ощущение / эмоции]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

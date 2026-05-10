@@ -1,0 +1,14 @@
+{
+  "id": 251,
+  "montenegrin": "supruga",
+  "russian": "жена",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "married couple with wedding rings, flat illustration",
+  "status": "pending",
+  "query_text": "жена\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

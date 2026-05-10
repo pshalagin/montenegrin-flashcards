@@ -1,0 +1,14 @@
+{
+  "id": 345,
+  "montenegrin": "majmun",
+  "russian": "обезьяна",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "monkey on branch, flat illustration",
+  "status": "pending",
+  "query_text": "обезьяна\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

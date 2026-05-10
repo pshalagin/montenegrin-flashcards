@@ -1,0 +1,14 @@
+{
+  "id": 256,
+  "montenegrin": "unuka",
+  "russian": "внучка",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "grandmother with granddaughter, flat illustration",
+  "status": "pending",
+  "query_text": "внучка\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

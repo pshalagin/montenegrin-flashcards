@@ -1,0 +1,14 @@
+{
+  "id": 23,
+  "montenegrin": "ništa",
+  "russian": "ничто",
+  "pos": "местоим.",
+  "context_ru": "отрицат.",
+  "dalle_prompt": "empty open hands, nothing, flat illustration",
+  "status": "pending",
+  "query_text": "ничто\n[местоим.  отрицат.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

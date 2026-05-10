@@ -1,0 +1,14 @@
+{
+  "id": 100,
+  "montenegrin": "gledati",
+  "russian": "смотреть",
+  "pos": "гл.",
+  "context_ru": "направлять взгляд",
+  "dalle_prompt": "person watching TV, flat illustration",
+  "status": "pending",
+  "query_text": "смотреть\n[гл.  направлять взгляд]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

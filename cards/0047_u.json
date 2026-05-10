@@ -1,0 +1,14 @@
+{
+  "id": 47,
+  "montenegrin": "u",
+  "russian": "в",
+  "pos": "предл.",
+  "context_ru": "внутри / в период",
+  "dalle_prompt": "person standing inside a room, flat illustration",
+  "status": "pending",
+  "query_text": "в\n[предл.  внутри / в период]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

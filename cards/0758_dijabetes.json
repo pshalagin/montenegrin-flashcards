@@ -1,0 +1,14 @@
+{
+  "id": 758,
+  "montenegrin": "dijabetes",
+  "russian": "диабет",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "diabetes blood sugar monitor, flat illustration",
+  "status": "pending",
+  "query_text": "диабет\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

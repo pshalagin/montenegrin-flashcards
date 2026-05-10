@@ -1,0 +1,14 @@
+{
+  "id": 501,
+  "montenegrin": "šešir",
+  "russian": "шляпа",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "hat, flat illustration",
+  "status": "pending",
+  "query_text": "шляпа\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

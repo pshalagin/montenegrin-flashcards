@@ -1,0 +1,14 @@
+{
+  "id": 934,
+  "montenegrin": "metod",
+  "russian": "метод",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "method steps illustration, flat",
+  "status": "pending",
+  "query_text": "метод\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

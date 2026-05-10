@@ -1,0 +1,14 @@
+{
+  "id": 68,
+  "montenegrin": "oko",
+  "russian": "вокруг / около",
+  "pos": "предл.",
+  "context_ru": "вокруг / приблизительно",
+  "dalle_prompt": "objects arranged in a circle, flat illustration",
+  "status": "pending",
+  "query_text": "вокруг / около\n[предл.  вокруг / приблизительно]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

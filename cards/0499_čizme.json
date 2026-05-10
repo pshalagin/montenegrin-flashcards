@@ -1,0 +1,14 @@
+{
+  "id": 499,
+  "montenegrin": "čizme",
+  "russian": "сапоги",
+  "pos": "сущ.",
+  "context_ru": "мн.ч. ж.р.",
+  "dalle_prompt": "boots, flat illustration",
+  "status": "pending",
+  "query_text": "сапоги\n[сущ.  мн.ч. ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

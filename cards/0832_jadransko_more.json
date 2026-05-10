@@ -1,0 +1,14 @@
+{
+  "id": 832,
+  "montenegrin": "Jadransko more",
+  "russian": "Адриатическое море",
+  "pos": "сущ.",
+  "context_ru": "ср.р.",
+  "dalle_prompt": "Adriatic sea coast, flat illustration",
+  "status": "pending",
+  "query_text": "Адриатическое море\n[сущ.  ср.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

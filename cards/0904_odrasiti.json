@@ -1,0 +1,14 @@
+{
+  "id": 904,
+  "montenegrin": "odrasiti",
+  "russian": "вырасти",
+  "pos": "гл.",
+  "context_ru": "стать взрослым (сов.)",
+  "dalle_prompt": "child growing into adult, flat illustration",
+  "status": "pending",
+  "query_text": "вырасти\n[гл.  стать взрослым (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

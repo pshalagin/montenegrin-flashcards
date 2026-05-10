@@ -1,0 +1,14 @@
+{
+  "id": 868,
+  "montenegrin": "pasoš",
+  "russian": "паспорт",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "passport document, flat illustration",
+  "status": "pending",
+  "query_text": "паспорт\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

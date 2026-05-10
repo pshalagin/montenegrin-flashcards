@@ -1,0 +1,14 @@
+{
+  "id": 258,
+  "montenegrin": "vjenčanje",
+  "russian": "свадьба",
+  "pos": "сущ.",
+  "context_ru": "ср.р.",
+  "dalle_prompt": "wedding ceremony couple, flat illustration",
+  "status": "pending",
+  "query_text": "свадьба\n[сущ.  ср.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

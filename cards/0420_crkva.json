@@ -1,0 +1,14 @@
+{
+  "id": 420,
+  "montenegrin": "crkva",
+  "russian": "церковь",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "church building, flat illustration",
+  "status": "pending",
+  "query_text": "церковь\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

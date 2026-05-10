@@ -1,0 +1,14 @@
+{
+  "id": 294,
+  "montenegrin": "polje",
+  "russian": "поле",
+  "pos": "сущ.",
+  "context_ru": "ср.р.",
+  "dalle_prompt": "open green field landscape, flat illustration",
+  "status": "pending",
+  "query_text": "поле\n[сущ.  ср.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

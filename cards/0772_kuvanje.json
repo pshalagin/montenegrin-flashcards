@@ -1,0 +1,14 @@
+{
+  "id": 772,
+  "montenegrin": "kuvanje",
+  "russian": "кулинария / готовка",
+  "pos": "сущ.",
+  "context_ru": "ср.р.",
+  "dalle_prompt": "person cooking with enjoyment, flat illustration",
+  "status": "pending",
+  "query_text": "кулинария / готовка\n[сущ.  ср.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

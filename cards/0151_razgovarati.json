@@ -1,0 +1,14 @@
+{
+  "id": 151,
+  "montenegrin": "razgovarati",
+  "russian": "разговаривать",
+  "pos": "гл.",
+  "context_ru": "беседа (несов.)",
+  "dalle_prompt": "two people in conversation, flat illustration",
+  "status": "pending",
+  "query_text": "разговаривать\n[гл.  беседа (несов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

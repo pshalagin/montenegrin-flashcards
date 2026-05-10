@@ -1,0 +1,14 @@
+{
+  "id": 848,
+  "montenegrin": "šumski požar",
+  "russian": "лесной пожар",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "forest fire flames, flat illustration",
+  "status": "pending",
+  "query_text": "лесной пожар\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

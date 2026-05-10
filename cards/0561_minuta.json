@@ -1,0 +1,14 @@
+{
+  "id": 561,
+  "montenegrin": "minuta",
+  "russian": "минута",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "clock with minute hand, flat illustration",
+  "status": "pending",
+  "query_text": "минута\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 871,
+  "montenegrin": "skulptura",
+  "russian": "скульптура",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "sculpture statue, flat illustration",
+  "status": "pending",
+  "query_text": "скульптура\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

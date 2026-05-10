@@ -1,0 +1,14 @@
+{
+  "id": 545,
+  "montenegrin": "test",
+  "russian": "тест / контрольная",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "test paper with answers, flat illustration",
+  "status": "pending",
+  "query_text": "тест / контрольная\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

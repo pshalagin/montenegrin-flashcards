@@ -1,0 +1,14 @@
+{
+  "id": 818,
+  "montenegrin": "iznenađenje",
+  "russian": "удивление",
+  "pos": "сущ.",
+  "context_ru": "ср.р.",
+  "dalle_prompt": "surprised person wide eyes, flat illustration",
+  "status": "pending",
+  "query_text": "удивление\n[сущ.  ср.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

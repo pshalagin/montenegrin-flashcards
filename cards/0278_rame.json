@@ -1,0 +1,14 @@
+{
+  "id": 278,
+  "montenegrin": "rame",
+  "russian": "плечо",
+  "pos": "сущ.",
+  "context_ru": "ср.р. ед.ч.",
+  "dalle_prompt": "single shoulder, flat illustration",
+  "status": "pending",
+  "query_text": "плечо\n[сущ.  ср.р. ед.ч.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

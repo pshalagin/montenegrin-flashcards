@@ -1,0 +1,14 @@
+{
+  "id": 978,
+  "montenegrin": "potpisati",
+  "russian": "подписать",
+  "pos": "гл.",
+  "context_ru": "поставить подпись (сов.)",
+  "dalle_prompt": "person signing document, flat illustration",
+  "status": "pending",
+  "query_text": "подписать\n[гл.  поставить подпись (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

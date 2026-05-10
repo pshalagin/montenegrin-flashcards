@@ -1,0 +1,14 @@
+{
+  "id": 202,
+  "montenegrin": "poslati",
+  "russian": "отправить",
+  "pos": "гл.",
+  "context_ru": "отправка (сов.)",
+  "dalle_prompt": "person sending letter or package, flat illustration",
+  "status": "pending",
+  "query_text": "отправить\n[гл.  отправка (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

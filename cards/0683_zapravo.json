@@ -1,0 +1,14 @@
+{
+  "id": 683,
+  "montenegrin": "zapravo",
+  "russian": "на самом деле",
+  "pos": "нар.",
+  "context_ru": "уточнение",
+  "dalle_prompt": "revealing truth layer illustration, flat",
+  "status": "pending",
+  "query_text": "на самом деле\n[нар.  уточнение]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

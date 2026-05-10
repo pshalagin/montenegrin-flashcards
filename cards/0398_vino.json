@@ -1,0 +1,14 @@
+{
+  "id": 398,
+  "montenegrin": "vino",
+  "russian": "вино",
+  "pos": "сущ.",
+  "context_ru": "ср.р.",
+  "dalle_prompt": "glass of red wine, flat illustration",
+  "status": "pending",
+  "query_text": "вино\n[сущ.  ср.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

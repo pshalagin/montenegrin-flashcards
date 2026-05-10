@@ -1,0 +1,14 @@
+{
+  "id": 3,
+  "montenegrin": "on",
+  "russian": "он",
+  "pos": "местоим.",
+  "context_ru": "м.р. ед.ч.",
+  "dalle_prompt": "silhouette of a man, simple flat illustration",
+  "status": "pending",
+  "query_text": "он\n[местоим.  м.р. ед.ч.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 909,
+  "montenegrin": "boja",
+  "russian": "цвет / краска",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "colorful paint swatches, flat illustration",
+  "status": "pending",
+  "query_text": "цвет / краска\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

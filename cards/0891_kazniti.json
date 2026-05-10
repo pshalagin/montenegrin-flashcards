@@ -1,0 +1,14 @@
+{
+  "id": 891,
+  "montenegrin": "kazniti",
+  "russian": "наказать",
+  "pos": "гл.",
+  "context_ru": "налагать наказание (сов.)",
+  "dalle_prompt": "punishment consequence illustration, flat",
+  "status": "pending",
+  "query_text": "наказать\n[гл.  налагать наказание (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

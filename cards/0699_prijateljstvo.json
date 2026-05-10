@@ -1,0 +1,14 @@
+{
+  "id": 699,
+  "montenegrin": "prijateljstvo",
+  "russian": "дружба",
+  "pos": "сущ.",
+  "context_ru": "ср.р.",
+  "dalle_prompt": "two friends holding hands, flat illustration",
+  "status": "pending",
+  "query_text": "дружба\n[сущ.  ср.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

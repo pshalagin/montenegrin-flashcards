@@ -1,0 +1,14 @@
+{
+  "id": 11,
+  "montenegrin": "tvoj",
+  "russian": "твой",
+  "pos": "местоим.",
+  "context_ru": "притяж. 2-е л.",
+  "dalle_prompt": "gift labeled yours, flat illustration",
+  "status": "pending",
+  "query_text": "твой\n[местоим.  притяж. 2-е л.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

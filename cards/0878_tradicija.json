@@ -1,0 +1,14 @@
+{
+  "id": 878,
+  "montenegrin": "tradicija",
+  "russian": "обычай / традиция",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "cultural tradition ceremony, flat illustration",
+  "status": "pending",
+  "query_text": "обычай / традиция\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 22,
+  "montenegrin": "nešto",
+  "russian": "что-то",
+  "pos": "местоим.",
+  "context_ru": "неопред.",
+  "dalle_prompt": "mystery box with question mark, flat illustration",
+  "status": "pending",
+  "query_text": "что-то\n[местоим.  неопред.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

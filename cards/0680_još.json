@@ -1,0 +1,14 @@
+{
+  "id": 680,
+  "montenegrin": "još",
+  "russian": "ещё",
+  "pos": "нар.",
+  "context_ru": "дополнительно / всё ещё",
+  "dalle_prompt": "plus more symbol, flat illustration",
+  "status": "pending",
+  "query_text": "ещё\n[нар.  дополнительно / всё ещё]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

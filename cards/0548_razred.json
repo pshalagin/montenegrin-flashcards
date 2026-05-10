@@ -1,0 +1,14 @@
+{
+  "id": 548,
+  "montenegrin": "razred",
+  "russian": "класс (в школе)",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "school classroom, flat illustration",
+  "status": "pending",
+  "query_text": "класс (в школе)\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

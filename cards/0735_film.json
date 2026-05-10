@@ -1,0 +1,14 @@
+{
+  "id": 735,
+  "montenegrin": "film",
+  "russian": "фильм / кино",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "movie reel cinema, flat illustration",
+  "status": "pending",
+  "query_text": "фильм / кино\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

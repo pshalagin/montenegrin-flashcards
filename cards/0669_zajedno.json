@@ -1,0 +1,14 @@
+{
+  "id": 669,
+  "montenegrin": "zajedno",
+  "russian": "вместе",
+  "pos": "нар.",
+  "context_ru": "совместно",
+  "dalle_prompt": "people together in unity, flat illustration",
+  "status": "pending",
+  "query_text": "вместе\n[нар.  совместно]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

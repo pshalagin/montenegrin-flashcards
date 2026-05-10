@@ -1,0 +1,14 @@
+{
+  "id": 856,
+  "montenegrin": "predsjednik",
+  "russian": "президент",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "president at podium, flat illustration",
+  "status": "pending",
+  "query_text": "президент\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

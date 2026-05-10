@@ -1,0 +1,14 @@
+{
+  "id": 718,
+  "montenegrin": "san",
+  "russian": "сон / мечта",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "person sleeping with dream cloud, flat illustration",
+  "status": "pending",
+  "query_text": "сон / мечта\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

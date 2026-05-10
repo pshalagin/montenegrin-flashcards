@@ -1,0 +1,14 @@
+{
+  "id": 678,
+  "montenegrin": "unutra",
+  "russian": "внутрь / внутри",
+  "pos": "нар.",
+  "context_ru": "в помещение",
+  "dalle_prompt": "person stepping inside room, flat illustration",
+  "status": "pending",
+  "query_text": "внутрь / внутри\n[нар.  в помещение]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

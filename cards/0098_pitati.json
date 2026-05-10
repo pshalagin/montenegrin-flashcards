@@ -1,0 +1,14 @@
+{
+  "id": 98,
+  "montenegrin": "pitati",
+  "russian": "спрашивать",
+  "pos": "гл.",
+  "context_ru": "задавать вопрос",
+  "dalle_prompt": "person raising hand to ask, flat illustration",
+  "status": "pending",
+  "query_text": "спрашивать\n[гл.  задавать вопрос]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 673,
+  "montenegrin": "gore",
+  "russian": "вверху / наверху",
+  "pos": "нар.",
+  "context_ru": "направление вверх",
+  "dalle_prompt": "arrow pointing upward, flat illustration",
+  "status": "pending",
+  "query_text": "вверху / наверху\n[нар.  направление вверх]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

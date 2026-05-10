@@ -1,0 +1,14 @@
+{
+  "id": 732,
+  "montenegrin": "historija",
+  "russian": "история",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "old map and compass, flat illustration",
+  "status": "pending",
+  "query_text": "история\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

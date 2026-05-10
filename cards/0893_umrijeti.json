@@ -1,0 +1,14 @@
+{
+  "id": 893,
+  "montenegrin": "umrijeti",
+  "russian": "умереть",
+  "pos": "гл.",
+  "context_ru": "скончаться (сов.)",
+  "dalle_prompt": "falling leaf end of life, flat illustration",
+  "status": "pending",
+  "query_text": "умереть\n[гл.  скончаться (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

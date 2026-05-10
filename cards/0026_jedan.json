@@ -1,0 +1,14 @@
+{
+  "id": 26,
+  "montenegrin": "jedan",
+  "russian": "один",
+  "pos": "числ.",
+  "context_ru": "количест.",
+  "dalle_prompt": "number one, single object, flat illustration",
+  "status": "pending",
+  "query_text": "один\n[числ.  количест.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

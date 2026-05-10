@@ -1,0 +1,14 @@
+{
+  "id": 465,
+  "montenegrin": "lampa",
+  "russian": "лампа",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "table lamp lit, flat illustration",
+  "status": "pending",
+  "query_text": "лампа\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

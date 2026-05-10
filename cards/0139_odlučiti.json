@@ -1,0 +1,14 @@
+{
+  "id": 139,
+  "montenegrin": "odlučiti",
+  "russian": "решить",
+  "pos": "гл.",
+  "context_ru": "принять решение (сов.)",
+  "dalle_prompt": "person at crossroads making decision, flat illustration",
+  "status": "pending",
+  "query_text": "решить\n[гл.  принять решение (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

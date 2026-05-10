@@ -1,0 +1,14 @@
+{
+  "id": 335,
+  "montenegrin": "kokoška",
+  "russian": "курица",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "chicken on farm, flat illustration",
+  "status": "pending",
+  "query_text": "курица\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

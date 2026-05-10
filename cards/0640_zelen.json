@@ -1,0 +1,14 @@
+{
+  "id": 640,
+  "montenegrin": "zelen",
+  "russian": "зелёный",
+  "pos": "прил.",
+  "context_ru": "цвет",
+  "dalle_prompt": "green color swatch, flat illustration",
+  "status": "pending",
+  "query_text": "зелёный\n[прил.  цвет]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

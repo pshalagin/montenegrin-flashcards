@@ -1,0 +1,14 @@
+{
+  "id": 902,
+  "montenegrin": "klanjati se",
+  "russian": "кланяться",
+  "pos": "гл.",
+  "context_ru": "выражать почтение поклоном",
+  "dalle_prompt": "person bowing respectfully, flat illustration",
+  "status": "pending",
+  "query_text": "кланяться\n[гл.  выражать почтение поклоном]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

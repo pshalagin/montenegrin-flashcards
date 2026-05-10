@@ -1,0 +1,14 @@
+{
+  "id": 688,
+  "montenegrin": "vjerovatno",
+  "russian": "вероятно / скорее всего",
+  "pos": "нар.",
+  "context_ru": "предположение",
+  "dalle_prompt": "probability chart, flat illustration",
+  "status": "pending",
+  "query_text": "вероятно / скорее всего\n[нар.  предположение]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

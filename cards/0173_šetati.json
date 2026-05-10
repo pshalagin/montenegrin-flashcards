@@ -1,0 +1,14 @@
+{
+  "id": 173,
+  "montenegrin": "šetati",
+  "russian": "гулять",
+  "pos": "гл.",
+  "context_ru": "прогулка пешком",
+  "dalle_prompt": "person strolling in park, flat illustration",
+  "status": "pending",
+  "query_text": "гулять\n[гл.  прогулка пешком]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

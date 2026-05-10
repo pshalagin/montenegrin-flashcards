@@ -1,0 +1,14 @@
+{
+  "id": 30,
+  "montenegrin": "pet",
+  "russian": "пять",
+  "pos": "числ.",
+  "context_ru": "количест.",
+  "dalle_prompt": "five-pointed star shape, flat illustration",
+  "status": "pending",
+  "query_text": "пять\n[числ.  количест.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 989,
+  "montenegrin": "nekad",
+  "russian": "когда-то / иногда",
+  "pos": "нар.",
+  "context_ru": "в прошлом / периодически",
+  "dalle_prompt": "past time calendar, flat illustration",
+  "status": "pending",
+  "query_text": "когда-то / иногда\n[нар.  в прошлом / периодически]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

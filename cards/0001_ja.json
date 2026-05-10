@@ -1,0 +1,14 @@
+{
+  "id": 1,
+  "montenegrin": "ja",
+  "russian": "я",
+  "pos": "местоим.",
+  "context_ru": "личное",
+  "dalle_prompt": "person pointing to themselves, simple flat illustration",
+  "status": "pending",
+  "query_text": "я\n[местоим.  личное]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

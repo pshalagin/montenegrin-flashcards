@@ -1,0 +1,14 @@
+{
+  "id": 157,
+  "montenegrin": "skočiti",
+  "russian": "прыгнуть",
+  "pos": "гл.",
+  "context_ru": "прыжок (сов.)",
+  "dalle_prompt": "person jumping in the air, flat illustration",
+  "status": "pending",
+  "query_text": "прыгнуть\n[гл.  прыжок (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

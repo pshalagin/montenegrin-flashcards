@@ -1,0 +1,14 @@
+{
+  "id": 322,
+  "montenegrin": "magla",
+  "russian": "туман",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "foggy landscape, flat illustration",
+  "status": "pending",
+  "query_text": "туман\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

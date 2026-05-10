@@ -1,0 +1,14 @@
+{
+  "id": 880,
+  "montenegrin": "zahtijevati",
+  "russian": "требовать",
+  "pos": "гл.",
+  "context_ru": "настаивать на чём-л.",
+  "dalle_prompt": "person demanding requirement, flat illustration",
+  "status": "pending",
+  "query_text": "требовать\n[гл.  настаивать на чём-л.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

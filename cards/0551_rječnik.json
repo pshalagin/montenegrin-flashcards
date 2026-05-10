@@ -1,0 +1,14 @@
+{
+  "id": 551,
+  "montenegrin": "rječnik",
+  "russian": "словарь",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "dictionary book open, flat illustration",
+  "status": "pending",
+  "query_text": "словарь\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

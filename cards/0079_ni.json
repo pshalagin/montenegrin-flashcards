@@ -1,0 +1,14 @@
+{
+  "id": 79,
+  "montenegrin": "ni",
+  "russian": "ни",
+  "pos": "союз",
+  "context_ru": "отрицат. соединит.",
+  "dalle_prompt": "crossed out two options, flat illustration",
+  "status": "pending",
+  "query_text": "ни\n[союз  отрицат. соединит.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

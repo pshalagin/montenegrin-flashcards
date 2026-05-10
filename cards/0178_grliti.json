@@ -1,0 +1,14 @@
+{
+  "id": 178,
+  "montenegrin": "grliti",
+  "russian": "обнимать",
+  "pos": "гл.",
+  "context_ru": "объятие",
+  "dalle_prompt": "two people hugging warmly, flat illustration",
+  "status": "pending",
+  "query_text": "обнимать\n[гл.  объятие]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

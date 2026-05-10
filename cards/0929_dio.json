@@ -1,0 +1,14 @@
+{
+  "id": 929,
+  "montenegrin": "dio",
+  "russian": "часть / доля",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "piece of whole, flat illustration",
+  "status": "pending",
+  "query_text": "часть / доля\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

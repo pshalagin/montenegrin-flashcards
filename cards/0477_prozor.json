@@ -1,0 +1,14 @@
+{
+  "id": 477,
+  "montenegrin": "prozor",
+  "russian": "окно",
+  "pos": "сущ.",
+  "context_ru": "ср.р.",
+  "dalle_prompt": "window with view outside, flat illustration",
+  "status": "pending",
+  "query_text": "окно\n[сущ.  ср.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

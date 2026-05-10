@@ -1,0 +1,14 @@
+{
+  "id": 525,
+  "montenegrin": "konobar",
+  "russian": "официант",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "waiter serving food, flat illustration",
+  "status": "pending",
+  "query_text": "официант\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

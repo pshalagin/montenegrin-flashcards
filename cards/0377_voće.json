@@ -1,0 +1,14 @@
+{
+  "id": 377,
+  "montenegrin": "voće",
+  "russian": "фрукты",
+  "pos": "сущ.",
+  "context_ru": "ср.р. собир.",
+  "dalle_prompt": "assorted fruits arrangement, flat illustration",
+  "status": "pending",
+  "query_text": "фрукты\n[сущ.  ср.р. собир.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

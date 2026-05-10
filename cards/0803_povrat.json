@@ -1,0 +1,14 @@
+{
+  "id": 803,
+  "montenegrin": "povrat",
+  "russian": "возврат",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "product return arrow, flat illustration",
+  "status": "pending",
+  "query_text": "возврат\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

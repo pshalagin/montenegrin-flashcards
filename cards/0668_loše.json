@@ -1,0 +1,14 @@
+{
+  "id": 668,
+  "montenegrin": "loše",
+  "russian": "плохо",
+  "pos": "нар.",
+  "context_ru": "отрицательно",
+  "dalle_prompt": "thumbs down illustration, flat",
+  "status": "pending",
+  "query_text": "плохо\n[нар.  отрицательно]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

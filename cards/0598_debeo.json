@@ -1,0 +1,14 @@
+{
+  "id": 598,
+  "montenegrin": "debeo",
+  "russian": "толстый / жирный",
+  "pos": "прил.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "thick heavy object or round character, flat illustration",
+  "status": "pending",
+  "query_text": "толстый / жирный\n[прил.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

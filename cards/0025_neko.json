@@ -1,0 +1,14 @@
+{
+  "id": 25,
+  "montenegrin": "neko",
+  "russian": "кто-то",
+  "pos": "местоим.",
+  "context_ru": "неопред. лицо",
+  "dalle_prompt": "silhouette with question mark, flat illustration",
+  "status": "pending",
+  "query_text": "кто-то\n[местоим.  неопред. лицо]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

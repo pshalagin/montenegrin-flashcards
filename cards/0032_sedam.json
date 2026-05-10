@@ -1,0 +1,14 @@
+{
+  "id": 32,
+  "montenegrin": "sedam",
+  "russian": "семь",
+  "pos": "числ.",
+  "context_ru": "количест.",
+  "dalle_prompt": "seven stars in sky, flat illustration",
+  "status": "pending",
+  "query_text": "семь\n[числ.  количест.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

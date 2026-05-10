@@ -1,0 +1,14 @@
+{
+  "id": 103,
+  "montenegrin": "ostati",
+  "russian": "остаться",
+  "pos": "гл.",
+  "context_ru": "не уходить (сов.)",
+  "dalle_prompt": "person staying while others leave, flat illustration",
+  "status": "pending",
+  "query_text": "остаться\n[гл.  не уходить (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 272,
+  "montenegrin": "zub",
+  "russian": "зуб",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "tooth illustration dentist style, flat",
+  "status": "pending",
+  "query_text": "зуб\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

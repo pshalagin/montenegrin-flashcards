@@ -1,0 +1,14 @@
+{
+  "id": 682,
+  "montenegrin": "baš",
+  "russian": "именно / как раз",
+  "pos": "нар.",
+  "context_ru": "усиление / подтверждение",
+  "dalle_prompt": "exact target bullseye, flat illustration",
+  "status": "pending",
+  "query_text": "именно / как раз\n[нар.  усиление / подтверждение]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

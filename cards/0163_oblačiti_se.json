@@ -1,0 +1,14 @@
+{
+  "id": 163,
+  "montenegrin": "oblačiti se",
+  "russian": "одеваться",
+  "pos": "гл.",
+  "context_ru": "надевать одежду",
+  "dalle_prompt": "person getting dressed, flat illustration",
+  "status": "pending",
+  "query_text": "одеваться\n[гл.  надевать одежду]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

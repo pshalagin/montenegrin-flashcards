@@ -1,0 +1,14 @@
+{
+  "id": 108,
+  "montenegrin": "nositi",
+  "russian": "нести / носить",
+  "pos": "гл.",
+  "context_ru": "переносить / надевать",
+  "dalle_prompt": "person carrying bags, flat illustration",
+  "status": "pending",
+  "query_text": "нести / носить\n[гл.  переносить / надевать]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

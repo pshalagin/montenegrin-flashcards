@@ -1,0 +1,14 @@
+{
+  "id": 436,
+  "montenegrin": "pošta",
+  "russian": "почта",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "post office building, flat illustration",
+  "status": "pending",
+  "query_text": "почта\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

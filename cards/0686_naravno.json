@@ -1,0 +1,14 @@
+{
+  "id": 686,
+  "montenegrin": "naravno",
+  "russian": "конечно / разумеется",
+  "pos": "нар.",
+  "context_ru": "согласие",
+  "dalle_prompt": "obvious checkmark yes, flat illustration",
+  "status": "pending",
+  "query_text": "конечно / разумеется\n[нар.  согласие]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

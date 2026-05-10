@@ -1,0 +1,14 @@
+{
+  "id": 55,
+  "montenegrin": "o",
+  "russian": "о / об",
+  "pos": "предл.",
+  "context_ru": "тема",
+  "dalle_prompt": "speech bubble with book icon, flat illustration",
+  "status": "pending",
+  "query_text": "о / об\n[предл.  тема]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

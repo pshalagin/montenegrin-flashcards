@@ -1,0 +1,14 @@
+{
+  "id": 88,
+  "montenegrin": "moći",
+  "russian": "мочь",
+  "pos": "гл.",
+  "context_ru": "способность/возможность",
+  "dalle_prompt": "strong person flexing muscles, flat illustration",
+  "status": "pending",
+  "query_text": "мочь\n[гл.  способность/возможность]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

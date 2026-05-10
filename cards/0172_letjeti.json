@@ -1,0 +1,14 @@
+{
+  "id": 172,
+  "montenegrin": "letjeti",
+  "russian": "лететь",
+  "pos": "гл.",
+  "context_ru": "полёт",
+  "dalle_prompt": "bird or airplane flying, flat illustration",
+  "status": "pending",
+  "query_text": "лететь\n[гл.  полёт]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

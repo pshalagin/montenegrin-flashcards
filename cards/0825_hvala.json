@@ -1,0 +1,14 @@
+{
+  "id": 825,
+  "montenegrin": "hvala",
+  "russian": "спасибо",
+  "pos": "мжд.",
+  "context_ru": "благодарность",
+  "dalle_prompt": "thank you grateful person, flat illustration",
+  "status": "pending",
+  "query_text": "спасибо\n[мжд.  благодарность]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

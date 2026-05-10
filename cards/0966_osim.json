@@ -1,0 +1,14 @@
+{
+  "id": 966,
+  "montenegrin": "osim",
+  "russian": "кроме / помимо",
+  "pos": "предл.",
+  "context_ru": "исключение",
+  "dalle_prompt": "except one excluded item, flat illustration",
+  "status": "pending",
+  "query_text": "кроме / помимо\n[предл.  исключение]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

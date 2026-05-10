@@ -1,0 +1,14 @@
+{
+  "id": 940,
+  "montenegrin": "količina",
+  "russian": "количество",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "quantity measurement, flat illustration",
+  "status": "pending",
+  "query_text": "количество\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

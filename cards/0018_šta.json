@@ -1,0 +1,14 @@
+{
+  "id": 18,
+  "montenegrin": "šta",
+  "russian": "что",
+  "pos": "местоим.",
+  "context_ru": "вопросит. (вещь)",
+  "dalle_prompt": "question mark over various objects, flat illustration",
+  "status": "pending",
+  "query_text": "что\n[местоим.  вопросит. (вещь)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

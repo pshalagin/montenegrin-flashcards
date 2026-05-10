@@ -1,0 +1,14 @@
+{
+  "id": 716,
+  "montenegrin": "smrt",
+  "russian": "смерть",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "autumn leaf falling end of cycle, flat illustration",
+  "status": "pending",
+  "query_text": "смерть\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

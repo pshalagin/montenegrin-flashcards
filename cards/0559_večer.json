@@ -1,0 +1,14 @@
+{
+  "id": 559,
+  "montenegrin": "večer",
+  "russian": "вечер",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "sunset evening scene, flat illustration",
+  "status": "pending",
+  "query_text": "вечер\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

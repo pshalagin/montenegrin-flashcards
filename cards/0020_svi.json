@@ -1,0 +1,14 @@
+{
+  "id": 20,
+  "montenegrin": "svi",
+  "russian": "все",
+  "pos": "местоим.",
+  "context_ru": "все без исключения",
+  "dalle_prompt": "crowd of diverse people, flat illustration",
+  "status": "pending",
+  "query_text": "все\n[местоим.  все без исключения]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

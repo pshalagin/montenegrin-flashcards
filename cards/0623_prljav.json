@@ -1,0 +1,14 @@
+{
+  "id": 623,
+  "montenegrin": "prljav",
+  "russian": "грязный",
+  "pos": "прил.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "dirty muddy shoes, flat illustration",
+  "status": "pending",
+  "query_text": "грязный\n[прил.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

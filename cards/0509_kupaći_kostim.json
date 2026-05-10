@@ -1,0 +1,14 @@
+{
+  "id": 509,
+  "montenegrin": "kupaći kostim",
+  "russian": "купальный костюм",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "swimsuit, flat illustration",
+  "status": "pending",
+  "query_text": "купальный костюм\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

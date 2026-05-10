@@ -1,0 +1,14 @@
+{
+  "id": 226,
+  "montenegrin": "žena",
+  "russian": "женщина / жена",
+  "pos": "сущ.",
+  "context_ru": "взрослая женщина",
+  "dalle_prompt": "woman smiling warmly, simple flat illustration",
+  "status": "pending",
+  "query_text": "женщина / жена\n[сущ.  взрослая женщина]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 811,
+  "montenegrin": "uzbuđenje",
+  "russian": "волнение / возбуждение",
+  "pos": "сущ.",
+  "context_ru": "ср.р.",
+  "dalle_prompt": "excited person jumping, flat illustration",
+  "status": "pending",
+  "query_text": "волнение / возбуждение\n[сущ.  ср.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 655,
+  "montenegrin": "mnogo",
+  "russian": "много",
+  "pos": "нар.",
+  "context_ru": "большое количество",
+  "dalle_prompt": "large pile of objects, flat illustration",
+  "status": "pending",
+  "query_text": "много\n[нар.  большое количество]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

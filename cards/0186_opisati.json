@@ -1,0 +1,14 @@
+{
+  "id": 186,
+  "montenegrin": "opisati",
+  "russian": "описать",
+  "pos": "гл.",
+  "context_ru": "охарактеризовать (сов.)",
+  "dalle_prompt": "person describing with gestures, flat illustration",
+  "status": "pending",
+  "query_text": "описать\n[гл.  охарактеризовать (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

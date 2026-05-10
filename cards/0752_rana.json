@@ -1,0 +1,14 @@
+{
+  "id": 752,
+  "montenegrin": "rana",
+  "russian": "рана",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "bandaged wound, flat illustration",
+  "status": "pending",
+  "query_text": "рана\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

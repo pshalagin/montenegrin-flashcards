@@ -1,0 +1,14 @@
+{
+  "id": 973,
+  "montenegrin": "obradovati",
+  "russian": "обрадовать",
+  "pos": "гл.",
+  "context_ru": "вызвать радость (сов.)",
+  "dalle_prompt": "person receiving good news, flat illustration",
+  "status": "pending",
+  "query_text": "обрадовать\n[гл.  вызвать радость (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

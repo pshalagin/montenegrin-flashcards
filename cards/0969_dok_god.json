@@ -1,0 +1,14 @@
+{
+  "id": 969,
+  "montenegrin": "dok god",
+  "russian": "пока / до тех пор пока",
+  "pos": "союз",
+  "context_ru": "условие + время",
+  "dalle_prompt": "ongoing condition timeline, flat illustration",
+  "status": "pending",
+  "query_text": "пока / до тех пор пока\n[союз  условие + время]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

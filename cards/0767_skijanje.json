@@ -1,0 +1,14 @@
+{
+  "id": 767,
+  "montenegrin": "skijanje",
+  "russian": "катание на лыжах",
+  "pos": "сущ.",
+  "context_ru": "ср.р.",
+  "dalle_prompt": "person skiing on mountain, flat illustration",
+  "status": "pending",
+  "query_text": "катание на лыжах\n[сущ.  ср.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

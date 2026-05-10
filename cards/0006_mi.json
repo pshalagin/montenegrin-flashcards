@@ -1,0 +1,14 @@
+{
+  "id": 6,
+  "montenegrin": "mi",
+  "russian": "мы",
+  "pos": "местоим.",
+  "context_ru": "1-е л. мн.ч.",
+  "dalle_prompt": "small group of people together, simple illustration",
+  "status": "pending",
+  "query_text": "мы\n[местоим.  1-е л. мн.ч.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

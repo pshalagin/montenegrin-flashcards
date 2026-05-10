@@ -1,0 +1,14 @@
+{
+  "id": 125,
+  "montenegrin": "pjevati",
+  "russian": "петь",
+  "pos": "гл.",
+  "context_ru": "исполнять песню",
+  "dalle_prompt": "person singing with microphone, flat illustration",
+  "status": "pending",
+  "query_text": "петь\n[гл.  исполнять песню]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

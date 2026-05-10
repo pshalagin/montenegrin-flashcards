@@ -1,0 +1,14 @@
+{
+  "id": 201,
+  "montenegrin": "primiti",
+  "russian": "получить",
+  "pos": "гл.",
+  "context_ru": "принять (сов.)",
+  "dalle_prompt": "person receiving a package, flat illustration",
+  "status": "pending",
+  "query_text": "получить\n[гл.  принять (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

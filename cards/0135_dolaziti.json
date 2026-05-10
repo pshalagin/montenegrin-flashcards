@@ -1,0 +1,14 @@
+{
+  "id": 135,
+  "montenegrin": "dolaziti",
+  "russian": "приходить",
+  "pos": "гл.",
+  "context_ru": "прибывать (несов.)",
+  "dalle_prompt": "person repeatedly approaching door, flat illustration",
+  "status": "pending",
+  "query_text": "приходить\n[гл.  прибывать (несов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

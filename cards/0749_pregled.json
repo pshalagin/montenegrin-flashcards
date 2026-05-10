@@ -1,0 +1,14 @@
+{
+  "id": 749,
+  "montenegrin": "pregled",
+  "russian": "осмотр / обследование",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "doctor examining patient, flat illustration",
+  "status": "pending",
+  "query_text": "осмотр / обследование\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

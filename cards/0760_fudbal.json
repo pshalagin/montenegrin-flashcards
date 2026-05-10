@@ -1,0 +1,14 @@
+{
+  "id": 760,
+  "montenegrin": "fudbal",
+  "russian": "футбол",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "soccer football on field, flat illustration",
+  "status": "pending",
+  "query_text": "футбол\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 677,
+  "montenegrin": "napolje",
+  "russian": "наружу / снаружи",
+  "pos": "нар.",
+  "context_ru": "из помещения",
+  "dalle_prompt": "person stepping outside, flat illustration",
+  "status": "pending",
+  "query_text": "наружу / снаружи\n[нар.  из помещения]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

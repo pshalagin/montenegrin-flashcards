@@ -1,0 +1,14 @@
+{
+  "id": 37,
+  "montenegrin": "dvanaest",
+  "russian": "двенадцать",
+  "pos": "числ.",
+  "context_ru": "количест.",
+  "dalle_prompt": "clock face showing twelve, flat illustration",
+  "status": "pending",
+  "query_text": "двенадцать\n[числ.  количест.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

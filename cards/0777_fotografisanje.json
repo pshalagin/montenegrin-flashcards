@@ -1,0 +1,14 @@
+{
+  "id": 777,
+  "montenegrin": "fotografisanje",
+  "russian": "фотографирование",
+  "pos": "сущ.",
+  "context_ru": "ср.р.",
+  "dalle_prompt": "person with camera outdoors, flat illustration",
+  "status": "pending",
+  "query_text": "фотографирование\n[сущ.  ср.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

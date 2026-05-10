@@ -1,0 +1,14 @@
+{
+  "id": 216,
+  "montenegrin": "prijaviti se",
+  "russian": "зарегистрироваться",
+  "pos": "гл.",
+  "context_ru": "подать заявление (сов.)",
+  "dalle_prompt": "person filling registration form, flat illustration",
+  "status": "pending",
+  "query_text": "зарегистрироваться\n[гл.  подать заявление (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 793,
+  "montenegrin": "video poziv",
+  "russian": "видеозвонок",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "video call on screen, flat illustration",
+  "status": "pending",
+  "query_text": "видеозвонок\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

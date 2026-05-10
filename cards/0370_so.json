@@ -1,0 +1,14 @@
+{
+  "id": 370,
+  "montenegrin": "so",
+  "russian": "соль",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "salt shaker, flat illustration",
+  "status": "pending",
+  "query_text": "соль\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

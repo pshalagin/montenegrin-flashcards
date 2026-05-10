@@ -1,0 +1,14 @@
+{
+  "id": 181,
+  "montenegrin": "računati",
+  "russian": "считать",
+  "pos": "гл.",
+  "context_ru": "вычисление",
+  "dalle_prompt": "person calculating on calculator, flat illustration",
+  "status": "pending",
+  "query_text": "считать\n[гл.  вычисление]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

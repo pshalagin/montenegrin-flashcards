@@ -1,0 +1,14 @@
+{
+  "id": 362,
+  "montenegrin": "meso",
+  "russian": "мясо",
+  "pos": "сущ.",
+  "context_ru": "ср.р.",
+  "dalle_prompt": "meat on cutting board, flat illustration",
+  "status": "pending",
+  "query_text": "мясо\n[сущ.  ср.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

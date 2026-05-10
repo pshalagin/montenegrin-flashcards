@@ -1,0 +1,14 @@
+{
+  "id": 685,
+  "montenegrin": "međutim",
+  "russian": "однако / между тем",
+  "pos": "нар.",
+  "context_ru": "противит.",
+  "dalle_prompt": "two contrasting arrows, flat illustration",
+  "status": "pending",
+  "query_text": "однако / между тем\n[нар.  противит.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

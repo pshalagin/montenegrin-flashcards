@@ -1,0 +1,14 @@
+{
+  "id": 213,
+  "montenegrin": "uspjeti",
+  "russian": "успеть / суметь",
+  "pos": "гл.",
+  "context_ru": "достичь (сов.)",
+  "dalle_prompt": "person succeeding at goal, flat illustration",
+  "status": "pending",
+  "query_text": "успеть / суметь\n[гл.  достичь (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

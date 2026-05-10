@@ -1,0 +1,14 @@
+{
+  "id": 885,
+  "montenegrin": "patiti",
+  "russian": "страдать",
+  "pos": "гл.",
+  "context_ru": "испытывать боль / горе",
+  "dalle_prompt": "suffering person in pain, flat illustration",
+  "status": "pending",
+  "query_text": "страдать\n[гл.  испытывать боль / горе]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

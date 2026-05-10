@@ -1,0 +1,14 @@
+{
+  "id": 681,
+  "montenegrin": "samo",
+  "russian": "только / лишь",
+  "pos": "нар.",
+  "context_ru": "ограничение",
+  "dalle_prompt": "single highlighted item only, flat illustration",
+  "status": "pending",
+  "query_text": "только / лишь\n[нар.  ограничение]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

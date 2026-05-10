@@ -1,0 +1,14 @@
+{
+  "id": 863,
+  "montenegrin": "sud",
+  "russian": "суд",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "court room, flat illustration",
+  "status": "pending",
+  "query_text": "суд\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

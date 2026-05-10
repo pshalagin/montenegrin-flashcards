@@ -1,0 +1,14 @@
+{
+  "id": 237,
+  "montenegrin": "gost",
+  "russian": "гость",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "guest arriving at door with gift, flat illustration",
+  "status": "pending",
+  "query_text": "гость\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

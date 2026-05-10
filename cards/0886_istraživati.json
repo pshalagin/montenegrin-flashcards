@@ -1,0 +1,14 @@
+{
+  "id": 886,
+  "montenegrin": "istraživati",
+  "russian": "исследовать",
+  "pos": "гл.",
+  "context_ru": "изучать (несов.)",
+  "dalle_prompt": "explorer with magnifying glass, flat illustration",
+  "status": "pending",
+  "query_text": "исследовать\n[гл.  изучать (несов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

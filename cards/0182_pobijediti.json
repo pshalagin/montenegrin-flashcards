@@ -1,0 +1,14 @@
+{
+  "id": 182,
+  "montenegrin": "pobijediti",
+  "russian": "победить",
+  "pos": "гл.",
+  "context_ru": "одержать победу (сов.)",
+  "dalle_prompt": "winner with trophy on podium, flat illustration",
+  "status": "pending",
+  "query_text": "победить\n[гл.  одержать победу (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

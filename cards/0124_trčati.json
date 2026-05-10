@@ -1,0 +1,14 @@
+{
+  "id": 124,
+  "montenegrin": "trčati",
+  "russian": "бежать",
+  "pos": "гл.",
+  "context_ru": "быстрое движение",
+  "dalle_prompt": "person running on track, flat illustration",
+  "status": "pending",
+  "query_text": "бежать\n[гл.  быстрое движение]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

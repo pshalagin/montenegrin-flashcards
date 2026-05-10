@@ -1,0 +1,14 @@
+{
+  "id": 375,
+  "montenegrin": "supa",
+  "russian": "суп",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "bowl of soup with spoon, flat illustration",
+  "status": "pending",
+  "query_text": "суп\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

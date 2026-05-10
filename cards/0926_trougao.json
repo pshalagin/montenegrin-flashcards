@@ -1,0 +1,14 @@
+{
+  "id": 926,
+  "montenegrin": "trougao",
+  "russian": "треугольник",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "triangle shape, flat illustration",
+  "status": "pending",
+  "query_text": "треугольник\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

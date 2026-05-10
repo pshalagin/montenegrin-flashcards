@@ -1,0 +1,14 @@
+{
+  "id": 145,
+  "montenegrin": "vjerovati",
+  "russian": "верить",
+  "pos": "гл.",
+  "context_ru": "доверие / вера",
+  "dalle_prompt": "people shaking hands trust illustration, flat",
+  "status": "pending",
+  "query_text": "верить\n[гл.  доверие / вера]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

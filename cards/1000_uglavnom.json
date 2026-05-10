@@ -1,0 +1,14 @@
+{
+  "id": 1000,
+  "montenegrin": "uglavnom",
+  "russian": "в основном / главным образом",
+  "pos": "нар.",
+  "context_ru": "преимущественно",
+  "dalle_prompt": "mostly majority chart, flat illustration",
+  "status": "pending",
+  "query_text": "в основном / главным образом\n[нар.  преимущественно]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

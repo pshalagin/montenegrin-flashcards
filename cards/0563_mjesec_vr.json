@@ -1,0 +1,14 @@
+{
+  "id": 563,
+  "montenegrin": "mjesec (vr.)",
+  "russian": "месяц (время)",
+  "pos": "сущ.",
+  "context_ru": "м.р. — отрезок времени",
+  "dalle_prompt": "monthly calendar, flat illustration",
+  "status": "pending",
+  "query_text": "месяц (время)\n[сущ.  м.р. — отрезок времени]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

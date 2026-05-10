@@ -1,0 +1,14 @@
+{
+  "id": 813,
+  "montenegrin": "ponos",
+  "russian": "гордость",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "proud person chest up, flat illustration",
+  "status": "pending",
+  "query_text": "гордость\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

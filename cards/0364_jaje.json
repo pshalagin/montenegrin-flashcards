@@ -1,0 +1,14 @@
+{
+  "id": 364,
+  "montenegrin": "jaje",
+  "russian": "яйцо",
+  "pos": "сущ.",
+  "context_ru": "ср.р.",
+  "dalle_prompt": "egg in nest or on table, flat illustration",
+  "status": "pending",
+  "query_text": "яйцо\n[сущ.  ср.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 883,
+  "montenegrin": "provesti",
+  "russian": "провести (время)",
+  "pos": "гл.",
+  "context_ru": "потратить время (сов.)",
+  "dalle_prompt": "person spending time relaxing, flat illustration",
+  "status": "pending",
+  "query_text": "провести (время)\n[гл.  потратить время (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

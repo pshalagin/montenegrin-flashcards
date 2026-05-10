@@ -1,0 +1,14 @@
+{
+  "id": 531,
+  "montenegrin": "glumac",
+  "russian": "актёр",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "actor on stage, flat illustration",
+  "status": "pending",
+  "query_text": "актёр\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

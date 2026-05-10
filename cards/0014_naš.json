@@ -1,0 +1,14 @@
+{
+  "id": 14,
+  "montenegrin": "naš",
+  "russian": "наш",
+  "pos": "местоим.",
+  "context_ru": "притяж. мн.ч.",
+  "dalle_prompt": "group sharing items, flat illustration",
+  "status": "pending",
+  "query_text": "наш\n[местоим.  притяж. мн.ч.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

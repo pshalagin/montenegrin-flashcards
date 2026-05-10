@@ -1,0 +1,14 @@
+{
+  "id": 184,
+  "montenegrin": "fotografisati",
+  "russian": "фотографировать",
+  "pos": "гл.",
+  "context_ru": "делать снимки",
+  "dalle_prompt": "person taking photo with camera, flat illustration",
+  "status": "pending",
+  "query_text": "фотографировать\n[гл.  делать снимки]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

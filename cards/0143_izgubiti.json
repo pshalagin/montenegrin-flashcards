@@ -1,0 +1,14 @@
+{
+  "id": 143,
+  "montenegrin": "izgubiti",
+  "russian": "потерять",
+  "pos": "гл.",
+  "context_ru": "лишиться (сов.)",
+  "dalle_prompt": "person looking for lost item, flat illustration",
+  "status": "pending",
+  "query_text": "потерять\n[гл.  лишиться (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

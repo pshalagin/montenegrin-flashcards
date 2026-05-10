@@ -1,0 +1,14 @@
+{
+  "id": 194,
+  "montenegrin": "dijeliti",
+  "russian": "делить / раздавать",
+  "pos": "гл.",
+  "context_ru": "распределение",
+  "dalle_prompt": "person dividing pizza slices, flat illustration",
+  "status": "pending",
+  "query_text": "делить / раздавать\n[гл.  распределение]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

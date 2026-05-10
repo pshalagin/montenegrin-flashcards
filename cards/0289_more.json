@@ -1,0 +1,14 @@
+{
+  "id": 289,
+  "montenegrin": "more",
+  "russian": "море",
+  "pos": "сущ.",
+  "context_ru": "ср.р.",
+  "dalle_prompt": "beautiful sea ocean view, flat illustration",
+  "status": "pending",
+  "query_text": "море\n[сущ.  ср.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 858,
+  "montenegrin": "pravo",
+  "russian": "право",
+  "pos": "сущ.",
+  "context_ru": "ср.р.",
+  "dalle_prompt": "rights justice balance scale, flat illustration",
+  "status": "pending",
+  "query_text": "право\n[сущ.  ср.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

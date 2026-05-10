@@ -1,0 +1,14 @@
+{
+  "id": 365,
+  "montenegrin": "mlijeko",
+  "russian": "молоко",
+  "pos": "сущ.",
+  "context_ru": "ср.р.",
+  "dalle_prompt": "glass of milk, flat illustration",
+  "status": "pending",
+  "query_text": "молоко\n[сущ.  ср.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

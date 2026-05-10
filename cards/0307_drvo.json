@@ -1,0 +1,14 @@
+{
+  "id": 307,
+  "montenegrin": "drvo",
+  "russian": "дерево (растение)",
+  "pos": "сущ.",
+  "context_ru": "ср.р.",
+  "dalle_prompt": "tree with leaves in nature, flat illustration",
+  "status": "pending",
+  "query_text": "дерево (растение)\n[сущ.  ср.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 826,
+  "montenegrin": "molim",
+  "russian": "пожалуйста",
+  "pos": "мжд.",
+  "context_ru": "вежливая просьба",
+  "dalle_prompt": "polite please gesture, flat illustration",
+  "status": "pending",
+  "query_text": "пожалуйста\n[мжд.  вежливая просьба]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 877,
+  "montenegrin": "festival",
+  "russian": "фестиваль",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "outdoor festival celebration, flat illustration",
+  "status": "pending",
+  "query_text": "фестиваль\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 459,
+  "montenegrin": "parking",
+  "russian": "парковка",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "parking lot with cars, flat illustration",
+  "status": "pending",
+  "query_text": "парковка\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

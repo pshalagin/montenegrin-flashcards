@@ -1,0 +1,14 @@
+{
+  "id": 522,
+  "montenegrin": "advokat",
+  "russian": "адвокат",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "lawyer in court, flat illustration",
+  "status": "pending",
+  "query_text": "адвокат\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

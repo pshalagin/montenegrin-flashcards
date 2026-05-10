@@ -1,0 +1,14 @@
+{
+  "id": 174,
+  "montenegrin": "slaviti",
+  "russian": "праздновать",
+  "pos": "гл.",
+  "context_ru": "отмечать праздник",
+  "dalle_prompt": "people celebrating with decorations, flat illustration",
+  "status": "pending",
+  "query_text": "праздновать\n[гл.  отмечать праздник]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

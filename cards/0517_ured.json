@@ -1,0 +1,14 @@
+{
+  "id": 517,
+  "montenegrin": "ured",
+  "russian": "офис",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "office interior, flat illustration",
+  "status": "pending",
+  "query_text": "офис\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

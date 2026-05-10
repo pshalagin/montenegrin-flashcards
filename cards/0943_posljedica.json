@@ -1,0 +1,14 @@
+{
+  "id": 943,
+  "montenegrin": "posljedica",
+  "russian": "последствие",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "consequence effect domino, flat illustration",
+  "status": "pending",
+  "query_text": "последствие\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

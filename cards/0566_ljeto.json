@@ -1,0 +1,14 @@
+{
+  "id": 566,
+  "montenegrin": "ljeto",
+  "russian": "лето",
+  "pos": "сущ.",
+  "context_ru": "ср.р.",
+  "dalle_prompt": "summer beach scene, flat illustration",
+  "status": "pending",
+  "query_text": "лето\n[сущ.  ср.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

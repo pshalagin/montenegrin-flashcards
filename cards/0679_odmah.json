@@ -1,0 +1,14 @@
+{
+  "id": 679,
+  "montenegrin": "odmah",
+  "russian": "сразу / немедленно",
+  "pos": "нар.",
+  "context_ru": "без промедления",
+  "dalle_prompt": "instant action lightning bolt, flat illustration",
+  "status": "pending",
+  "query_text": "сразу / немедленно\n[нар.  без промедления]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

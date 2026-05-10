@@ -1,0 +1,14 @@
+{
+  "id": 341,
+  "montenegrin": "vuk",
+  "russian": "волк",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "wolf howling, flat illustration",
+  "status": "pending",
+  "query_text": "волк\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

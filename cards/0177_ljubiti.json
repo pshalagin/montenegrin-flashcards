@@ -1,0 +1,14 @@
+{
+  "id": 177,
+  "montenegrin": "ljubiti",
+  "russian": "целовать",
+  "pos": "гл.",
+  "context_ru": "поцелуй",
+  "dalle_prompt": "couple kissing with heart, flat illustration",
+  "status": "pending",
+  "query_text": "целовать\n[гл.  поцелуй]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

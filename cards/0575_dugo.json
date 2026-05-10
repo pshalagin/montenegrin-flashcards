@@ -1,0 +1,14 @@
+{
+  "id": 575,
+  "montenegrin": "dugo",
+  "russian": "долго",
+  "pos": "нар.",
+  "context_ru": "продолж. время",
+  "dalle_prompt": "long timeline arrow, flat illustration",
+  "status": "pending",
+  "query_text": "долго\n[нар.  продолж. время]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

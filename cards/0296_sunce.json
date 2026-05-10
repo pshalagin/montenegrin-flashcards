@@ -1,0 +1,14 @@
+{
+  "id": 296,
+  "montenegrin": "sunce",
+  "russian": "солнце",
+  "pos": "сущ.",
+  "context_ru": "ср.р.",
+  "dalle_prompt": "bright smiling sun shining, flat illustration",
+  "status": "pending",
+  "query_text": "солнце\n[сущ.  ср.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 986,
+  "montenegrin": "analizirati",
+  "russian": "анализировать",
+  "pos": "гл.",
+  "context_ru": "проводить анализ",
+  "dalle_prompt": "person analyzing data chart, flat illustration",
+  "status": "pending",
+  "query_text": "анализировать\n[гл.  проводить анализ]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

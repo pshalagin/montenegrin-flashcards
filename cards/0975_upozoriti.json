@@ -1,0 +1,14 @@
+{
+  "id": 975,
+  "montenegrin": "upozoriti",
+  "russian": "предупредить",
+  "pos": "гл.",
+  "context_ru": "предостеречь (сов.)",
+  "dalle_prompt": "warning sign alert, flat illustration",
+  "status": "pending",
+  "query_text": "предупредить\n[гл.  предостеречь (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

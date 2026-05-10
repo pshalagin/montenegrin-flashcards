@@ -1,0 +1,14 @@
+{
+  "id": 911,
+  "montenegrin": "veličina",
+  "russian": "размер",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "size comparison small and large, flat illustration",
+  "status": "pending",
+  "query_text": "размер\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

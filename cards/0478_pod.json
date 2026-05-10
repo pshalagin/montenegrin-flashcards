@@ -1,0 +1,14 @@
+{
+  "id": 478,
+  "montenegrin": "pod",
+  "russian": "пол",
+  "pos": "сущ.",
+  "context_ru": "м.р. — горизонтальная поверхн.",
+  "dalle_prompt": "floor with pattern, flat illustration",
+  "status": "pending",
+  "query_text": "пол\n[сущ.  м.р. — горизонтальная поверхн.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 867,
+  "montenegrin": "osiguranje",
+  "russian": "страхование",
+  "pos": "сущ.",
+  "context_ru": "ср.р.",
+  "dalle_prompt": "insurance shield umbrella, flat illustration",
+  "status": "pending",
+  "query_text": "страхование\n[сущ.  ср.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

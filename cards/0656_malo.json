@@ -1,0 +1,14 @@
+{
+  "id": 656,
+  "montenegrin": "malo",
+  "russian": "мало / немного",
+  "pos": "нар.",
+  "context_ru": "небольшое количество",
+  "dalle_prompt": "few small items, flat illustration",
+  "status": "pending",
+  "query_text": "мало / немного\n[нар.  небольшое количество]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

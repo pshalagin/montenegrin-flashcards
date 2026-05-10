@@ -1,0 +1,14 @@
+{
+  "id": 784,
+  "montenegrin": "ekran",
+  "russian": "экран",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "screen display, flat illustration",
+  "status": "pending",
+  "query_text": "экран\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

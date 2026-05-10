@@ -1,0 +1,14 @@
+{
+  "id": 291,
+  "montenegrin": "jezero",
+  "russian": "озеро",
+  "pos": "сущ.",
+  "context_ru": "ср.р.",
+  "dalle_prompt": "calm lake with reflection, flat illustration",
+  "status": "pending",
+  "query_text": "озеро\n[сущ.  ср.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

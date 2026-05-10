@@ -1,0 +1,14 @@
+{
+  "id": 422,
+  "montenegrin": "park",
+  "russian": "парк",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "park with trees and benches, flat illustration",
+  "status": "pending",
+  "query_text": "парк\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 724,
+  "montenegrin": "priča",
+  "russian": "история / рассказ",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "open book with story, flat illustration",
+  "status": "pending",
+  "query_text": "история / рассказ\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

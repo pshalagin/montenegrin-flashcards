@@ -1,0 +1,14 @@
+{
+  "id": 63,
+  "montenegrin": "ispred",
+  "russian": "перед / напротив",
+  "pos": "предл.",
+  "context_ru": "спереди",
+  "dalle_prompt": "car parked in front of house, flat illustration",
+  "status": "pending",
+  "query_text": "перед / напротив\n[предл.  спереди]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

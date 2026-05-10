@@ -1,0 +1,14 @@
+{
+  "id": 243,
+  "montenegrin": "sin",
+  "russian": "сын",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "father and son together, flat illustration",
+  "status": "pending",
+  "query_text": "сын\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

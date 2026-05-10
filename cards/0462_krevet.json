@@ -1,0 +1,14 @@
+{
+  "id": 462,
+  "montenegrin": "krevet",
+  "russian": "кровать",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "bed with pillows and blanket, flat illustration",
+  "status": "pending",
+  "query_text": "кровать\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

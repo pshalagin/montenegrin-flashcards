@@ -1,0 +1,14 @@
+{
+  "id": 105,
+  "montenegrin": "staviti",
+  "russian": "положить / поставить",
+  "pos": "гл.",
+  "context_ru": "разместить (сов.)",
+  "dalle_prompt": "person placing object on shelf, flat illustration",
+  "status": "pending",
+  "query_text": "положить / поставить\n[гл.  разместить (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

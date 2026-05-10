@@ -1,0 +1,14 @@
+{
+  "id": 41,
+  "montenegrin": "pedeset",
+  "russian": "пятьдесят",
+  "pos": "числ.",
+  "context_ru": "количест.",
+  "dalle_prompt": "number 50, flat illustration",
+  "status": "pending",
+  "query_text": "пятьдесят\n[числ.  количест.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 612,
+  "montenegrin": "važan",
+  "russian": "важный",
+  "pos": "прил.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "important document marked priority, flat illustration",
+  "status": "pending",
+  "query_text": "важный\n[прил.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

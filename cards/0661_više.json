@@ -1,0 +1,14 @@
+{
+  "id": 661,
+  "montenegrin": "više",
+  "russian": "больше / уже не",
+  "pos": "нар.",
+  "context_ru": "сравнение / отрицание",
+  "dalle_prompt": "more arrows going up, flat illustration",
+  "status": "pending",
+  "query_text": "больше / уже не\n[нар.  сравнение / отрицание]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

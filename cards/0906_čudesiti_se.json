@@ -1,0 +1,14 @@
+{
+  "id": 906,
+  "montenegrin": "čudesiti se",
+  "russian": "удивляться",
+  "pos": "гл.",
+  "context_ru": "испытывать удивление",
+  "dalle_prompt": "astonished person wondering, flat illustration",
+  "status": "pending",
+  "query_text": "удивляться\n[гл.  испытывать удивление]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

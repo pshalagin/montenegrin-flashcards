@@ -1,0 +1,14 @@
+{
+  "id": 175,
+  "montenegrin": "čestitati",
+  "russian": "поздравить",
+  "pos": "гл.",
+  "context_ru": "выразить поздравление (сов.)",
+  "dalle_prompt": "person giving congratulations card, flat illustration",
+  "status": "pending",
+  "query_text": "поздравить\n[гл.  выразить поздравление (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

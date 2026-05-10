@@ -1,0 +1,14 @@
+{
+  "id": 413,
+  "montenegrin": "fakultet",
+  "russian": "университет",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "university campus, flat illustration",
+  "status": "pending",
+  "query_text": "университет\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 892,
+  "montenegrin": "nagraditi",
+  "russian": "наградить",
+  "pos": "гл.",
+  "context_ru": "вручить награду (сов.)",
+  "dalle_prompt": "person receiving award, flat illustration",
+  "status": "pending",
+  "query_text": "наградить\n[гл.  вручить награду (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

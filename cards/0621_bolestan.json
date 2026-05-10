@@ -1,0 +1,14 @@
+{
+  "id": 621,
+  "montenegrin": "bolestan",
+  "russian": "больной",
+  "pos": "прил.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "sick person in bed, flat illustration",
+  "status": "pending",
+  "query_text": "больной\n[прил.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 588,
+  "montenegrin": "spor",
+  "russian": "медленный",
+  "pos": "прил.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "slow snail, flat illustration",
+  "status": "pending",
+  "query_text": "медленный\n[прил.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

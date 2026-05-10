@@ -1,0 +1,14 @@
+{
+  "id": 514,
+  "montenegrin": "džep",
+  "russian": "карман",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "pocket in jeans, flat illustration",
+  "status": "pending",
+  "query_text": "карман\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

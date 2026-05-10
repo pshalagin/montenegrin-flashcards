@@ -1,0 +1,14 @@
+{
+  "id": 84,
+  "montenegrin": "biti",
+  "russian": "быть",
+  "pos": "гл.",
+  "context_ru": "вспомогат. глагол",
+  "dalle_prompt": "glowing abstract existence concept, flat illustration",
+  "status": "pending",
+  "query_text": "быть\n[гл.  вспомогат. глагол]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

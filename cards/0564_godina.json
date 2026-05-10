@@ -1,0 +1,14 @@
+{
+  "id": 564,
+  "montenegrin": "godina",
+  "russian": "год",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "yearly calendar with seasons, flat illustration",
+  "status": "pending",
+  "query_text": "год\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

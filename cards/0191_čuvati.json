@@ -1,0 +1,14 @@
+{
+  "id": 191,
+  "montenegrin": "čuvati",
+  "russian": "хранить / беречь",
+  "pos": "гл.",
+  "context_ru": "бережное хранение",
+  "dalle_prompt": "person guarding a safe, flat illustration",
+  "status": "pending",
+  "query_text": "хранить / беречь\n[гл.  бережное хранение]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

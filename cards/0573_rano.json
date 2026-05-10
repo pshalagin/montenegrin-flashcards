@@ -1,0 +1,14 @@
+{
+  "id": 573,
+  "montenegrin": "rano",
+  "russian": "рано",
+  "pos": "нар.",
+  "context_ru": "в начале дня",
+  "dalle_prompt": "early morning sunrise, flat illustration",
+  "status": "pending",
+  "query_text": "рано\n[нар.  в начале дня]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

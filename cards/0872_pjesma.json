@@ -1,0 +1,14 @@
+{
+  "id": 872,
+  "montenegrin": "pjesma",
+  "russian": "песня / стихотворение",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "musical notes song, flat illustration",
+  "status": "pending",
+  "query_text": "песня / стихотворение\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

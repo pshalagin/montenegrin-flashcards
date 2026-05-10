@@ -1,0 +1,14 @@
+{
+  "id": 859,
+  "montenegrin": "glasanje",
+  "russian": "голосование",
+  "pos": "сущ.",
+  "context_ru": "ср.р.",
+  "dalle_prompt": "voting ballot box, flat illustration",
+  "status": "pending",
+  "query_text": "голосование\n[сущ.  ср.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

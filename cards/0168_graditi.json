@@ -1,0 +1,14 @@
+{
+  "id": 168,
+  "montenegrin": "graditi",
+  "russian": "строить",
+  "pos": "гл.",
+  "context_ru": "возводить постройку",
+  "dalle_prompt": "person building a house, flat illustration",
+  "status": "pending",
+  "query_text": "строить\n[гл.  возводить постройку]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

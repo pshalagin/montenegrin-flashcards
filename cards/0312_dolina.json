@@ -1,0 +1,14 @@
+{
+  "id": 312,
+  "montenegrin": "dolina",
+  "russian": "долина",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "green valley between mountains, flat illustration",
+  "status": "pending",
+  "query_text": "долина\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

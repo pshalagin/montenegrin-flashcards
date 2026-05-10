@@ -1,0 +1,14 @@
+{
+  "id": 400,
+  "montenegrin": "kolač",
+  "russian": "торт / пирожное",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "cake slice, flat illustration",
+  "status": "pending",
+  "query_text": "торт / пирожное\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

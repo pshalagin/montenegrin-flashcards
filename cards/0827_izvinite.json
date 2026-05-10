@@ -1,0 +1,14 @@
+{
+  "id": 827,
+  "montenegrin": "izvinite",
+  "russian": "извините",
+  "pos": "мжд.",
+  "context_ru": "вежл. форма",
+  "dalle_prompt": "formal apology person, flat illustration",
+  "status": "pending",
+  "query_text": "извините\n[мжд.  вежл. форма]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

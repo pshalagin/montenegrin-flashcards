@@ -1,0 +1,14 @@
+{
+  "id": 571,
+  "montenegrin": "juče",
+  "russian": "вчера",
+  "pos": "нар.",
+  "context_ru": "предыдущий день",
+  "dalle_prompt": "calendar arrow back to yesterday, flat illustration",
+  "status": "pending",
+  "query_text": "вчера\n[нар.  предыдущий день]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

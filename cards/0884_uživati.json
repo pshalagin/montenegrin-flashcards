@@ -1,0 +1,14 @@
+{
+  "id": 884,
+  "montenegrin": "uživati",
+  "russian": "наслаждаться",
+  "pos": "гл.",
+  "context_ru": "получать удовольствие",
+  "dalle_prompt": "person enjoying nature, flat illustration",
+  "status": "pending",
+  "query_text": "наслаждаться\n[гл.  получать удовольствие]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

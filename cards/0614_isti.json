@@ -1,0 +1,14 @@
+{
+  "id": 614,
+  "montenegrin": "isti",
+  "russian": "одинаковый / тот же",
+  "pos": "прил.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "identical twins or same objects, flat illustration",
+  "status": "pending",
+  "query_text": "одинаковый / тот же\n[прил.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

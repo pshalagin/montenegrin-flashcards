@@ -1,0 +1,14 @@
+{
+  "id": 387,
+  "montenegrin": "krompir",
+  "russian": "картошка",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "potatoes on table, flat illustration",
+  "status": "pending",
+  "query_text": "картошка\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

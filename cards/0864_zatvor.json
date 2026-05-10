@@ -1,0 +1,14 @@
+{
+  "id": 864,
+  "montenegrin": "zatvor",
+  "russian": "тюрьма",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "prison bars, flat illustration",
+  "status": "pending",
+  "query_text": "тюрьма\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

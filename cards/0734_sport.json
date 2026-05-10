@@ -1,0 +1,14 @@
+{
+  "id": 734,
+  "montenegrin": "sport",
+  "russian": "спорт",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "various sports equipment, flat illustration",
+  "status": "pending",
+  "query_text": "спорт\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

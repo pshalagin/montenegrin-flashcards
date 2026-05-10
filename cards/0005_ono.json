@@ -1,0 +1,14 @@
+{
+  "id": 5,
+  "montenegrin": "ono",
+  "russian": "оно",
+  "pos": "местоим.",
+  "context_ru": "ср.р. ед.ч.",
+  "dalle_prompt": "various neutral objects, simple flat illustration",
+  "status": "pending",
+  "query_text": "оно\n[местоим.  ср.р. ед.ч.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

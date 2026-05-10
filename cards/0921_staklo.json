@@ -1,0 +1,14 @@
+{
+  "id": 921,
+  "montenegrin": "staklo",
+  "russian": "стекло",
+  "pos": "сущ.",
+  "context_ru": "ср.р.",
+  "dalle_prompt": "glass material transparent, flat illustration",
+  "status": "pending",
+  "query_text": "стекло\n[сущ.  ср.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

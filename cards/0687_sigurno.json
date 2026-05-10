@@ -1,0 +1,14 @@
+{
+  "id": 687,
+  "montenegrin": "sigurno",
+  "russian": "точно / наверняка",
+  "pos": "нар.",
+  "context_ru": "уверенность",
+  "dalle_prompt": "certain lock closed, flat illustration",
+  "status": "pending",
+  "query_text": "точно / наверняка\n[нар.  уверенность]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

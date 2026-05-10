@@ -1,0 +1,14 @@
+{
+  "id": 359,
+  "montenegrin": "hrana",
+  "russian": "еда / пища",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "variety of food on table, flat illustration",
+  "status": "pending",
+  "query_text": "еда / пища\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

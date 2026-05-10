@@ -1,0 +1,14 @@
+{
+  "id": 129,
+  "montenegrin": "voljeti",
+  "russian": "любить",
+  "pos": "гл.",
+  "context_ru": "испытывать любовь",
+  "dalle_prompt": "heart symbol love illustration, flat",
+  "status": "pending",
+  "query_text": "любить\n[гл.  испытывать любовь]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

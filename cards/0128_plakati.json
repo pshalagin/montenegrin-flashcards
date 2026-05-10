@@ -1,0 +1,14 @@
+{
+  "id": 128,
+  "montenegrin": "plakati",
+  "russian": "плакать",
+  "pos": "гл.",
+  "context_ru": "выражение горя",
+  "dalle_prompt": "person crying with tears, flat illustration",
+  "status": "pending",
+  "query_text": "плакать\n[гл.  выражение горя]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

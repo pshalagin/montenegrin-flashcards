@@ -1,0 +1,14 @@
+{
+  "id": 24,
+  "montenegrin": "svako",
+  "russian": "каждый",
+  "pos": "местоим.",
+  "context_ru": "каждый по одному",
+  "dalle_prompt": "individuals highlighted in crowd, flat illustration",
+  "status": "pending",
+  "query_text": "каждый\n[местоим.  каждый по одному]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

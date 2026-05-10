@@ -1,0 +1,14 @@
+{
+  "id": 97,
+  "montenegrin": "raditi",
+  "russian": "работать / делать",
+  "pos": "гл.",
+  "context_ru": "труд / деятельность",
+  "dalle_prompt": "person working at desk, flat illustration",
+  "status": "pending",
+  "query_text": "работать / делать\n[гл.  труд / деятельность]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 380,
+  "montenegrin": "banana",
+  "russian": "банан",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "yellow banana, flat illustration",
+  "status": "pending",
+  "query_text": "банан\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

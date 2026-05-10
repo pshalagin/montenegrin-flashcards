@@ -1,0 +1,14 @@
+{
+  "id": 789,
+  "montenegrin": "program",
+  "russian": "программа",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "software program interface, flat illustration",
+  "status": "pending",
+  "query_text": "программа\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

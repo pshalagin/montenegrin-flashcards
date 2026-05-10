@@ -1,0 +1,14 @@
+{
+  "id": 293,
+  "montenegrin": "šuma",
+  "russian": "лес",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "forest with tall trees, flat illustration",
+  "status": "pending",
+  "query_text": "лес\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

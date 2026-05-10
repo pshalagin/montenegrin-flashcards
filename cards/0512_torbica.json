@@ -1,0 +1,14 @@
+{
+  "id": 512,
+  "montenegrin": "torbica",
+  "russian": "сумка",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "handbag purse, flat illustration",
+  "status": "pending",
+  "query_text": "сумка\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

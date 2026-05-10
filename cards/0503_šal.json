@@ -1,0 +1,14 @@
+{
+  "id": 503,
+  "montenegrin": "šal",
+  "russian": "шарф",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "scarf, flat illustration",
+  "status": "pending",
+  "query_text": "шарф\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

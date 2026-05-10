@@ -1,0 +1,14 @@
+{
+  "id": 164,
+  "montenegrin": "kupati se",
+  "russian": "купаться",
+  "pos": "гл.",
+  "context_ru": "принятие ванны / купание",
+  "dalle_prompt": "person bathing in tub, flat illustration",
+  "status": "pending",
+  "query_text": "купаться\n[гл.  принятие ванны / купание]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

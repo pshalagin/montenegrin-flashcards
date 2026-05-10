@@ -1,0 +1,14 @@
+{
+  "id": 547,
+  "montenegrin": "predmet",
+  "russian": "предмет / урок",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "school subjects icons, flat illustration",
+  "status": "pending",
+  "query_text": "предмет / урок\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 428,
+  "montenegrin": "most",
+  "russian": "мост",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "bridge over river, flat illustration",
+  "status": "pending",
+  "query_text": "мост\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

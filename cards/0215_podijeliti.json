@@ -1,0 +1,14 @@
+{
+  "id": 215,
+  "montenegrin": "podijeliti",
+  "russian": "разделить / поделиться",
+  "pos": "гл.",
+  "context_ru": "дать часть другому (сов.)",
+  "dalle_prompt": "person sharing food with friend, flat illustration",
+  "status": "pending",
+  "query_text": "разделить / поделиться\n[гл.  дать часть другому (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

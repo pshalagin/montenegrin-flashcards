@@ -1,0 +1,14 @@
+{
+  "id": 155,
+  "montenegrin": "posjetiti",
+  "russian": "посетить",
+  "pos": "гл.",
+  "context_ru": "нанести визит (сов.)",
+  "dalle_prompt": "person visiting friend at home, flat illustration",
+  "status": "pending",
+  "query_text": "посетить\n[гл.  нанести визит (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

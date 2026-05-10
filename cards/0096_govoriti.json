@@ -1,0 +1,14 @@
+{
+  "id": 96,
+  "montenegrin": "govoriti",
+  "russian": "говорить",
+  "pos": "гл.",
+  "context_ru": "несов. вид",
+  "dalle_prompt": "person speaking to group, flat illustration",
+  "status": "pending",
+  "query_text": "говорить\n[гл.  несов. вид]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

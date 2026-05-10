@@ -1,0 +1,14 @@
+{
+  "id": 804,
+  "montenegrin": "iznos",
+  "russian": "сумма",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "total amount calculator, flat illustration",
+  "status": "pending",
+  "query_text": "сумма\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

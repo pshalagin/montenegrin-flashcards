@@ -1,0 +1,14 @@
+{
+  "id": 66,
+  "montenegrin": "prema",
+  "russian": "к / по направл.",
+  "pos": "предл.",
+  "context_ru": "направление",
+  "dalle_prompt": "arrow pointing toward a target, flat illustration",
+  "status": "pending",
+  "query_text": "к / по направл.\n[предл.  направление]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

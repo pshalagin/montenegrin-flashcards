@@ -1,0 +1,14 @@
+{
+  "id": 741,
+  "montenegrin": "temperatura (tjelesna)",
+  "russian": "температура (тела)",
+  "pos": "сущ.",
+  "context_ru": "ж.р. — жар / лихорадка",
+  "dalle_prompt": "thermometer on forehead, flat illustration",
+  "status": "pending",
+  "query_text": "температура (тела)\n[сущ.  ж.р. — жар / лихорадка]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

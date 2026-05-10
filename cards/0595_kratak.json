@@ -1,0 +1,14 @@
+{
+  "id": 595,
+  "montenegrin": "kratak",
+  "russian": "короткий",
+  "pos": "прил.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "short small object comparison, flat illustration",
+  "status": "pending",
+  "query_text": "короткий\n[прил.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 475,
+  "montenegrin": "usisivač",
+  "russian": "пылесос",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "vacuum cleaner, flat illustration",
+  "status": "pending",
+  "query_text": "пылесос\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

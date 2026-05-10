@@ -1,0 +1,14 @@
+{
+  "id": 542,
+  "montenegrin": "olovka",
+  "russian": "карандаш",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "pencil, flat illustration",
+  "status": "pending",
+  "query_text": "карандаш\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

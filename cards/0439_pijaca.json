@@ -1,0 +1,14 @@
+{
+  "id": 439,
+  "montenegrin": "pijaca",
+  "russian": "рынок",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "open air market stalls, flat illustration",
+  "status": "pending",
+  "query_text": "рынок\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

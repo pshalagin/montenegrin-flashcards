@@ -1,0 +1,14 @@
+{
+  "id": 329,
+  "montenegrin": "pas",
+  "russian": "собака",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "friendly dog sitting, flat illustration",
+  "status": "pending",
+  "query_text": "собака\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

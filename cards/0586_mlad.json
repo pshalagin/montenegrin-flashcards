@@ -1,0 +1,14 @@
+{
+  "id": 586,
+  "montenegrin": "mlad",
+  "russian": "молодой",
+  "pos": "прил.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "young person, flat illustration",
+  "status": "pending",
+  "query_text": "молодой\n[прил.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

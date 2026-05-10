@@ -1,0 +1,14 @@
+{
+  "id": 301,
+  "montenegrin": "snijeg",
+  "russian": "снег",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "snowfall snowy landscape, flat illustration",
+  "status": "pending",
+  "query_text": "снег\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

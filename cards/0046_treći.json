@@ -1,0 +1,14 @@
+{
+  "id": 46,
+  "montenegrin": "treći",
+  "russian": "третий",
+  "pos": "числ.",
+  "context_ru": "порядков. м.р.",
+  "dalle_prompt": "bronze medal third place podium, flat illustration",
+  "status": "pending",
+  "query_text": "третий\n[числ.  порядков. м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

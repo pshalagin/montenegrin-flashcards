@@ -1,0 +1,14 @@
+{
+  "id": 418,
+  "montenegrin": "kafić",
+  "russian": "кафе",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "cozy cafe interior, flat illustration",
+  "status": "pending",
+  "query_text": "кафе\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

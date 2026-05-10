@@ -1,0 +1,14 @@
+{
+  "id": 791,
+  "montenegrin": "poruka",
+  "russian": "сообщение",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "chat message bubble, flat illustration",
+  "status": "pending",
+  "query_text": "сообщение\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 316,
+  "montenegrin": "otok",
+  "russian": "остров",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "small tropical island, flat illustration",
+  "status": "pending",
+  "query_text": "остров\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 56,
+  "montenegrin": "pri",
+  "russian": "при / у",
+  "pos": "предл.",
+  "context_ru": "нахождение рядом",
+  "dalle_prompt": "person standing near building, flat illustration",
+  "status": "pending",
+  "query_text": "при / у\n[предл.  нахождение рядом]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

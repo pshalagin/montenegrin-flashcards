@@ -1,0 +1,14 @@
+{
+  "id": 515,
+  "montenegrin": "posao",
+  "russian": "работа / занятие",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "person working at desk, flat illustration",
+  "status": "pending",
+  "query_text": "работа / занятие\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

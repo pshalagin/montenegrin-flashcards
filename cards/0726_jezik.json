@@ -1,0 +1,14 @@
+{
+  "id": 726,
+  "montenegrin": "jezik",
+  "russian": "язык (речь)",
+  "pos": "сущ.",
+  "context_ru": "м.р. — средство общения",
+  "dalle_prompt": "speech bubbles different languages, flat illustration",
+  "status": "pending",
+  "query_text": "язык (речь)\n[сущ.  м.р. — средство общения]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

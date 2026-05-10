@@ -1,0 +1,14 @@
+{
+  "id": 13,
+  "montenegrin": "njen",
+  "russian": "её",
+  "pos": "местоим.",
+  "context_ru": "притяж. ж.р.",
+  "dalle_prompt": "woman pointing to her things, flat illustration",
+  "status": "pending",
+  "query_text": "её\n[местоим.  притяж. ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

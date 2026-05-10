@@ -1,0 +1,14 @@
+{
+  "id": 474,
+  "montenegrin": "mašina za pranje",
+  "russian": "стиральная машина",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "washing machine, flat illustration",
+  "status": "pending",
+  "query_text": "стиральная машина\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

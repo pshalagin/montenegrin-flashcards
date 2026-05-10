@@ -1,0 +1,14 @@
+{
+  "id": 141,
+  "montenegrin": "početi",
+  "russian": "начать",
+  "pos": "гл.",
+  "context_ru": "приступить (сов.)",
+  "dalle_prompt": "start button beginning of journey, flat illustration",
+  "status": "pending",
+  "query_text": "начать\n[гл.  приступить (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

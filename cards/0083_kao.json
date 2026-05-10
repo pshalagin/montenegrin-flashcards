@@ -1,0 +1,14 @@
+{
+  "id": 83,
+  "montenegrin": "kao",
+  "russian": "как / словно",
+  "pos": "союз",
+  "context_ru": "сравнение",
+  "dalle_prompt": "two similar things being compared, flat illustration",
+  "status": "pending",
+  "query_text": "как / словно\n[союз  сравнение]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

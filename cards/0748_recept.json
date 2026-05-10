@@ -1,0 +1,14 @@
+{
+  "id": 748,
+  "montenegrin": "recept",
+  "russian": "рецепт (медицинский)",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "doctor writing prescription, flat illustration",
+  "status": "pending",
+  "query_text": "рецепт (медицинский)\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

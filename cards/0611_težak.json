@@ -1,0 +1,14 @@
+{
+  "id": 611,
+  "montenegrin": "težak",
+  "russian": "тяжёлый / сложный",
+  "pos": "прил.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "heavy boulder or difficult task, flat illustration",
+  "status": "pending",
+  "query_text": "тяжёлый / сложный\n[прил.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

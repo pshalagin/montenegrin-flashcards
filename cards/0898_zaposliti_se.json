@@ -1,0 +1,14 @@
+{
+  "id": 898,
+  "montenegrin": "zaposliti se",
+  "russian": "устроиться на работу",
+  "pos": "гл.",
+  "context_ru": "найти работу (сов.)",
+  "dalle_prompt": "person starting new job, flat illustration",
+  "status": "pending",
+  "query_text": "устроиться на работу\n[гл.  найти работу (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

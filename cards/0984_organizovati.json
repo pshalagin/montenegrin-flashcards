@@ -1,0 +1,14 @@
+{
+  "id": 984,
+  "montenegrin": "organizovati",
+  "russian": "организовать",
+  "pos": "гл.",
+  "context_ru": "устроить / упорядочить",
+  "dalle_prompt": "person organizing planning, flat illustration",
+  "status": "pending",
+  "query_text": "организовать\n[гл.  устроить / упорядочить]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

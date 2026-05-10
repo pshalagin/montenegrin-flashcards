@@ -1,0 +1,14 @@
+{
+  "id": 849,
+  "montenegrin": "zaštita prirode",
+  "russian": "охрана природы",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "nature conservation leaf shield, flat illustration",
+  "status": "pending",
+  "query_text": "охрана природы\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 786,
+  "montenegrin": "punjač",
+  "russian": "зарядное устройство",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "phone charger plugged in, flat illustration",
+  "status": "pending",
+  "query_text": "зарядное устройство\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

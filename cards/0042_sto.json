@@ -1,0 +1,14 @@
+{
+  "id": 42,
+  "montenegrin": "sto",
+  "russian": "сто",
+  "pos": "числ.",
+  "context_ru": "количест.",
+  "dalle_prompt": "number 100 on badge, flat illustration",
+  "status": "pending",
+  "query_text": "сто\n[числ.  количест.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

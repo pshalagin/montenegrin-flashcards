@@ -1,0 +1,14 @@
+{
+  "id": 95,
+  "montenegrin": "misliti",
+  "russian": "думать",
+  "pos": "гл.",
+  "context_ru": "мыслительный процесс",
+  "dalle_prompt": "person thinking with thought bubble, flat illustration",
+  "status": "pending",
+  "query_text": "думать\n[гл.  мыслительный процесс]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 328,
+  "montenegrin": "suša",
+  "russian": "засуха",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "cracked dry earth drought, flat illustration",
+  "status": "pending",
+  "query_text": "засуха\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

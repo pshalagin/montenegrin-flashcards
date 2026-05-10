@@ -1,0 +1,14 @@
+{
+  "id": 672,
+  "montenegrin": "daleko",
+  "russian": "далеко",
+  "pos": "нар.",
+  "context_ru": "большое расстояние",
+  "dalle_prompt": "far distant horizon, flat illustration",
+  "status": "pending",
+  "query_text": "далеко\n[нар.  большое расстояние]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

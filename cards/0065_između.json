@@ -1,0 +1,14 @@
+{
+  "id": 65,
+  "montenegrin": "između",
+  "russian": "между",
+  "pos": "предл.",
+  "context_ru": "в промежутке",
+  "dalle_prompt": "object between two others, flat illustration",
+  "status": "pending",
+  "query_text": "между\n[предл.  в промежутке]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

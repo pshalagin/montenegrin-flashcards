@@ -1,0 +1,14 @@
+{
+  "id": 297,
+  "montenegrin": "mjesec",
+  "russian": "луна / месяц",
+  "pos": "сущ.",
+  "context_ru": "м.р. — небесное тело",
+  "dalle_prompt": "moon in night sky, flat illustration",
+  "status": "pending",
+  "query_text": "луна / месяц\n[сущ.  м.р. — небесное тело]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

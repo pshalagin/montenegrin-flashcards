@@ -1,0 +1,14 @@
+{
+  "id": 977,
+  "montenegrin": "preporučiti",
+  "russian": "порекомендовать",
+  "pos": "гл.",
+  "context_ru": "дать совет (сов.)",
+  "dalle_prompt": "person giving recommendation, flat illustration",
+  "status": "pending",
+  "query_text": "порекомендовать\n[гл.  дать совет (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

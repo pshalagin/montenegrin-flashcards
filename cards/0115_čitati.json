@@ -1,0 +1,14 @@
+{
+  "id": 115,
+  "montenegrin": "čitati",
+  "russian": "читать",
+  "pos": "гл.",
+  "context_ru": "чтение текста",
+  "dalle_prompt": "person reading a book, flat illustration",
+  "status": "pending",
+  "query_text": "читать\n[гл.  чтение текста]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

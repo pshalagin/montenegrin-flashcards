@@ -1,0 +1,14 @@
+{
+  "id": 982,
+  "montenegrin": "riješiti",
+  "russian": "решить (задачу)",
+  "pos": "гл.",
+  "context_ru": "найти решение (сов.)",
+  "dalle_prompt": "person solving puzzle, flat illustration",
+  "status": "pending",
+  "query_text": "решить (задачу)\n[гл.  найти решение (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

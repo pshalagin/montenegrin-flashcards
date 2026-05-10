@@ -1,0 +1,14 @@
+{
+  "id": 616,
+  "montenegrin": "slobodan",
+  "russian": "свободный",
+  "pos": "прил.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "free bird or free person, flat illustration",
+  "status": "pending",
+  "query_text": "свободный\n[прил.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

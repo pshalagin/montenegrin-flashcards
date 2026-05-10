@@ -1,0 +1,14 @@
+{
+  "id": 985,
+  "montenegrin": "planirati",
+  "russian": "планировать",
+  "pos": "гл.",
+  "context_ru": "составлять план",
+  "dalle_prompt": "person planning calendar, flat illustration",
+  "status": "pending",
+  "query_text": "планировать\n[гл.  составлять план]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

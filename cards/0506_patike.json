@@ -1,0 +1,14 @@
+{
+  "id": 506,
+  "montenegrin": "patike",
+  "russian": "кроссовки",
+  "pos": "сущ.",
+  "context_ru": "мн.ч. ж.р.",
+  "dalle_prompt": "sneakers trainers, flat illustration",
+  "status": "pending",
+  "query_text": "кроссовки\n[сущ.  мн.ч. ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

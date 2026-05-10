@@ -1,0 +1,14 @@
+{
+  "id": 647,
+  "montenegrin": "poseban",
+  "russian": "особенный",
+  "pos": "прил.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "special unique item highlighted, flat illustration",
+  "status": "pending",
+  "query_text": "особенный\n[прил.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 196,
+  "montenegrin": "bacati",
+  "russian": "бросать",
+  "pos": "гл.",
+  "context_ru": "метание предмета",
+  "dalle_prompt": "person throwing a ball, flat illustration",
+  "status": "pending",
+  "query_text": "бросать\n[гл.  метание предмета]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

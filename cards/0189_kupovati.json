@@ -1,0 +1,14 @@
+{
+  "id": 189,
+  "montenegrin": "kupovati",
+  "russian": "покупать",
+  "pos": "гл.",
+  "context_ru": "шоппинг (несов.)",
+  "dalle_prompt": "person shopping with cart, flat illustration",
+  "status": "pending",
+  "query_text": "покупать\n[гл.  шоппинг (несов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

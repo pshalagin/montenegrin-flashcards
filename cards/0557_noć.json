@@ -1,0 +1,14 @@
+{
+  "id": 557,
+  "montenegrin": "noć",
+  "russian": "ночь",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "night sky with moon and stars, flat illustration",
+  "status": "pending",
+  "query_text": "ночь\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

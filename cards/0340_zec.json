@@ -1,0 +1,14 @@
+{
+  "id": 340,
+  "montenegrin": "zec",
+  "russian": "заяц / кролик",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "rabbit with long ears, flat illustration",
+  "status": "pending",
+  "query_text": "заяц / кролик\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 369,
+  "montenegrin": "šećer",
+  "russian": "сахар",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "sugar in bowl, flat illustration",
+  "status": "pending",
+  "query_text": "сахар\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

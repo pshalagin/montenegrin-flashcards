@@ -1,0 +1,14 @@
+{
+  "id": 72,
+  "montenegrin": "ili",
+  "russian": "или",
+  "pos": "союз",
+  "context_ru": "разделит.",
+  "dalle_prompt": "fork in a road two choices, flat illustration",
+  "status": "pending",
+  "query_text": "или\n[союз  разделит.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

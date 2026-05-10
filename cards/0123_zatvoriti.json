@@ -1,0 +1,14 @@
+{
+  "id": 123,
+  "montenegrin": "zatvoriti",
+  "russian": "закрыть",
+  "pos": "гл.",
+  "context_ru": "замкнуть (сов.)",
+  "dalle_prompt": "person closing a door, flat illustration",
+  "status": "pending",
+  "query_text": "закрыть\n[гл.  замкнуть (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

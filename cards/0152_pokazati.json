@@ -1,0 +1,14 @@
+{
+  "id": 152,
+  "montenegrin": "pokazati",
+  "russian": "показать",
+  "pos": "гл.",
+  "context_ru": "продемонстрировать (сов.)",
+  "dalle_prompt": "person pointing to something, flat illustration",
+  "status": "pending",
+  "query_text": "показать\n[гл.  продемонстрировать (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

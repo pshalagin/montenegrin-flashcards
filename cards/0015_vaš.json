@@ -1,0 +1,14 @@
+{
+  "id": 15,
+  "montenegrin": "vaš",
+  "russian": "ваш",
+  "pos": "местоим.",
+  "context_ru": "притяж. 2-е л. мн.ч.",
+  "dalle_prompt": "person offering something to a group, flat illustration",
+  "status": "pending",
+  "query_text": "ваш\n[местоим.  притяж. 2-е л. мн.ч.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

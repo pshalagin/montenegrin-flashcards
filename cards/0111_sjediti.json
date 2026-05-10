@@ -1,0 +1,14 @@
+{
+  "id": 111,
+  "montenegrin": "sjediti",
+  "russian": "сидеть",
+  "pos": "гл.",
+  "context_ru": "положение сидя",
+  "dalle_prompt": "person sitting on a chair, flat illustration",
+  "status": "pending",
+  "query_text": "сидеть\n[гл.  положение сидя]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

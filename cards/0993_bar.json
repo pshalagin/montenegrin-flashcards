@@ -1,0 +1,14 @@
+{
+  "id": 993,
+  "montenegrin": "bar",
+  "russian": "хотя бы / по крайней мере",
+  "pos": "нар.",
+  "context_ru": "минимальное требование",
+  "dalle_prompt": "at least minimum bar, flat illustration",
+  "status": "pending",
+  "query_text": "хотя бы / по крайней мере\n[нар.  минимальное требование]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

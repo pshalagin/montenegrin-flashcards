@@ -1,0 +1,14 @@
+{
+  "id": 121,
+  "montenegrin": "prodati",
+  "russian": "продать",
+  "pos": "гл.",
+  "context_ru": "реализовать (сов.)",
+  "dalle_prompt": "person selling at market stall, flat illustration",
+  "status": "pending",
+  "query_text": "продать\n[гл.  реализовать (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

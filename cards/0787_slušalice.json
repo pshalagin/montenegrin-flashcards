@@ -1,0 +1,14 @@
+{
+  "id": 787,
+  "montenegrin": "slušalice",
+  "russian": "наушники",
+  "pos": "сущ.",
+  "context_ru": "мн.ч. ж.р.",
+  "dalle_prompt": "headphones, flat illustration",
+  "status": "pending",
+  "query_text": "наушники\n[сущ.  мн.ч. ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

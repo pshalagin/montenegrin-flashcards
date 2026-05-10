@@ -1,0 +1,14 @@
+{
+  "id": 446,
+  "montenegrin": "voz",
+  "russian": "поезд",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "train on tracks, flat illustration",
+  "status": "pending",
+  "query_text": "поезд\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

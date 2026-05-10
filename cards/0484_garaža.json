@@ -1,0 +1,14 @@
+{
+  "id": 484,
+  "montenegrin": "garaža",
+  "russian": "гараж",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "garage with car inside, flat illustration",
+  "status": "pending",
+  "query_text": "гараж\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

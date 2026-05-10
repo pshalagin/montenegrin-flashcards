@@ -1,0 +1,14 @@
+{
+  "id": 972,
+  "montenegrin": "zainteresovati",
+  "russian": "заинтересовать",
+  "pos": "гл.",
+  "context_ru": "вызвать интерес (сов.)",
+  "dalle_prompt": "person showing interest curiosity, flat illustration",
+  "status": "pending",
+  "query_text": "заинтересовать\n[гл.  вызвать интерес (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

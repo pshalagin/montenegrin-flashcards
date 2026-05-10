@@ -1,0 +1,14 @@
+{
+  "id": 999,
+  "montenegrin": "otprilike",
+  "russian": "примерно / приблизительно",
+  "pos": "нар.",
+  "context_ru": "неточное число",
+  "dalle_prompt": "approximately tilde symbol, flat illustration",
+  "status": "pending",
+  "query_text": "примерно / приблизительно\n[нар.  неточное число]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

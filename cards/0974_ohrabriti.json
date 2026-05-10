@@ -1,0 +1,14 @@
+{
+  "id": 974,
+  "montenegrin": "ohrabriti",
+  "russian": "ободрить / поощрить",
+  "pos": "гл.",
+  "context_ru": "придать смелости (сов.)",
+  "dalle_prompt": "person encouraging another, flat illustration",
+  "status": "pending",
+  "query_text": "ободрить / поощрить\n[гл.  придать смелости (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

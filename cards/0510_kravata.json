@@ -1,0 +1,14 @@
+{
+  "id": 510,
+  "montenegrin": "kravata",
+  "russian": "галстук",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "necktie, flat illustration",
+  "status": "pending",
+  "query_text": "галстук\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 99,
+  "montenegrin": "naći",
+  "russian": "найти",
+  "pos": "гл.",
+  "context_ru": "обнаружить (сов.)",
+  "dalle_prompt": "person finding a lost key, flat illustration",
+  "status": "pending",
+  "query_text": "найти\n[гл.  обнаружить (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 171,
+  "montenegrin": "plivati",
+  "russian": "плавать",
+  "pos": "гл.",
+  "context_ru": "плавание",
+  "dalle_prompt": "person swimming in pool, flat illustration",
+  "status": "pending",
+  "query_text": "плавать\n[гл.  плавание]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

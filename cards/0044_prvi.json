@@ -1,0 +1,14 @@
+{
+  "id": 44,
+  "montenegrin": "prvi",
+  "russian": "первый",
+  "pos": "числ.",
+  "context_ru": "порядков. м.р.",
+  "dalle_prompt": "gold medal first place podium, flat illustration",
+  "status": "pending",
+  "query_text": "первый\n[числ.  порядков. м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

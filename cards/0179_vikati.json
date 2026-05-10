@@ -1,0 +1,14 @@
+{
+  "id": 179,
+  "montenegrin": "vikati",
+  "russian": "кричать",
+  "pos": "гл.",
+  "context_ru": "громкий голос",
+  "dalle_prompt": "person shouting with megaphone, flat illustration",
+  "status": "pending",
+  "query_text": "кричать\n[гл.  громкий голос]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

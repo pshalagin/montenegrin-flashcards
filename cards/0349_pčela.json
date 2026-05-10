@@ -1,0 +1,14 @@
+{
+  "id": 349,
+  "montenegrin": "pčela",
+  "russian": "пчела",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "bee collecting pollen, flat illustration",
+  "status": "pending",
+  "query_text": "пчела\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

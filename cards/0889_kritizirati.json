@@ -1,0 +1,14 @@
+{
+  "id": 889,
+  "montenegrin": "kritizirati",
+  "russian": "критиковать",
+  "pos": "гл.",
+  "context_ru": "высказывать критику",
+  "dalle_prompt": "critic reviewing work, flat illustration",
+  "status": "pending",
+  "query_text": "критиковать\n[гл.  высказывать критику]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

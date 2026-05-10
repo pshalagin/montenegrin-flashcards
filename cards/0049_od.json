@@ -1,0 +1,14 @@
+{
+  "id": 49,
+  "montenegrin": "od",
+  "russian": "от / из / у",
+  "pos": "предл.",
+  "context_ru": "исходная точка / принадл.",
+  "dalle_prompt": "arrow moving away from a point, flat illustration",
+  "status": "pending",
+  "query_text": "от / из / у\n[предл.  исходная точка / принадл.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

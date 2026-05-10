@@ -1,0 +1,14 @@
+{
+  "id": 195,
+  "montenegrin": "skupljati",
+  "russian": "собирать",
+  "pos": "гл.",
+  "context_ru": "коллекционирование",
+  "dalle_prompt": "person collecting items in bag, flat illustration",
+  "status": "pending",
+  "query_text": "собирать\n[гл.  коллекционирование]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

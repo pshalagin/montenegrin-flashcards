@@ -1,0 +1,14 @@
+{
+  "id": 599,
+  "montenegrin": "mršav",
+  "russian": "худой / тонкий",
+  "pos": "прил.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "thin slim figure, flat illustration",
+  "status": "pending",
+  "query_text": "худой / тонкий\n[прил.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

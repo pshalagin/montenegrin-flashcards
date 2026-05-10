@@ -1,0 +1,14 @@
+{
+  "id": 102,
+  "montenegrin": "živjeti",
+  "russian": "жить",
+  "pos": "гл.",
+  "context_ru": "существовать / проживать",
+  "dalle_prompt": "person in their home happy, flat illustration",
+  "status": "pending",
+  "query_text": "жить\n[гл.  существовать / проживать]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

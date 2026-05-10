@@ -1,0 +1,14 @@
+{
+  "id": 223,
+  "montenegrin": "zaključiti",
+  "russian": "заключить / сделать вывод",
+  "pos": "гл.",
+  "context_ru": "умозаключение (сов.)",
+  "dalle_prompt": "person concluding presentation, flat illustration",
+  "status": "pending",
+  "query_text": "заключить / сделать вывод\n[гл.  умозаключение (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

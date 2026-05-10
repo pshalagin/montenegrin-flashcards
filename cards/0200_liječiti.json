@@ -1,0 +1,14 @@
+{
+  "id": 200,
+  "montenegrin": "liječiti",
+  "russian": "лечить",
+  "pos": "гл.",
+  "context_ru": "медицинское лечение",
+  "dalle_prompt": "doctor treating patient, flat illustration",
+  "status": "pending",
+  "query_text": "лечить\n[гл.  медицинское лечение]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

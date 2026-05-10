@@ -1,0 +1,14 @@
+{
+  "id": 81,
+  "montenegrin": "nego",
+  "russian": "а не / чем",
+  "pos": "союз",
+  "context_ru": "сравнит. / противит.",
+  "dalle_prompt": "comparison scale tipping, flat illustration",
+  "status": "pending",
+  "query_text": "а не / чем\n[союз  сравнит. / противит.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

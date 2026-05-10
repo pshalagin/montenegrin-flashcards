@@ -1,0 +1,14 @@
+{
+  "id": 895,
+  "montenegrin": "oženiti se",
+  "russian": "жениться",
+  "pos": "гл.",
+  "context_ru": "вступить в брак (м.р., сов.)",
+  "dalle_prompt": "groom wedding ceremony, flat illustration",
+  "status": "pending",
+  "query_text": "жениться\n[гл.  вступить в брак (м.р., сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

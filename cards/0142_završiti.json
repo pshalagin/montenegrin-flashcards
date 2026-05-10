@@ -1,0 +1,14 @@
+{
+  "id": 142,
+  "montenegrin": "završiti",
+  "russian": "закончить",
+  "pos": "гл.",
+  "context_ru": "завершить (сов.)",
+  "dalle_prompt": "finish line completion trophy, flat illustration",
+  "status": "pending",
+  "query_text": "закончить\n[гл.  завершить (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

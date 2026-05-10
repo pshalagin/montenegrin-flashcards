@@ -1,0 +1,14 @@
+{
+  "id": 666,
+  "montenegrin": "polako",
+  "russian": "медленно",
+  "pos": "нар.",
+  "context_ru": "малая скорость",
+  "dalle_prompt": "slow snail pace, flat illustration",
+  "status": "pending",
+  "query_text": "медленно\n[нар.  малая скорость]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

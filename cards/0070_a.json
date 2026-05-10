@@ -1,0 +1,14 @@
+{
+  "id": 70,
+  "montenegrin": "a",
+  "russian": "а / но",
+  "pos": "союз",
+  "context_ru": "противит.",
+  "dalle_prompt": "two contrasting arrows, flat illustration",
+  "status": "pending",
+  "query_text": "а / но\n[союз  противит.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

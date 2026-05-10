@@ -1,0 +1,14 @@
+{
+  "id": 204,
+  "montenegrin": "zvati",
+  "russian": "звать / называть",
+  "pos": "гл.",
+  "context_ru": "именование / призыв",
+  "dalle_prompt": "person calling out to someone, flat illustration",
+  "status": "pending",
+  "query_text": "звать / называть\n[гл.  именование / призыв]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

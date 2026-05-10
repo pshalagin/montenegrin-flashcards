@@ -1,0 +1,14 @@
+{
+  "id": 817,
+  "montenegrin": "razočaranje",
+  "russian": "разочарование",
+  "pos": "сущ.",
+  "context_ru": "ср.р.",
+  "dalle_prompt": "disappointed person sad, flat illustration",
+  "status": "pending",
+  "query_text": "разочарование\n[сущ.  ср.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

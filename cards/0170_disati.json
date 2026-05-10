@@ -1,0 +1,14 @@
+{
+  "id": 170,
+  "montenegrin": "disati",
+  "russian": "дышать",
+  "pos": "гл.",
+  "context_ru": "дыхание",
+  "dalle_prompt": "person breathing fresh air, flat illustration",
+  "status": "pending",
+  "query_text": "дышать\n[гл.  дыхание]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

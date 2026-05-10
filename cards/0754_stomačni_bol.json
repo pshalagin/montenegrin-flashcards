@@ -1,0 +1,14 @@
+{
+  "id": 754,
+  "montenegrin": "stomačni bol",
+  "russian": "боль в животе",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "person holding stomach in pain, flat illustration",
+  "status": "pending",
+  "query_text": "боль в животе\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

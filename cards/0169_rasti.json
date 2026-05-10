@@ -1,0 +1,14 @@
+{
+  "id": 169,
+  "montenegrin": "rasti",
+  "russian": "расти",
+  "pos": "гл.",
+  "context_ru": "увеличиваться",
+  "dalle_prompt": "plant growing from seed to tree, flat illustration",
+  "status": "pending",
+  "query_text": "расти\n[гл.  увеличиваться]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 991,
+  "montenegrin": "upravo",
+  "russian": "именно / только что",
+  "pos": "нар.",
+  "context_ru": "точно сейчас / как раз",
+  "dalle_prompt": "just now clock, flat illustration",
+  "status": "pending",
+  "query_text": "именно / только что\n[нар.  точно сейчас / как раз]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

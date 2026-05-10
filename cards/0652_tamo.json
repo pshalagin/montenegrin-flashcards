@@ -1,0 +1,14 @@
+{
+  "id": 652,
+  "montenegrin": "tamo",
+  "russian": "там",
+  "pos": "нар.",
+  "context_ru": "далёкое место",
+  "dalle_prompt": "person pointing in distance, flat illustration",
+  "status": "pending",
+  "query_text": "там\n[нар.  далёкое место]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

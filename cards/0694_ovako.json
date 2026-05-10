@@ -1,0 +1,14 @@
+{
+  "id": 694,
+  "montenegrin": "ovako",
+  "russian": "вот так / таким образом",
+  "pos": "нар.",
+  "context_ru": "демонстрация способа",
+  "dalle_prompt": "demonstrating a method, flat illustration",
+  "status": "pending",
+  "query_text": "вот так / таким образом\n[нар.  демонстрация способа]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

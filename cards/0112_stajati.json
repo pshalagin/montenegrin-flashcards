@@ -1,0 +1,14 @@
+{
+  "id": 112,
+  "montenegrin": "stajati",
+  "russian": "стоять",
+  "pos": "гл.",
+  "context_ru": "положение стоя",
+  "dalle_prompt": "person standing upright, flat illustration",
+  "status": "pending",
+  "query_text": "стоять\n[гл.  положение стоя]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

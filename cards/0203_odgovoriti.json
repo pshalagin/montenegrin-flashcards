@@ -1,0 +1,14 @@
+{
+  "id": 203,
+  "montenegrin": "odgovoriti",
+  "russian": "ответить",
+  "pos": "гл.",
+  "context_ru": "дать ответ (сов.)",
+  "dalle_prompt": "person replying to message, flat illustration",
+  "status": "pending",
+  "query_text": "ответить\n[гл.  дать ответ (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

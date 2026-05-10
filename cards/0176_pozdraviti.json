@@ -1,0 +1,14 @@
+{
+  "id": 176,
+  "montenegrin": "pozdraviti",
+  "russian": "поздороваться",
+  "pos": "гл.",
+  "context_ru": "приветствие",
+  "dalle_prompt": "people greeting each other, flat illustration",
+  "status": "pending",
+  "query_text": "поздороваться\n[гл.  приветствие]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

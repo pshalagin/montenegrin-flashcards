@@ -1,0 +1,14 @@
+{
+  "id": 722,
+  "montenegrin": "problem",
+  "russian": "проблема",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "puzzle with missing piece, flat illustration",
+  "status": "pending",
+  "query_text": "проблема\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 92,
+  "montenegrin": "vidjeti",
+  "russian": "видеть",
+  "pos": "гл.",
+  "context_ru": "зрительное восприятие",
+  "dalle_prompt": "eye looking at scenery, flat illustration",
+  "status": "pending",
+  "query_text": "видеть\n[гл.  зрительное восприятие]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 86,
+  "montenegrin": "ići",
+  "russian": "идти / ходить",
+  "pos": "гл.",
+  "context_ru": "движение пешком",
+  "dalle_prompt": "person walking on a path, flat illustration",
+  "status": "pending",
+  "query_text": "идти / ходить\n[гл.  движение пешком]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

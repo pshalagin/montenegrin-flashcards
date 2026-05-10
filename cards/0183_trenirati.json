@@ -1,0 +1,14 @@
+{
+  "id": 183,
+  "montenegrin": "trenirati",
+  "russian": "тренироваться",
+  "pos": "гл.",
+  "context_ru": "физические тренировки",
+  "dalle_prompt": "person exercising at gym, flat illustration",
+  "status": "pending",
+  "query_text": "тренироваться\n[гл.  физические тренировки]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

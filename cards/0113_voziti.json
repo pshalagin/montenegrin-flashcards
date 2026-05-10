@@ -1,0 +1,14 @@
+{
+  "id": 113,
+  "montenegrin": "voziti",
+  "russian": "ехать / водить",
+  "pos": "гл.",
+  "context_ru": "управлять транспортом",
+  "dalle_prompt": "person driving a car, flat illustration",
+  "status": "pending",
+  "query_text": "ехать / водить\n[гл.  управлять транспортом]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

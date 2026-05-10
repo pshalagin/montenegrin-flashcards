@@ -1,0 +1,14 @@
+{
+  "id": 534,
+  "montenegrin": "farmer",
+  "russian": "фермер",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "farmer in field, flat illustration",
+  "status": "pending",
+  "query_text": "фермер\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

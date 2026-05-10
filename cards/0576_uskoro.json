@@ -1,0 +1,14 @@
+{
+  "id": 576,
+  "montenegrin": "uskoro",
+  "russian": "скоро",
+  "pos": "нар.",
+  "context_ru": "в ближайшее время",
+  "dalle_prompt": "clock almost at target time, flat illustration",
+  "status": "pending",
+  "query_text": "скоро\n[нар.  в ближайшее время]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

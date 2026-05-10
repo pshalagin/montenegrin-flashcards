@@ -1,0 +1,14 @@
+{
+  "id": 967,
+  "montenegrin": "tokom",
+  "russian": "в течение / на протяжении",
+  "pos": "предл.",
+  "context_ru": "временной отрезок",
+  "dalle_prompt": "duration timeline bar, flat illustration",
+  "status": "pending",
+  "query_text": "в течение / на протяжении\n[предл.  временной отрезок]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

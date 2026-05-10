@@ -1,0 +1,14 @@
+{
+  "id": 282,
+  "montenegrin": "jezik",
+  "russian": "язык (во рту)",
+  "pos": "сущ.",
+  "context_ru": "м.р. — орган вкуса",
+  "dalle_prompt": "tongue sticking out, flat illustration",
+  "status": "pending",
+  "query_text": "язык (во рту)\n[сущ.  м.р. — орган вкуса]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

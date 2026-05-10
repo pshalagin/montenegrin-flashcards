@@ -1,0 +1,14 @@
+{
+  "id": 797,
+  "montenegrin": "kartica",
+  "russian": "карточка (банк.)",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "credit debit card, flat illustration",
+  "status": "pending",
+  "query_text": "карточка (банк.)\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

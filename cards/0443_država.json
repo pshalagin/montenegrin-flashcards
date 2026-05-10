@@ -1,0 +1,14 @@
+{
+  "id": 443,
+  "montenegrin": "država",
+  "russian": "государство / страна",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "map of a country flag, flat illustration",
+  "status": "pending",
+  "query_text": "государство / страна\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

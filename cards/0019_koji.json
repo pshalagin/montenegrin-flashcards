@@ -1,0 +1,14 @@
+{
+  "id": 19,
+  "montenegrin": "koji",
+  "russian": "который",
+  "pos": "местоим.",
+  "context_ru": "относит./вопросит.",
+  "dalle_prompt": "person choosing between multiple options, flat illustration",
+  "status": "pending",
+  "query_text": "который\n[местоим.  относит./вопросит.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

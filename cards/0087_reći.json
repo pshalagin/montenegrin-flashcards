@@ -1,0 +1,14 @@
+{
+  "id": 87,
+  "montenegrin": "reći",
+  "russian": "сказать",
+  "pos": "гл.",
+  "context_ru": "сов. вид",
+  "dalle_prompt": "person with speech bubble, flat illustration",
+  "status": "pending",
+  "query_text": "сказать\n[гл.  сов. вид]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

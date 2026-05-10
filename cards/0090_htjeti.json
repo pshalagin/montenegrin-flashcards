@@ -1,0 +1,14 @@
+{
+  "id": 90,
+  "montenegrin": "htjeti",
+  "russian": "хотеть",
+  "pos": "гл.",
+  "context_ru": "желание",
+  "dalle_prompt": "person reaching toward desired object, flat illustration",
+  "status": "pending",
+  "query_text": "хотеть\n[гл.  желание]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

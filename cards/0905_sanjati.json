@@ -1,0 +1,14 @@
+{
+  "id": 905,
+  "montenegrin": "sanjati",
+  "russian": "мечтать / видеть сны",
+  "pos": "гл.",
+  "context_ru": "грёзы или сновидения",
+  "dalle_prompt": "person dreaming with cloud, flat illustration",
+  "status": "pending",
+  "query_text": "мечтать / видеть сны\n[гл.  грёзы или сновидения]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

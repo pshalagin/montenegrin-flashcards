@@ -1,0 +1,14 @@
+{
+  "id": 192,
+  "montenegrin": "hraniti",
+  "russian": "кормить",
+  "pos": "гл.",
+  "context_ru": "давать пищу",
+  "dalle_prompt": "person feeding child or animal, flat illustration",
+  "status": "pending",
+  "query_text": "кормить\n[гл.  давать пищу]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

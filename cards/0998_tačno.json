@@ -1,0 +1,14 @@
+{
+  "id": 998,
+  "montenegrin": "tačno",
+  "russian": "точно / именно так",
+  "pos": "нар.",
+  "context_ru": "подтверждение правильности",
+  "dalle_prompt": "exact correct checkmark, flat illustration",
+  "status": "pending",
+  "query_text": "точно / именно так\n[нар.  подтверждение правильности]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

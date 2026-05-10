@@ -1,0 +1,14 @@
+{
+  "id": 126,
+  "montenegrin": "igrati",
+  "russian": "играть / танцевать",
+  "pos": "гл.",
+  "context_ru": "игра / танец",
+  "dalle_prompt": "children playing or people dancing, flat illustration",
+  "status": "pending",
+  "query_text": "играть / танцевать\n[гл.  игра / танец]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

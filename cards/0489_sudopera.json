@@ -1,0 +1,14 @@
+{
+  "id": 489,
+  "montenegrin": "sudopera",
+  "russian": "раковина (кухонная)",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "kitchen sink with faucet, flat illustration",
+  "status": "pending",
+  "query_text": "раковина (кухонная)\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

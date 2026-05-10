@@ -1,0 +1,14 @@
+{
+  "id": 937,
+  "montenegrin": "uspjeh",
+  "russian": "успех",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "success celebration trophy, flat illustration",
+  "status": "pending",
+  "query_text": "успех\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

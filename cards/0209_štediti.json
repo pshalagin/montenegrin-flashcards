@@ -1,0 +1,14 @@
+{
+  "id": 209,
+  "montenegrin": "štediti",
+  "russian": "экономить / копить",
+  "pos": "гл.",
+  "context_ru": "сбережение денег",
+  "dalle_prompt": "person putting money in piggy bank, flat illustration",
+  "status": "pending",
+  "query_text": "экономить / копить\n[гл.  сбережение денег]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

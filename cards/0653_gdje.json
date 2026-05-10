@@ -1,0 +1,14 @@
+{
+  "id": 653,
+  "montenegrin": "gdje",
+  "russian": "где",
+  "pos": "нар.",
+  "context_ru": "вопрос о месте",
+  "dalle_prompt": "question mark over map, flat illustration",
+  "status": "pending",
+  "query_text": "где\n[нар.  вопрос о месте]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

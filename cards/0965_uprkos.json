@@ -1,0 +1,14 @@
+{
+  "id": 965,
+  "montenegrin": "uprkos",
+  "russian": "вопреки / несмотря на",
+  "pos": "предл.",
+  "context_ru": "уступка",
+  "dalle_prompt": "overcoming obstacle, flat illustration",
+  "status": "pending",
+  "query_text": "вопреки / несмотря на\n[предл.  уступка]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

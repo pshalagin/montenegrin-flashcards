@@ -1,0 +1,14 @@
+{
+  "id": 131,
+  "montenegrin": "kuvati",
+  "russian": "готовить (еду)",
+  "pos": "гл.",
+  "context_ru": "приготовление пищи",
+  "dalle_prompt": "person cooking in kitchen, flat illustration",
+  "status": "pending",
+  "query_text": "готовить (еду)\n[гл.  приготовление пищи]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

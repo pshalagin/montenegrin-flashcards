@@ -1,0 +1,14 @@
+{
+  "id": 639,
+  "montenegrin": "plav",
+  "russian": "синий / голубой",
+  "pos": "прил.",
+  "context_ru": "цвет",
+  "dalle_prompt": "blue color swatch, flat illustration",
+  "status": "pending",
+  "query_text": "синий / голубой\n[прил.  цвет]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

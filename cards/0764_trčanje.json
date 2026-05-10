@@ -1,0 +1,14 @@
+{
+  "id": 764,
+  "montenegrin": "trčanje",
+  "russian": "бег",
+  "pos": "сущ.",
+  "context_ru": "ср.р.",
+  "dalle_prompt": "runner on track, flat illustration",
+  "status": "pending",
+  "query_text": "бег\n[сущ.  ср.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

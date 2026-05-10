@@ -1,0 +1,14 @@
+{
+  "id": 217,
+  "montenegrin": "izgledati",
+  "russian": "выглядеть",
+  "pos": "гл.",
+  "context_ru": "иметь вид / казаться",
+  "dalle_prompt": "person looking in mirror, flat illustration",
+  "status": "pending",
+  "query_text": "выглядеть\n[гл.  иметь вид / казаться]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

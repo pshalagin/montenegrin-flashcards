@@ -1,0 +1,14 @@
+{
+  "id": 695,
+  "montenegrin": "tako",
+  "russian": "так / таким образом",
+  "pos": "нар.",
+  "context_ru": "указание на способ",
+  "dalle_prompt": "pointer indicating method, flat illustration",
+  "status": "pending",
+  "query_text": "так / таким образом\n[нар.  указание на способ]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

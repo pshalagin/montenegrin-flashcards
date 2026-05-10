@@ -1,0 +1,14 @@
+{
+  "id": 228,
+  "montenegrin": "dječak",
+  "russian": "мальчик",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "young boy playing with toy, flat illustration",
+  "status": "pending",
+  "query_text": "мальчик\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

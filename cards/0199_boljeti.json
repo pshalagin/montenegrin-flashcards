@@ -1,0 +1,14 @@
+{
+  "id": 199,
+  "montenegrin": "boljeti",
+  "russian": "болеть (о теле)",
+  "pos": "гл.",
+  "context_ru": "боль / нездоровье",
+  "dalle_prompt": "person holding aching head, flat illustration",
+  "status": "pending",
+  "query_text": "болеть (о теле)\n[гл.  боль / нездоровье]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

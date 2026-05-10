@@ -1,0 +1,14 @@
+{
+  "id": 107,
+  "montenegrin": "pričati",
+  "russian": "рассказывать",
+  "pos": "гл.",
+  "context_ru": "устная речь (несов.)",
+  "dalle_prompt": "two people in conversation, flat illustration",
+  "status": "pending",
+  "query_text": "рассказывать\n[гл.  устная речь (несов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

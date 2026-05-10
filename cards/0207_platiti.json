@@ -1,0 +1,14 @@
+{
+  "id": 207,
+  "montenegrin": "platiti",
+  "russian": "заплатить",
+  "pos": "гл.",
+  "context_ru": "оплатить (сов.)",
+  "dalle_prompt": "person paying at cashier, flat illustration",
+  "status": "pending",
+  "query_text": "заплатить\n[гл.  оплатить (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

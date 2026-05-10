@@ -1,0 +1,14 @@
+{
+  "id": 249,
+  "montenegrin": "bratić",
+  "russian": "двоюродный брат",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "cousins playing together, flat illustration",
+  "status": "pending",
+  "query_text": "двоюродный брат\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

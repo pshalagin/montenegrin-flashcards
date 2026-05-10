@@ -1,0 +1,14 @@
+{
+  "id": 154,
+  "montenegrin": "pozvati",
+  "russian": "позвонить / пригласить",
+  "pos": "гл.",
+  "context_ru": "звонок / приглашение (сов.)",
+  "dalle_prompt": "person inviting or calling on phone, flat illustration",
+  "status": "pending",
+  "query_text": "позвонить / пригласить\n[гл.  звонок / приглашение (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

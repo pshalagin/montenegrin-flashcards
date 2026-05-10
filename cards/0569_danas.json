@@ -1,0 +1,14 @@
+{
+  "id": 569,
+  "montenegrin": "danas",
+  "russian": "сегодня",
+  "pos": "нар.",
+  "context_ru": "настоящий день",
+  "dalle_prompt": "calendar with today marked, flat illustration",
+  "status": "pending",
+  "query_text": "сегодня\n[нар.  настоящий день]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

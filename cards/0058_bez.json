@@ -1,0 +1,14 @@
+{
+  "id": 58,
+  "montenegrin": "bez",
+  "russian": "без",
+  "pos": "предл.",
+  "context_ru": "отсутствие чего-то",
+  "dalle_prompt": "empty cup without content, flat illustration",
+  "status": "pending",
+  "query_text": "без\n[предл.  отсутствие чего-то]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

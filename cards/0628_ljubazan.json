@@ -1,0 +1,14 @@
+{
+  "id": 628,
+  "montenegrin": "ljubazan",
+  "russian": "добрый / любезный",
+  "pos": "прил.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "kind person helping another, flat illustration",
+  "status": "pending",
+  "query_text": "добрый / любезный\n[прил.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

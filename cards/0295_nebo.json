@@ -1,0 +1,14 @@
+{
+  "id": 295,
+  "montenegrin": "nebo",
+  "russian": "небо",
+  "pos": "сущ.",
+  "context_ru": "ср.р.",
+  "dalle_prompt": "sky with white clouds, flat illustration",
+  "status": "pending",
+  "query_text": "небо\n[сущ.  ср.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

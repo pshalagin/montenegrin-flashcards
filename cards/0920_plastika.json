@@ -1,0 +1,14 @@
+{
+  "id": 920,
+  "montenegrin": "plastika",
+  "russian": "пластик",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "plastic objects, flat illustration",
+  "status": "pending",
+  "query_text": "пластик\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

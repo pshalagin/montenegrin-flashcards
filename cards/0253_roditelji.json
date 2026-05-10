@@ -1,0 +1,14 @@
+{
+  "id": 253,
+  "montenegrin": "roditelji",
+  "russian": "родители",
+  "pos": "сущ.",
+  "context_ru": "мн.ч.",
+  "dalle_prompt": "parents with children, flat illustration",
+  "status": "pending",
+  "query_text": "родители\n[сущ.  мн.ч.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

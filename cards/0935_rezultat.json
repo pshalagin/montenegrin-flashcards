@@ -1,0 +1,14 @@
+{
+  "id": 935,
+  "montenegrin": "rezultat",
+  "russian": "результат",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "result outcome chart, flat illustration",
+  "status": "pending",
+  "query_text": "результат\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 670,
+  "montenegrin": "sam",
+  "russian": "один / одна",
+  "pos": "нар.",
+  "context_ru": "без посторонних",
+  "dalle_prompt": "alone person by themselves, flat illustration",
+  "status": "pending",
+  "query_text": "один / одна\n[нар.  без посторонних]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

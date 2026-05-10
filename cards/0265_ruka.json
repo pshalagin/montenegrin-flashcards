@@ -1,0 +1,14 @@
+{
+  "id": 265,
+  "montenegrin": "ruka",
+  "russian": "рука",
+  "pos": "сущ.",
+  "context_ru": "ж.р. — вся рука",
+  "dalle_prompt": "human hand and arm, flat illustration",
+  "status": "pending",
+  "query_text": "рука\n[сущ.  ж.р. — вся рука]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

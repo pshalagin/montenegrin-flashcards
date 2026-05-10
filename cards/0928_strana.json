@@ -1,0 +1,14 @@
+{
+  "id": 928,
+  "montenegrin": "strana",
+  "russian": "сторона / страница",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "page side of book, flat illustration",
+  "status": "pending",
+  "query_text": "сторона / страница\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

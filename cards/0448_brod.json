@@ -1,0 +1,14 @@
+{
+  "id": 448,
+  "montenegrin": "brod",
+  "russian": "корабль / лодка",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "boat on water, flat illustration",
+  "status": "pending",
+  "query_text": "корабль / лодка\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 894,
+  "montenegrin": "roditi se",
+  "russian": "родиться",
+  "pos": "гл.",
+  "context_ru": "появиться на свет (сов.)",
+  "dalle_prompt": "newborn baby birth, flat illustration",
+  "status": "pending",
+  "query_text": "родиться\n[гл.  появиться на свет (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

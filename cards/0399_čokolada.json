@@ -1,0 +1,14 @@
+{
+  "id": 399,
+  "montenegrin": "čokolada",
+  "russian": "шоколад",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "chocolate bar, flat illustration",
+  "status": "pending",
+  "query_text": "шоколад\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

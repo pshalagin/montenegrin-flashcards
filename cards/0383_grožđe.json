@@ -1,0 +1,14 @@
+{
+  "id": 383,
+  "montenegrin": "grožđe",
+  "russian": "виноград",
+  "pos": "сущ.",
+  "context_ru": "ср.р.",
+  "dalle_prompt": "bunch of grapes, flat illustration",
+  "status": "pending",
+  "query_text": "виноград\n[сущ.  ср.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

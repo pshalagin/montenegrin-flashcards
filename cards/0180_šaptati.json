@@ -1,0 +1,14 @@
+{
+  "id": 180,
+  "montenegrin": "šaptati",
+  "russian": "шептать",
+  "pos": "гл.",
+  "context_ru": "тихий разговор",
+  "dalle_prompt": "person whispering in another ear, flat illustration",
+  "status": "pending",
+  "query_text": "шептать\n[гл.  тихий разговор]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

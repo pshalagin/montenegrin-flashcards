@@ -1,0 +1,14 @@
+{
+  "id": 144,
+  "montenegrin": "pronaći",
+  "russian": "найти",
+  "pos": "гл.",
+  "context_ru": "обнаружить (улучш. вид)",
+  "dalle_prompt": "person finding treasure or key, flat illustration",
+  "status": "pending",
+  "query_text": "найти\n[гл.  обнаружить (улучш. вид)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

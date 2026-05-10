@@ -1,0 +1,14 @@
+{
+  "id": 942,
+  "montenegrin": "razlog",
+  "russian": "причина / повод",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "reason why question illustration, flat",
+  "status": "pending",
+  "query_text": "причина / повод\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

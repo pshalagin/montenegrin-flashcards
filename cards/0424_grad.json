@@ -1,0 +1,14 @@
+{
+  "id": 424,
+  "montenegrin": "grad",
+  "russian": "город",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "city skyline, flat illustration",
+  "status": "pending",
+  "query_text": "город\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

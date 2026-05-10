@@ -1,0 +1,14 @@
+{
+  "id": 227,
+  "montenegrin": "dijete",
+  "russian": "ребёнок",
+  "pos": "сущ.",
+  "context_ru": "дитя (ср.р.)",
+  "dalle_prompt": "young child playing, simple flat illustration",
+  "status": "pending",
+  "query_text": "ребёнок\n[сущ.  дитя (ср.р.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

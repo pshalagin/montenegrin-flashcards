@@ -1,0 +1,14 @@
+{
+  "id": 165,
+  "montenegrin": "prati",
+  "russian": "мыть / стирать",
+  "pos": "гл.",
+  "context_ru": "очищать водой",
+  "dalle_prompt": "person washing dishes, flat illustration",
+  "status": "pending",
+  "query_text": "мыть / стирать\n[гл.  очищать водой]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

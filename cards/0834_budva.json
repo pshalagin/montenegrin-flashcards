@@ -1,0 +1,14 @@
+{
+  "id": 834,
+  "montenegrin": "Budva",
+  "russian": "Будва",
+  "pos": "сущ.",
+  "context_ru": "курортный город",
+  "dalle_prompt": "Budva beach town, flat illustration",
+  "status": "pending",
+  "query_text": "Будва\n[сущ.  курортный город]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

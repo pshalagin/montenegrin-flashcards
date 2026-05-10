@@ -1,0 +1,14 @@
+{
+  "id": 875,
+  "montenegrin": "koncert",
+  "russian": "концерт",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "concert live music crowd, flat illustration",
+  "status": "pending",
+  "query_text": "концерт\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 406,
+  "montenegrin": "stan",
+  "russian": "квартира",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "apartment interior, flat illustration",
+  "status": "pending",
+  "query_text": "квартира\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

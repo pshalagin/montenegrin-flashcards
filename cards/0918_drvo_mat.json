@@ -1,0 +1,14 @@
+{
+  "id": 918,
+  "montenegrin": "drvo (mat.)",
+  "russian": "дерево (материал)",
+  "pos": "сущ.",
+  "context_ru": "ср.р. — строительный",
+  "dalle_prompt": "wood timber planks, flat illustration",
+  "status": "pending",
+  "query_text": "дерево (материал)\n[сущ.  ср.р. — строительный]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

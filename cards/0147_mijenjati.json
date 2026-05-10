@@ -1,0 +1,14 @@
+{
+  "id": 147,
+  "montenegrin": "mijenjati",
+  "russian": "менять",
+  "pos": "гл.",
+  "context_ru": "трансформация",
+  "dalle_prompt": "before and after comparison, flat illustration",
+  "status": "pending",
+  "query_text": "менять\n[гл.  трансформация]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

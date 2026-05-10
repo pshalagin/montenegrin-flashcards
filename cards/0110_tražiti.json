@@ -1,0 +1,14 @@
+{
+  "id": 110,
+  "montenegrin": "tražiti",
+  "russian": "искать",
+  "pos": "гл.",
+  "context_ru": "поиск",
+  "dalle_prompt": "person searching with magnifying glass, flat illustration",
+  "status": "pending",
+  "query_text": "искать\n[гл.  поиск]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

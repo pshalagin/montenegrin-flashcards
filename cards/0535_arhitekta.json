@@ -1,0 +1,14 @@
+{
+  "id": 535,
+  "montenegrin": "arhitekta",
+  "russian": "архитектор",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "architect with blueprints, flat illustration",
+  "status": "pending",
+  "query_text": "архитектор\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

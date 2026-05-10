@@ -1,0 +1,14 @@
+{
+  "id": 214,
+  "montenegrin": "zakasniti",
+  "russian": "опоздать",
+  "pos": "гл.",
+  "context_ru": "прийти поздно (сов.)",
+  "dalle_prompt": "person running late for bus, flat illustration",
+  "status": "pending",
+  "query_text": "опоздать\n[гл.  прийти поздно (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

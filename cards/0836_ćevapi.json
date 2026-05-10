@@ -1,0 +1,14 @@
+{
+  "id": 836,
+  "montenegrin": "ćevapi",
+  "russian": "чевапы",
+  "pos": "сущ.",
+  "context_ru": "балканское блюдо",
+  "dalle_prompt": "cevapcici grilled meat dish, flat illustration",
+  "status": "pending",
+  "query_text": "чевапы\n[сущ.  балканское блюдо]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

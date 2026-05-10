@@ -1,0 +1,14 @@
+{
+  "id": 697,
+  "montenegrin": "nekako",
+  "russian": "как-нибудь / как-то",
+  "pos": "нар.",
+  "context_ru": "неопред. способ",
+  "dalle_prompt": "vague wavy arrow, flat illustration",
+  "status": "pending",
+  "query_text": "как-нибудь / как-то\n[нар.  неопред. способ]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

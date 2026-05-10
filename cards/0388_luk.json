@@ -1,0 +1,14 @@
+{
+  "id": 388,
+  "montenegrin": "luk",
+  "russian": "лук (овощ)",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "onion vegetable, flat illustration",
+  "status": "pending",
+  "query_text": "лук (овощ)\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

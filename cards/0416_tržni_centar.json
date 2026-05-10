@@ -1,0 +1,14 @@
+{
+  "id": 416,
+  "montenegrin": "tržni centar",
+  "russian": "торговый центр",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "shopping mall interior, flat illustration",
+  "status": "pending",
+  "query_text": "торговый центр\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

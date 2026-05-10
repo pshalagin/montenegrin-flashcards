@@ -1,0 +1,14 @@
+{
+  "id": 310,
+  "montenegrin": "grana",
+  "russian": "ветка",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "tree branch with leaves, flat illustration",
+  "status": "pending",
+  "query_text": "ветка\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

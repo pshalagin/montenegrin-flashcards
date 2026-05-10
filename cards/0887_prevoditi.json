@@ -1,0 +1,14 @@
+{
+  "id": 887,
+  "montenegrin": "prevoditi",
+  "russian": "переводить",
+  "pos": "гл.",
+  "context_ru": "языковой перевод",
+  "dalle_prompt": "person translating languages, flat illustration",
+  "status": "pending",
+  "query_text": "переводить\n[гл.  языковой перевод]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

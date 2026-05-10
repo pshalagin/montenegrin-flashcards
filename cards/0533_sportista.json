@@ -1,0 +1,14 @@
+{
+  "id": 533,
+  "montenegrin": "sportista",
+  "russian": "спортсмен",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "athlete running, flat illustration",
+  "status": "pending",
+  "query_text": "спортсмен\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

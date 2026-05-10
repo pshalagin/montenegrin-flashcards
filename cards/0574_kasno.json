@@ -1,0 +1,14 @@
+{
+  "id": 574,
+  "montenegrin": "kasno",
+  "russian": "поздно",
+  "pos": "нар.",
+  "context_ru": "в конце дня",
+  "dalle_prompt": "late night moon, flat illustration",
+  "status": "pending",
+  "query_text": "поздно\n[нар.  в конце дня]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

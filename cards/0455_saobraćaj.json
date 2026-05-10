@@ -1,0 +1,14 @@
+{
+  "id": 455,
+  "montenegrin": "saobraćaj",
+  "russian": "транспорт / движение",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "traffic on road, flat illustration",
+  "status": "pending",
+  "query_text": "транспорт / движение\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

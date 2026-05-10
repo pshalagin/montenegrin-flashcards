@@ -1,0 +1,14 @@
+{
+  "id": 80,
+  "montenegrin": "dok",
+  "russian": "пока / тогда как",
+  "pos": "союз",
+  "context_ru": "временной / противит.",
+  "dalle_prompt": "two simultaneous actions side by side, flat illustration",
+  "status": "pending",
+  "query_text": "пока / тогда как\n[союз  временной / противит.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 156,
+  "montenegrin": "plesati",
+  "russian": "танцевать",
+  "pos": "гл.",
+  "context_ru": "танец",
+  "dalle_prompt": "person dancing gracefully, flat illustration",
+  "status": "pending",
+  "query_text": "танцевать\n[гл.  танец]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

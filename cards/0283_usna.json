@@ -1,0 +1,14 @@
+{
+  "id": 283,
+  "montenegrin": "usna",
+  "russian": "губа",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "lips illustration, flat",
+  "status": "pending",
+  "query_text": "губа\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

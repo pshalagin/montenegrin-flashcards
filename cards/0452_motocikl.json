@@ -1,0 +1,14 @@
+{
+  "id": 452,
+  "montenegrin": "motocikl",
+  "russian": "мотоцикл",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "motorcycle, flat illustration",
+  "status": "pending",
+  "query_text": "мотоцикл\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 363,
+  "montenegrin": "riba (jelo)",
+  "russian": "рыба (блюдо)",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "cooked fish on plate, flat illustration",
+  "status": "pending",
+  "query_text": "рыба (блюдо)\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

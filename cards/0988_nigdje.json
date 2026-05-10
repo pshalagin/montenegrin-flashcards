@@ -1,0 +1,14 @@
+{
+  "id": 988,
+  "montenegrin": "nigdje",
+  "russian": "нигде",
+  "pos": "нар.",
+  "context_ru": "ни в каком месте",
+  "dalle_prompt": "nowhere empty space, flat illustration",
+  "status": "pending",
+  "query_text": "нигде\n[нар.  ни в каком месте]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

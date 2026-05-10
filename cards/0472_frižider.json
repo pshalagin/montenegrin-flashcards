@@ -1,0 +1,14 @@
+{
+  "id": 472,
+  "montenegrin": "frižider",
+  "russian": "холодильник",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "refrigerator open, flat illustration",
+  "status": "pending",
+  "query_text": "холодильник\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

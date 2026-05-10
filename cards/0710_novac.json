@@ -1,0 +1,14 @@
+{
+  "id": 710,
+  "montenegrin": "novac",
+  "russian": "деньги",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "coins and bills, flat illustration",
+  "status": "pending",
+  "query_text": "деньги\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

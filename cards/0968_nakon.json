@@ -1,0 +1,14 @@
+{
+  "id": 968,
+  "montenegrin": "nakon",
+  "russian": "после",
+  "pos": "предл.",
+  "context_ru": "следование во времени",
+  "dalle_prompt": "after then arrow, flat illustration",
+  "status": "pending",
+  "query_text": "после\n[предл.  следование во времени]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

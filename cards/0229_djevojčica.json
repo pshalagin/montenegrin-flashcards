@@ -1,0 +1,14 @@
+{
+  "id": 229,
+  "montenegrin": "djevojčica",
+  "russian": "девочка",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "young girl playing, flat illustration",
+  "status": "pending",
+  "query_text": "девочка\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

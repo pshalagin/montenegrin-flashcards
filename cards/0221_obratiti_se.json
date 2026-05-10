@@ -1,0 +1,14 @@
+{
+  "id": 221,
+  "montenegrin": "obratiti se",
+  "russian": "обратиться",
+  "pos": "гл.",
+  "context_ru": "обратиться к кому-л. (сов.)",
+  "dalle_prompt": "person approaching another to speak, flat illustration",
+  "status": "pending",
+  "query_text": "обратиться\n[гл.  обратиться к кому-л. (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

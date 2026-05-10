@@ -1,0 +1,14 @@
+{
+  "id": 970,
+  "montenegrin": "naglasiti",
+  "russian": "подчеркнуть",
+  "pos": "гл.",
+  "context_ru": "выделить особо (сов.)",
+  "dalle_prompt": "highlighting important text, flat illustration",
+  "status": "pending",
+  "query_text": "подчеркнуть\n[гл.  выделить особо (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

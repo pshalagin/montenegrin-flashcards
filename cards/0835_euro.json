@@ -1,0 +1,14 @@
+{
+  "id": 835,
+  "montenegrin": "euro",
+  "russian": "евро",
+  "pos": "сущ.",
+  "context_ru": "валюта Черногории",
+  "dalle_prompt": "euro coin symbol, flat illustration",
+  "status": "pending",
+  "query_text": "евро\n[сущ.  валюта Черногории]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

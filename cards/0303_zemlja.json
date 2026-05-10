@@ -1,0 +1,14 @@
+{
+  "id": 303,
+  "montenegrin": "zemlja",
+  "russian": "земля / Земля",
+  "pos": "сущ.",
+  "context_ru": "ж.р. — почва или планета",
+  "dalle_prompt": "earth soil or planet Earth, flat illustration",
+  "status": "pending",
+  "query_text": "земля / Земля\n[сущ.  ж.р. — почва или планета]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

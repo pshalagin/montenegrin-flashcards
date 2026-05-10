@@ -1,0 +1,14 @@
+{
+  "id": 106,
+  "montenegrin": "čekati",
+  "russian": "ждать",
+  "pos": "гл.",
+  "context_ru": "ожидание",
+  "dalle_prompt": "person waiting at bus stop, flat illustration",
+  "status": "pending",
+  "query_text": "ждать\n[гл.  ожидание]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 778,
+  "montenegrin": "meditacija",
+  "russian": "медитация",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "person meditating lotus position, flat illustration",
+  "status": "pending",
+  "query_text": "медитация\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

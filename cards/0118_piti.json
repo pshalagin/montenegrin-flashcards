@@ -1,0 +1,14 @@
+{
+  "id": 118,
+  "montenegrin": "piti",
+  "russian": "пить",
+  "pos": "гл.",
+  "context_ru": "употреблять жидкость",
+  "dalle_prompt": "person drinking from glass, flat illustration",
+  "status": "pending",
+  "query_text": "пить\n[гл.  употреблять жидкость]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

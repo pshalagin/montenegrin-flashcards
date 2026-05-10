@@ -1,0 +1,14 @@
+{
+  "id": 160,
+  "montenegrin": "hvatati",
+  "russian": "ловить",
+  "pos": "гл.",
+  "context_ru": "захват (несов.)",
+  "dalle_prompt": "person catching a ball, flat illustration",
+  "status": "pending",
+  "query_text": "ловить\n[гл.  захват (несов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

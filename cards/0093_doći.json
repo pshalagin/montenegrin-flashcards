@@ -1,0 +1,14 @@
+{
+  "id": 93,
+  "montenegrin": "doći",
+  "russian": "прийти",
+  "pos": "гл.",
+  "context_ru": "прибыть (сов.)",
+  "dalle_prompt": "person arriving at destination, flat illustration",
+  "status": "pending",
+  "query_text": "прийти\n[гл.  прибыть (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

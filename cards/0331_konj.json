@@ -1,0 +1,14 @@
+{
+  "id": 331,
+  "montenegrin": "konj",
+  "russian": "лошадь / конь",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "horse in field, flat illustration",
+  "status": "pending",
+  "query_text": "лошадь / конь\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

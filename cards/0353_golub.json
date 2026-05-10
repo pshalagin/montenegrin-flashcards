@@ -1,0 +1,14 @@
+{
+  "id": 353,
+  "montenegrin": "golub",
+  "russian": "голубь",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "pigeon in city, flat illustration",
+  "status": "pending",
+  "query_text": "голубь\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

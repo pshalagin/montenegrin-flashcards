@@ -1,0 +1,14 @@
+{
+  "id": 82,
+  "montenegrin": "tek",
+  "russian": "лишь только",
+  "pos": "союз",
+  "context_ru": "ограничит.",
+  "dalle_prompt": "small single item highlighted, flat illustration",
+  "status": "pending",
+  "query_text": "лишь только\n[союз  ограничит.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

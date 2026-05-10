@@ -1,0 +1,14 @@
+{
+  "id": 166,
+  "montenegrin": "čistiti",
+  "russian": "чистить / убирать",
+  "pos": "гл.",
+  "context_ru": "уборка",
+  "dalle_prompt": "person cleaning with mop, flat illustration",
+  "status": "pending",
+  "query_text": "чистить / убирать\n[гл.  уборка]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

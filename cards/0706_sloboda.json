@@ -1,0 +1,14 @@
+{
+  "id": 706,
+  "montenegrin": "sloboda",
+  "russian": "свобода",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "bird flying free, flat illustration",
+  "status": "pending",
+  "query_text": "свобода\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

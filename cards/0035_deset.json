@@ -1,0 +1,14 @@
+{
+  "id": 35,
+  "montenegrin": "deset",
+  "russian": "десять",
+  "pos": "числ.",
+  "context_ru": "количест.",
+  "dalle_prompt": "ten fingers open hands, flat illustration",
+  "status": "pending",
+  "query_text": "десять\n[числ.  количест.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

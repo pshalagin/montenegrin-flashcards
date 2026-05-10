@@ -1,0 +1,14 @@
+{
+  "id": 51,
+  "montenegrin": "sa",
+  "russian": "с / вместе с",
+  "pos": "предл.",
+  "context_ru": "совместность",
+  "dalle_prompt": "two people together, flat illustration",
+  "status": "pending",
+  "query_text": "с / вместе с\n[предл.  совместность]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

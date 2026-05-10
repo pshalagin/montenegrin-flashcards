@@ -1,0 +1,14 @@
+{
+  "id": 828,
+  "montenegrin": "zdravo",
+  "russian": "привет",
+  "pos": "мжд.",
+  "context_ru": "приветствие",
+  "dalle_prompt": "friendly wave hello, flat illustration",
+  "status": "pending",
+  "query_text": "привет\n[мжд.  приветствие]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

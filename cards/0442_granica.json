@@ -1,0 +1,14 @@
+{
+  "id": 442,
+  "montenegrin": "granica",
+  "russian": "граница",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "border crossing checkpoint, flat illustration",
+  "status": "pending",
+  "query_text": "граница\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

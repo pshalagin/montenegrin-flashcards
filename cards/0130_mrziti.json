@@ -1,0 +1,14 @@
+{
+  "id": 130,
+  "montenegrin": "mrziti",
+  "russian": "ненавидеть",
+  "pos": "гл.",
+  "context_ru": "испытывать неприязнь",
+  "dalle_prompt": "angry person crossed arms, flat illustration",
+  "status": "pending",
+  "query_text": "ненавидеть\n[гл.  испытывать неприязнь]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

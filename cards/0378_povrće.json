@@ -1,0 +1,14 @@
+{
+  "id": 378,
+  "montenegrin": "povrće",
+  "russian": "овощи",
+  "pos": "сущ.",
+  "context_ru": "ср.р. собир.",
+  "dalle_prompt": "assorted vegetables, flat illustration",
+  "status": "pending",
+  "query_text": "овощи\n[сущ.  ср.р. собир.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

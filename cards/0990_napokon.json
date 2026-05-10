@@ -1,0 +1,14 @@
+{
+  "id": 990,
+  "montenegrin": "napokon",
+  "russian": "наконец",
+  "pos": "нар.",
+  "context_ru": "в итоге",
+  "dalle_prompt": "finally finish line reached, flat illustration",
+  "status": "pending",
+  "query_text": "наконец\n[нар.  в итоге]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 241,
+  "montenegrin": "brat",
+  "russian": "брат",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "brothers together, flat illustration",
+  "status": "pending",
+  "query_text": "брат\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

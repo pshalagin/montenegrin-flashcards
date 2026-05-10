@@ -1,0 +1,14 @@
+{
+  "id": 109,
+  "montenegrin": "slušati",
+  "russian": "слушать",
+  "pos": "гл.",
+  "context_ru": "внимат. восприятие звука",
+  "dalle_prompt": "person with headphones listening, flat illustration",
+  "status": "pending",
+  "query_text": "слушать\n[гл.  внимат. восприятие звука]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

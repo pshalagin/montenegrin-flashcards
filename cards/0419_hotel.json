@@ -1,0 +1,14 @@
+{
+  "id": 419,
+  "montenegrin": "hotel",
+  "russian": "гостиница / отель",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "hotel building exterior, flat illustration",
+  "status": "pending",
+  "query_text": "гостиница / отель\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 114,
+  "montenegrin": "pisati",
+  "russian": "писать",
+  "pos": "гл.",
+  "context_ru": "письменная речь",
+  "dalle_prompt": "person writing with pen, flat illustration",
+  "status": "pending",
+  "query_text": "писать\n[гл.  письменная речь]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

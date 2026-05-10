@@ -1,0 +1,14 @@
+{
+  "id": 800,
+  "montenegrin": "korpa",
+  "russian": "корзина",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "shopping basket, flat illustration",
+  "status": "pending",
+  "query_text": "корзина\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 584,
+  "montenegrin": "nov",
+  "russian": "новый",
+  "pos": "прил.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "shiny new product box, flat illustration",
+  "status": "pending",
+  "query_text": "новый\n[прил.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

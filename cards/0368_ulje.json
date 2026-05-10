@@ -1,0 +1,14 @@
+{
+  "id": 368,
+  "montenegrin": "ulje",
+  "russian": "растительное масло",
+  "pos": "сущ.",
+  "context_ru": "ср.р.",
+  "dalle_prompt": "bottle of olive oil, flat illustration",
+  "status": "pending",
+  "query_text": "растительное масло\n[сущ.  ср.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 900,
+  "montenegrin": "preseliti se",
+  "russian": "переехать",
+  "pos": "гл.",
+  "context_ru": "сменить место жит. (сов.)",
+  "dalle_prompt": "moving boxes new home, flat illustration",
+  "status": "pending",
+  "query_text": "переехать\n[гл.  сменить место жит. (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

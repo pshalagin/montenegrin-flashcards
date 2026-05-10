@@ -1,0 +1,14 @@
+{
+  "id": 323,
+  "montenegrin": "led",
+  "russian": "лёд",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "ice cubes or frozen lake, flat illustration",
+  "status": "pending",
+  "query_text": "лёд\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

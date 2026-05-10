@@ -1,0 +1,14 @@
+{
+  "id": 76,
+  "montenegrin": "ako",
+  "russian": "если",
+  "pos": "союз",
+  "context_ru": "условный",
+  "dalle_prompt": "branching if-then diagram, flat illustration",
+  "status": "pending",
+  "query_text": "если\n[союз  условный]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

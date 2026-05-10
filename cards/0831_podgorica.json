@@ -1,0 +1,14 @@
+{
+  "id": 831,
+  "montenegrin": "Podgorica",
+  "russian": "Подгорица",
+  "pos": "сущ.",
+  "context_ru": "столица Черногории",
+  "dalle_prompt": "Podgorica city view, flat illustration",
+  "status": "pending",
+  "query_text": "Подгорица\n[сущ.  столица Черногории]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

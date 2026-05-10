@@ -1,0 +1,14 @@
+{
+  "id": 882,
+  "montenegrin": "ignorisati",
+  "russian": "игнорировать",
+  "pos": "гл.",
+  "context_ru": "не обращать внимания",
+  "dalle_prompt": "person ignoring another, flat illustration",
+  "status": "pending",
+  "query_text": "игнорировать\n[гл.  не обращать внимания]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

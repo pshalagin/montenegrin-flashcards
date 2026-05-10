@@ -1,0 +1,14 @@
+{
+  "id": 792,
+  "montenegrin": "e-mail",
+  "russian": "электронная почта",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "email envelope icon, flat illustration",
+  "status": "pending",
+  "query_text": "электронная почта\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 444,
+  "montenegrin": "centar",
+  "russian": "центр / центр города",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "city center buildings, flat illustration",
+  "status": "pending",
+  "query_text": "центр / центр города\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

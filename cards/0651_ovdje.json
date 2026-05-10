@@ -1,0 +1,14 @@
+{
+  "id": 651,
+  "montenegrin": "ovdje",
+  "russian": "здесь / тут",
+  "pos": "нар.",
+  "context_ru": "место",
+  "dalle_prompt": "person pointing to ground here, flat illustration",
+  "status": "pending",
+  "query_text": "здесь / тут\n[нар.  место]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 759,
+  "montenegrin": "pritisak",
+  "russian": "давление (кровяное)",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "blood pressure monitor, flat illustration",
+  "status": "pending",
+  "query_text": "давление (кровяное)\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

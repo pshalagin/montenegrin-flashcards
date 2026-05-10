@@ -1,0 +1,14 @@
+{
+  "id": 907,
+  "montenegrin": "ometati",
+  "russian": "мешать",
+  "pos": "гл.",
+  "context_ru": "создавать помехи",
+  "dalle_prompt": "person interrupting another, flat illustration",
+  "status": "pending",
+  "query_text": "мешать\n[гл.  создавать помехи]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 69,
+  "montenegrin": "i",
+  "russian": "и",
+  "pos": "союз",
+  "context_ru": "соединит.",
+  "dalle_prompt": "plus sign between two elements, flat illustration",
+  "status": "pending",
+  "query_text": "и\n[союз  соединит.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

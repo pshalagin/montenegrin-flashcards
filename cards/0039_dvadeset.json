@@ -1,0 +1,14 @@
+{
+  "id": 39,
+  "montenegrin": "dvadeset",
+  "russian": "двадцать",
+  "pos": "числ.",
+  "context_ru": "количест.",
+  "dalle_prompt": "number 20 on a board, flat illustration",
+  "status": "pending",
+  "query_text": "двадцать\n[числ.  количест.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

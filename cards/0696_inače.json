@@ -1,0 +1,14 @@
+{
+  "id": 696,
+  "montenegrin": "inače",
+  "russian": "иначе / в противном случае",
+  "pos": "нар.",
+  "context_ru": "альтернатива",
+  "dalle_prompt": "otherwise fork in road, flat illustration",
+  "status": "pending",
+  "query_text": "иначе / в противном случае\n[нар.  альтернатива]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

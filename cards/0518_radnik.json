@@ -1,0 +1,14 @@
+{
+  "id": 518,
+  "montenegrin": "radnik",
+  "russian": "рабочий",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "worker with hard hat, flat illustration",
+  "status": "pending",
+  "query_text": "рабочий\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

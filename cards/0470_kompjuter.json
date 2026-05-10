@@ -1,0 +1,14 @@
+{
+  "id": 470,
+  "montenegrin": "kompjuter",
+  "russian": "компьютер",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "laptop or desktop computer, flat illustration",
+  "status": "pending",
+  "query_text": "компьютер\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

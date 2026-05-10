@@ -1,0 +1,14 @@
+{
+  "id": 247,
+  "montenegrin": "stric",
+  "russian": "дядя (брат отца)",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "uncle figure waving, flat illustration",
+  "status": "pending",
+  "query_text": "дядя (брат отца)\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

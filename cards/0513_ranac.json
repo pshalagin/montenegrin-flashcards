@@ -1,0 +1,14 @@
+{
+  "id": 513,
+  "montenegrin": "ranac",
+  "russian": "рюкзак",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "backpack, flat illustration",
+  "status": "pending",
+  "query_text": "рюкзак\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 75,
+  "montenegrin": "kada",
+  "russian": "когда",
+  "pos": "союз",
+  "context_ru": "временной",
+  "dalle_prompt": "calendar and clock together, flat illustration",
+  "status": "pending",
+  "query_text": "когда\n[союз  временной]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 896,
+  "montenegrin": "razvesti se",
+  "russian": "развестись",
+  "pos": "гл.",
+  "context_ru": "расторгнуть брак (сов.)",
+  "dalle_prompt": "broken chain separation, flat illustration",
+  "status": "pending",
+  "query_text": "развестись\n[гл.  расторгнуть брак (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

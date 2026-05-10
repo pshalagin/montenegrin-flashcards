@@ -1,0 +1,14 @@
+{
+  "id": 270,
+  "montenegrin": "koža",
+  "russian": "кожа",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "skin texture on arm, flat illustration",
+  "status": "pending",
+  "query_text": "кожа\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

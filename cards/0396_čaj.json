@@ -1,0 +1,14 @@
+{
+  "id": 396,
+  "montenegrin": "čaj",
+  "russian": "чай",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "cup of tea with steam, flat illustration",
+  "status": "pending",
+  "query_text": "чай\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

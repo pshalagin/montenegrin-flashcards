@@ -1,0 +1,14 @@
+{
+  "id": 150,
+  "montenegrin": "zahvaliti",
+  "russian": "поблагодарить",
+  "pos": "гл.",
+  "context_ru": "выразить благодарность (сов.)",
+  "dalle_prompt": "grateful person saying thank you, flat illustration",
+  "status": "pending",
+  "query_text": "поблагодарить\n[гл.  выразить благодарность (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

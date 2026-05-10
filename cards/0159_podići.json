@@ -1,0 +1,14 @@
+{
+  "id": 159,
+  "montenegrin": "podići",
+  "russian": "поднять",
+  "pos": "гл.",
+  "context_ru": "поднять вверх (сов.)",
+  "dalle_prompt": "person lifting heavy box, flat illustration",
+  "status": "pending",
+  "query_text": "поднять\n[гл.  поднять вверх (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 654,
+  "montenegrin": "koliko",
+  "russian": "сколько",
+  "pos": "нар.",
+  "context_ru": "вопрос о кол-ве",
+  "dalle_prompt": "question mark with numbers, flat illustration",
+  "status": "pending",
+  "query_text": "сколько\n[нар.  вопрос о кол-ве]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

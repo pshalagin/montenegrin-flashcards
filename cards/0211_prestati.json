@@ -1,0 +1,14 @@
+{
+  "id": 211,
+  "montenegrin": "prestati",
+  "russian": "перестать",
+  "pos": "гл.",
+  "context_ru": "прекратить (сов.)",
+  "dalle_prompt": "stop sign action ending, flat illustration",
+  "status": "pending",
+  "query_text": "перестать\n[гл.  прекратить (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

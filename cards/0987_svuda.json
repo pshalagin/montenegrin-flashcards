@@ -1,0 +1,14 @@
+{
+  "id": 987,
+  "montenegrin": "svuda",
+  "russian": "везде / повсюду",
+  "pos": "нар.",
+  "context_ru": "все места",
+  "dalle_prompt": "everywhere arrows all directions, flat illustration",
+  "status": "pending",
+  "query_text": "везде / повсюду\n[нар.  все места]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

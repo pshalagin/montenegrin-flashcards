@@ -1,0 +1,14 @@
+{
+  "id": 254,
+  "montenegrin": "djeca",
+  "russian": "дети",
+  "pos": "сущ.",
+  "context_ru": "мн.ч. от dijete",
+  "dalle_prompt": "group of children playing, flat illustration",
+  "status": "pending",
+  "query_text": "дети\n[сущ.  мн.ч. от dijete]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 257,
+  "montenegrin": "srodnik",
+  "russian": "родственник",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "family tree illustration, flat",
+  "status": "pending",
+  "query_text": "родственник\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

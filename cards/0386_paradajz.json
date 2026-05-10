@@ -1,0 +1,14 @@
+{
+  "id": 386,
+  "montenegrin": "paradajz",
+  "russian": "помидор",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "red tomato, flat illustration",
+  "status": "pending",
+  "query_text": "помидор\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

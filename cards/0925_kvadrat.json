@@ -1,0 +1,14 @@
+{
+  "id": 925,
+  "montenegrin": "kvadrat",
+  "russian": "квадрат",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "square shape, flat illustration",
+  "status": "pending",
+  "query_text": "квадрат\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

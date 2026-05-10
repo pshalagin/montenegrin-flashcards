@@ -1,0 +1,14 @@
+{
+  "id": 450,
+  "montenegrin": "taksi",
+  "russian": "такси",
+  "pos": "сущ.",
+  "context_ru": "ср.р.",
+  "dalle_prompt": "yellow taxi cab, flat illustration",
+  "status": "pending",
+  "query_text": "такси\n[сущ.  ср.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

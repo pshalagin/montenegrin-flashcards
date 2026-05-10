@@ -1,0 +1,14 @@
+{
+  "id": 197,
+  "montenegrin": "okrenuti",
+  "russian": "повернуть",
+  "pos": "гл.",
+  "context_ru": "изменить направление (сов.)",
+  "dalle_prompt": "person turning around, flat illustration",
+  "status": "pending",
+  "query_text": "повернуть\n[гл.  изменить направление (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

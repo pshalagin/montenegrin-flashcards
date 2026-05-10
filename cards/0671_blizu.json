@@ -1,0 +1,14 @@
+{
+  "id": 671,
+  "montenegrin": "blizu",
+  "russian": "близко / рядом",
+  "pos": "нар.",
+  "context_ru": "небольшое расстояние",
+  "dalle_prompt": "two close objects, flat illustration",
+  "status": "pending",
+  "query_text": "близко / рядом\n[нар.  небольшое расстояние]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

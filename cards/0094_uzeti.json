@@ -1,0 +1,14 @@
+{
+  "id": 94,
+  "montenegrin": "uzeti",
+  "russian": "взять",
+  "pos": "гл.",
+  "context_ru": "взять в руки (сов.)",
+  "dalle_prompt": "hand reaching to pick up object, flat illustration",
+  "status": "pending",
+  "query_text": "взять\n[гл.  взять в руки (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

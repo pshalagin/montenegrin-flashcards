@@ -1,0 +1,14 @@
+{
+  "id": 953,
+  "montenegrin": "zvaničan",
+  "russian": "официальный",
+  "pos": "прил.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "official document stamp, flat illustration",
+  "status": "pending",
+  "query_text": "официальный\n[прил.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

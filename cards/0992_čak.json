@@ -1,0 +1,14 @@
+{
+  "id": 992,
+  "montenegrin": "čak",
+  "russian": "даже",
+  "pos": "нар.",
+  "context_ru": "усиление неожиданности",
+  "dalle_prompt": "even surprised expression, flat illustration",
+  "status": "pending",
+  "query_text": "даже\n[нар.  усиление неожиданности]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

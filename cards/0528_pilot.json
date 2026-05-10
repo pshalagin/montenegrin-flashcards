@@ -1,0 +1,14 @@
+{
+  "id": 528,
+  "montenegrin": "pilot",
+  "russian": "пилот",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "pilot in cockpit, flat illustration",
+  "status": "pending",
+  "query_text": "пилот\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

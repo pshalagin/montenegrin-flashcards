@@ -1,0 +1,14 @@
+{
+  "id": 434,
+  "montenegrin": "pozorište",
+  "russian": "театр",
+  "pos": "сущ.",
+  "context_ru": "ср.р.",
+  "dalle_prompt": "theater stage with curtains, flat illustration",
+  "status": "pending",
+  "query_text": "театр\n[сущ.  ср.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

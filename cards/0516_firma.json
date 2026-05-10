@@ -1,0 +1,14 @@
+{
+  "id": 516,
+  "montenegrin": "firma",
+  "russian": "фирма / компания",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "office building exterior, flat illustration",
+  "status": "pending",
+  "query_text": "фирма / компания\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

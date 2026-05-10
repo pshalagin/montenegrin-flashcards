@@ -1,0 +1,14 @@
+{
+  "id": 995,
+  "montenegrin": "odjednom",
+  "russian": "вдруг / сразу",
+  "pos": "нар.",
+  "context_ru": "внезапно",
+  "dalle_prompt": "sudden surprise flash, flat illustration",
+  "status": "pending",
+  "query_text": "вдруг / сразу\n[нар.  внезапно]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 830,
+  "montenegrin": "Crna Gora",
+  "russian": "Черногория",
+  "pos": "сущ.",
+  "context_ru": "страна",
+  "dalle_prompt": "Montenegro map outline, flat illustration",
+  "status": "pending",
+  "query_text": "Черногория\n[сущ.  страна]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

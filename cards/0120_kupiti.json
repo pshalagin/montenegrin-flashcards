@@ -1,0 +1,14 @@
+{
+  "id": 120,
+  "montenegrin": "kupiti",
+  "russian": "купить",
+  "pos": "гл.",
+  "context_ru": "приобрести (сов.)",
+  "dalle_prompt": "person shopping paying at store, flat illustration",
+  "status": "pending",
+  "query_text": "купить\n[гл.  приобрести (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

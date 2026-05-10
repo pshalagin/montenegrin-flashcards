@@ -1,0 +1,14 @@
+{
+  "id": 844,
+  "montenegrin": "solarna energija",
+  "russian": "солнечная энергия",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "solar panels on roof, flat illustration",
+  "status": "pending",
+  "query_text": "солнечная энергия\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

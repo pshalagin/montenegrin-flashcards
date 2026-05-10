@@ -1,0 +1,14 @@
+{
+  "id": 306,
+  "montenegrin": "trava",
+  "russian": "трава",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "green grass, flat illustration",
+  "status": "pending",
+  "query_text": "трава\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

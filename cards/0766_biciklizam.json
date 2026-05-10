@@ -1,0 +1,14 @@
+{
+  "id": 766,
+  "montenegrin": "biciklizam",
+  "russian": "езда на велосипеде",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "person cycling, flat illustration",
+  "status": "pending",
+  "query_text": "езда на велосипеде\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

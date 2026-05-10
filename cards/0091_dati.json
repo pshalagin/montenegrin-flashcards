@@ -1,0 +1,14 @@
+{
+  "id": 91,
+  "montenegrin": "dati",
+  "russian": "дать",
+  "pos": "гл.",
+  "context_ru": "передать (сов.)",
+  "dalle_prompt": "person handing object to another, flat illustration",
+  "status": "pending",
+  "query_text": "дать\n[гл.  передать (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

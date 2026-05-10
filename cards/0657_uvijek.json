@@ -1,0 +1,14 @@
+{
+  "id": 657,
+  "montenegrin": "uvijek",
+  "russian": "всегда",
+  "pos": "нар.",
+  "context_ru": "во все времена",
+  "dalle_prompt": "infinity clock symbol, flat illustration",
+  "status": "pending",
+  "query_text": "всегда\n[нар.  во все времена]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

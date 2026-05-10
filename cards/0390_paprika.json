@@ -1,0 +1,14 @@
+{
+  "id": 390,
+  "montenegrin": "paprika",
+  "russian": "болгарский перец",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "bell pepper colorful, flat illustration",
+  "status": "pending",
+  "query_text": "болгарский перец\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

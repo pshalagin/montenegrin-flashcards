@@ -1,0 +1,14 @@
+{
+  "id": 48,
+  "montenegrin": "na",
+  "russian": "на",
+  "pos": "предл.",
+  "context_ru": "на поверхности",
+  "dalle_prompt": "object placed on top of table, flat illustration",
+  "status": "pending",
+  "query_text": "на\n[предл.  на поверхности]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

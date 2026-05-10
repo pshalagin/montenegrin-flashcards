@@ -1,0 +1,14 @@
+{
+  "id": 190,
+  "montenegrin": "vraćati",
+  "russian": "возвращать",
+  "pos": "гл.",
+  "context_ru": "возврат (несов.)",
+  "dalle_prompt": "person returning item to store, flat illustration",
+  "status": "pending",
+  "query_text": "возвращать\n[гл.  возврат (несов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

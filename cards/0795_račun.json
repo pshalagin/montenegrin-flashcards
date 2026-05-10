@@ -1,0 +1,14 @@
+{
+  "id": 795,
+  "montenegrin": "račun",
+  "russian": "счёт / квитанция",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "invoice bill paper, flat illustration",
+  "status": "pending",
+  "query_text": "счёт / квитанция\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 613,
+  "montenegrin": "pravi",
+  "russian": "правильный / настоящий",
+  "pos": "прил.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "genuine original item, flat illustration",
+  "status": "pending",
+  "query_text": "правильный / настоящий\n[прил.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

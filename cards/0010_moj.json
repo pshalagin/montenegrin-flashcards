@@ -1,0 +1,14 @@
+{
+  "id": 10,
+  "montenegrin": "moj",
+  "russian": "мой",
+  "pos": "местоим.",
+  "context_ru": "притяж. м.р.",
+  "dalle_prompt": "person holding their belongings, flat illustration",
+  "status": "pending",
+  "query_text": "мой\n[местоим.  притяж. м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

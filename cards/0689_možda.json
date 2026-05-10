@@ -1,0 +1,14 @@
+{
+  "id": 689,
+  "montenegrin": "možda",
+  "russian": "может быть",
+  "pos": "нар.",
+  "context_ru": "неопределённость",
+  "dalle_prompt": "maybe question mark scale, flat illustration",
+  "status": "pending",
+  "query_text": "может быть\n[нар.  неопределённость]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

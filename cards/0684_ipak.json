@@ -1,0 +1,14 @@
+{
+  "id": 684,
+  "montenegrin": "ipak",
+  "russian": "всё-таки / тем не менее",
+  "pos": "нар.",
+  "context_ru": "уступка",
+  "dalle_prompt": "person crossing obstacle anyway, flat illustration",
+  "status": "pending",
+  "query_text": "всё-таки / тем не менее\n[нар.  уступка]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

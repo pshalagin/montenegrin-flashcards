@@ -1,0 +1,14 @@
+{
+  "id": 692,
+  "montenegrin": "odakle",
+  "russian": "откуда",
+  "pos": "нар.",
+  "context_ru": "вопрос о происхождении",
+  "dalle_prompt": "origin point arrow, flat illustration",
+  "status": "pending",
+  "query_text": "откуда\n[нар.  вопрос о происхождении]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

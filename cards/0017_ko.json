@@ -1,0 +1,14 @@
+{
+  "id": 17,
+  "montenegrin": "ko",
+  "russian": "кто",
+  "pos": "местоим.",
+  "context_ru": "вопросит.",
+  "dalle_prompt": "person with question mark above head, flat illustration",
+  "status": "pending",
+  "query_text": "кто\n[местоим.  вопросит.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

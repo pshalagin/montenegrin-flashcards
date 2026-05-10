@@ -1,0 +1,14 @@
+{
+  "id": 198,
+  "montenegrin": "popraviti",
+  "russian": "починить",
+  "pos": "гл.",
+  "context_ru": "исправить поломку (сов.)",
+  "dalle_prompt": "person fixing something with tools, flat illustration",
+  "status": "pending",
+  "query_text": "починить\n[гл.  исправить поломку (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

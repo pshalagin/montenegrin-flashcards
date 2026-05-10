@@ -1,0 +1,14 @@
+{
+  "id": 161,
+  "montenegrin": "probuditi se",
+  "russian": "проснуться",
+  "pos": "гл.",
+  "context_ru": "пробуждение (сов.)",
+  "dalle_prompt": "person waking up in morning, flat illustration",
+  "status": "pending",
+  "query_text": "проснуться\n[гл.  пробуждение (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

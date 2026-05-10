@@ -1,0 +1,14 @@
+{
+  "id": 738,
+  "montenegrin": "medicina",
+  "russian": "медицина",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "medical cross stethoscope, flat illustration",
+  "status": "pending",
+  "query_text": "медицина\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

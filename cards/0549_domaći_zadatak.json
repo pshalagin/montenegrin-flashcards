@@ -1,0 +1,14 @@
+{
+  "id": 549,
+  "montenegrin": "domaći zadatak",
+  "russian": "домашнее задание",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "homework on desk, flat illustration",
+  "status": "pending",
+  "query_text": "домашнее задание\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

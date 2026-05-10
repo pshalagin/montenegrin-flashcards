@@ -1,0 +1,14 @@
+{
+  "id": 473,
+  "montenegrin": "šporet",
+  "russian": "плита",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "cooking stove with burners, flat illustration",
+  "status": "pending",
+  "query_text": "плита\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 659,
+  "montenegrin": "ponekad",
+  "russian": "иногда",
+  "pos": "нар.",
+  "context_ru": "не всегда",
+  "dalle_prompt": "irregular intervals on timeline, flat illustration",
+  "status": "pending",
+  "query_text": "иногда\n[нар.  не всегда]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

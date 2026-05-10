@@ -1,0 +1,14 @@
+{
+  "id": 565,
+  "montenegrin": "proljeće",
+  "russian": "весна",
+  "pos": "сущ.",
+  "context_ru": "ср.р.",
+  "dalle_prompt": "spring flowers blooming, flat illustration",
+  "status": "pending",
+  "query_text": "весна\n[сущ.  ср.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

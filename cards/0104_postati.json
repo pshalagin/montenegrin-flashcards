@@ -1,0 +1,14 @@
+{
+  "id": 104,
+  "montenegrin": "postati",
+  "russian": "стать",
+  "pos": "гл.",
+  "context_ru": "превратиться (сов.)",
+  "dalle_prompt": "caterpillar becoming butterfly, flat illustration",
+  "status": "pending",
+  "query_text": "стать\n[гл.  превратиться (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

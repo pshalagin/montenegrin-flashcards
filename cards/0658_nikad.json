@@ -1,0 +1,14 @@
+{
+  "id": 658,
+  "montenegrin": "nikad",
+  "russian": "никогда",
+  "pos": "нар.",
+  "context_ru": "ни в какое время",
+  "dalle_prompt": "crossed out clock, flat illustration",
+  "status": "pending",
+  "query_text": "никогда\n[нар.  ни в какое время]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

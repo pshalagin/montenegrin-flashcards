@@ -1,0 +1,14 @@
+{
+  "id": 890,
+  "montenegrin": "hvaliti",
+  "russian": "хвалить",
+  "pos": "гл.",
+  "context_ru": "давать похвалу",
+  "dalle_prompt": "person praising another, flat illustration",
+  "status": "pending",
+  "query_text": "хвалить\n[гл.  давать похвалу]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

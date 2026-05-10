@@ -1,0 +1,14 @@
+{
+  "id": 860,
+  "montenegrin": "izbori",
+  "russian": "выборы",
+  "pos": "сущ.",
+  "context_ru": "мн.ч. м.р.",
+  "dalle_prompt": "election polling station, flat illustration",
+  "status": "pending",
+  "query_text": "выборы\n[сущ.  мн.ч. м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

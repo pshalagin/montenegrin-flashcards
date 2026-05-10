@@ -1,0 +1,14 @@
+{
+  "id": 874,
+  "montenegrin": "pozorišna predstava",
+  "russian": "театральный спектакль",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "theater performance stage, flat illustration",
+  "status": "pending",
+  "query_text": "театральный спектакль\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

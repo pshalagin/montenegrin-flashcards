@@ -1,0 +1,14 @@
+{
+  "id": 7,
+  "montenegrin": "vi",
+  "russian": "вы",
+  "pos": "местоим.",
+  "context_ru": "2-е л. мн.ч. / вежл.",
+  "dalle_prompt": "group of people, polite conversation illustration",
+  "status": "pending",
+  "query_text": "вы\n[местоим.  2-е л. мн.ч. / вежл.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

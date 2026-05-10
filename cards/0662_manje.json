@@ -1,0 +1,14 @@
+{
+  "id": 662,
+  "montenegrin": "manje",
+  "russian": "меньше",
+  "pos": "нар.",
+  "context_ru": "уменьшение",
+  "dalle_prompt": "less arrows going down, flat illustration",
+  "status": "pending",
+  "query_text": "меньше\n[нар.  уменьшение]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

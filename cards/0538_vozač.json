@@ -1,0 +1,14 @@
+{
+  "id": 538,
+  "montenegrin": "vozač",
+  "russian": "шофёр / водитель",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "driver in vehicle, flat illustration",
+  "status": "pending",
+  "query_text": "шофёр / водитель\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

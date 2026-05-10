@@ -1,0 +1,14 @@
+{
+  "id": 410,
+  "montenegrin": "kupatilo",
+  "russian": "ванная комната",
+  "pos": "сущ.",
+  "context_ru": "ср.р.",
+  "dalle_prompt": "bathroom interior, flat illustration",
+  "status": "pending",
+  "query_text": "ванная комната\n[сущ.  ср.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

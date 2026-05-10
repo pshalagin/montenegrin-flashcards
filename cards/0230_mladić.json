@@ -1,0 +1,14 @@
+{
+  "id": 230,
+  "montenegrin": "mladić",
+  "russian": "молодой человек",
+  "pos": "сущ.",
+  "context_ru": "юноша",
+  "dalle_prompt": "young man in casual clothes, flat illustration",
+  "status": "pending",
+  "query_text": "молодой человек\n[сущ.  юноша]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

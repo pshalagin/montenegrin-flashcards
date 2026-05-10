@@ -1,0 +1,14 @@
+{
+  "id": 676,
+  "montenegrin": "nazad",
+  "russian": "назад",
+  "pos": "нар.",
+  "context_ru": "обратное направление",
+  "dalle_prompt": "arrow backward, flat illustration",
+  "status": "pending",
+  "query_text": "назад\n[нар.  обратное направление]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

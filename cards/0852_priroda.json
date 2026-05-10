@@ -1,0 +1,14 @@
+{
+  "id": 852,
+  "montenegrin": "priroda",
+  "russian": "природа",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "natural landscape panorama, flat illustration",
+  "status": "pending",
+  "query_text": "природа\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

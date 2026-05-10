@@ -1,0 +1,14 @@
+{
+  "id": 704,
+  "montenegrin": "mir",
+  "russian": "мир (покой)",
+  "pos": "сущ.",
+  "context_ru": "м.р. — отсутствие конфликта",
+  "dalle_prompt": "peaceful landscape dove, flat illustration",
+  "status": "pending",
+  "query_text": "мир (покой)\n[сущ.  м.р. — отсутствие конфликта]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

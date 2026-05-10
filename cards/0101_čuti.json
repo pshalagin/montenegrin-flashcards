@@ -1,0 +1,14 @@
+{
+  "id": 101,
+  "montenegrin": "čuti",
+  "russian": "слышать",
+  "pos": "гл.",
+  "context_ru": "звуковое восприятие",
+  "dalle_prompt": "ear with sound waves, flat illustration",
+  "status": "pending",
+  "query_text": "слышать\n[гл.  звуковое восприятие]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

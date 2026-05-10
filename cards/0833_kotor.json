@@ -1,0 +1,14 @@
+{
+  "id": 833,
+  "montenegrin": "Kotor",
+  "russian": "Котор",
+  "pos": "сущ.",
+  "context_ru": "исторический город",
+  "dalle_prompt": "Kotor old town bay, flat illustration",
+  "status": "pending",
+  "query_text": "Котор\n[сущ.  исторический город]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

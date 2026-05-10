@@ -1,0 +1,14 @@
+{
+  "id": 897,
+  "montenegrin": "diplomirati",
+  "russian": "окончить вуз",
+  "pos": "гл.",
+  "context_ru": "получить диплом (сов.)",
+  "dalle_prompt": "graduation ceremony diploma, flat illustration",
+  "status": "pending",
+  "query_text": "окончить вуз\n[гл.  получить диплом (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

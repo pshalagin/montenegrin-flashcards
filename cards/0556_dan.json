@@ -1,0 +1,14 @@
+{
+  "id": 556,
+  "montenegrin": "dan",
+  "russian": "день",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "sunny day illustration, flat",
+  "status": "pending",
+  "query_text": "день\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

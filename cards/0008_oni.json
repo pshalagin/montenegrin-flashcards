@@ -1,0 +1,14 @@
+{
+  "id": 8,
+  "montenegrin": "oni",
+  "russian": "они",
+  "pos": "местоим.",
+  "context_ru": "м./смешан. мн.ч.",
+  "dalle_prompt": "group of people, simple flat illustration",
+  "status": "pending",
+  "query_text": "они\n[местоим.  м./смешан. мн.ч.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

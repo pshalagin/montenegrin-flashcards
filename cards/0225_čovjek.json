@@ -1,0 +1,14 @@
+{
+  "id": 225,
+  "montenegrin": "čovjek",
+  "russian": "человек / мужчина",
+  "pos": "сущ.",
+  "context_ru": "взрослый / человек вообще",
+  "dalle_prompt": "friendly man standing, simple flat illustration",
+  "status": "pending",
+  "query_text": "человек / мужчина\n[сущ.  взрослый / человек вообще]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

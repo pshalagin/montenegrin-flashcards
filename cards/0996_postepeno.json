@@ -1,0 +1,14 @@
+{
+  "id": 996,
+  "montenegrin": "postepeno",
+  "russian": "постепенно",
+  "pos": "нар.",
+  "context_ru": "шаг за шагом",
+  "dalle_prompt": "gradual steps progress, flat illustration",
+  "status": "pending",
+  "query_text": "постепенно\n[нар.  шаг за шагом]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

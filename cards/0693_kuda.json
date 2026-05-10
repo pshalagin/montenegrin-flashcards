@@ -1,0 +1,14 @@
+{
+  "id": 693,
+  "montenegrin": "kuda",
+  "russian": "куда",
+  "pos": "нар.",
+  "context_ru": "вопрос о направлении",
+  "dalle_prompt": "destination question mark, flat illustration",
+  "status": "pending",
+  "query_text": "куда\n[нар.  вопрос о направлении]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

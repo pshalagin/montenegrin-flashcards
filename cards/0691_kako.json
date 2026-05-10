@@ -1,0 +1,14 @@
+{
+  "id": 691,
+  "montenegrin": "kako",
+  "russian": "как",
+  "pos": "нар.",
+  "context_ru": "вопрос о способе",
+  "dalle_prompt": "how to steps illustration, flat",
+  "status": "pending",
+  "query_text": "как\n[нар.  вопрос о способе]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

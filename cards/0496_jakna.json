@@ -1,0 +1,14 @@
+{
+  "id": 496,
+  "montenegrin": "jakna",
+  "russian": "куртка",
+  "pos": "сущ.",
+  "context_ru": "ж.р.",
+  "dalle_prompt": "jacket, flat illustration",
+  "status": "pending",
+  "query_text": "куртка\n[сущ.  ж.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 235,
+  "montenegrin": "komšija",
+  "russian": "сосед",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "neighbour waving over fence, flat illustration",
+  "status": "pending",
+  "query_text": "сосед\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

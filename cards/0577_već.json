@@ -1,0 +1,14 @@
+{
+  "id": 577,
+  "montenegrin": "već",
+  "russian": "уже",
+  "pos": "нар.",
+  "context_ru": "к данному моменту",
+  "dalle_prompt": "checkmark already done, flat illustration",
+  "status": "pending",
+  "query_text": "уже\n[нар.  к данному моменту]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

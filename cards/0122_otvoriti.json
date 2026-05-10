@@ -1,0 +1,14 @@
+{
+  "id": 122,
+  "montenegrin": "otvoriti",
+  "russian": "открыть",
+  "pos": "гл.",
+  "context_ru": "разомкнуть (сов.)",
+  "dalle_prompt": "person opening a door, flat illustration",
+  "status": "pending",
+  "query_text": "открыть\n[гл.  разомкнуть (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

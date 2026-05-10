@@ -1,0 +1,14 @@
+{
+  "id": 964,
+  "montenegrin": "umjesto",
+  "russian": "вместо",
+  "pos": "предл.",
+  "context_ru": "замена",
+  "dalle_prompt": "replacement swap arrow, flat illustration",
+  "status": "pending",
+  "query_text": "вместо\n[предл.  замена]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

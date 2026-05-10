@@ -1,0 +1,14 @@
+{
+  "id": 482,
+  "montenegrin": "lift",
+  "russian": "лифт",
+  "pos": "сущ.",
+  "context_ru": "м.р.",
+  "dalle_prompt": "elevator doors, flat illustration",
+  "status": "pending",
+  "query_text": "лифт\n[сущ.  м.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

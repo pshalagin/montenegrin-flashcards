@@ -1,0 +1,14 @@
+{
+  "id": 140,
+  "montenegrin": "pomoći",
+  "russian": "помочь",
+  "pos": "гл.",
+  "context_ru": "оказать помощь (сов.)",
+  "dalle_prompt": "person helping another person, flat illustration",
+  "status": "pending",
+  "query_text": "помочь\n[гл.  оказать помощь (сов.)]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": 570,
+  "montenegrin": "sutra",
+  "russian": "завтра",
+  "pos": "нар.",
+  "context_ru": "следующий день",
+  "dalle_prompt": "calendar arrow to tomorrow, flat illustration",
+  "status": "pending",
+  "query_text": "завтра\n[нар.  следующий день]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}

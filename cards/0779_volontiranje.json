@@ -1,0 +1,14 @@
+{
+  "id": 779,
+  "montenegrin": "volontiranje",
+  "russian": "волонтёрство",
+  "pos": "сущ.",
+  "context_ru": "ср.р.",
+  "dalle_prompt": "volunteers helping community, flat illustration",
+  "status": "pending",
+  "query_text": "волонтёрство\n[сущ.  ср.р.]",
+  "image_b64": null,
+  "answer_text": null,
+  "audio_b64": null,
+  "error": null
+}
