@@ -7,8 +7,8 @@
   "dalle_prompt": "musical notes and instruments, flat illustration",
   "status": "pending",
   "query_text": "музыка\n[сущ.  ж.р.]",
-  "image_b64": null,
   "answer_text": null,
-  "audio_b64": null,
-  "error": null
+  "error": null,
+  "image_file": null,
+  "audio_file": null
 }

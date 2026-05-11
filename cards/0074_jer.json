@@ -7,8 +7,8 @@
   "dalle_prompt": "cause and effect arrow diagram, flat illustration",
   "status": "pending",
   "query_text": "потому что\n[союз  причинный]",
-  "image_b64": null,
   "answer_text": null,
-  "audio_b64": null,
-  "error": null
+  "error": null,
+  "image_file": null,
+  "audio_file": null
 }

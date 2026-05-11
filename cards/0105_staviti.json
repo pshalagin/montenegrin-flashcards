@@ -7,8 +7,8 @@
   "dalle_prompt": "person placing object on shelf, flat illustration",
   "status": "pending",
   "query_text": "положить / поставить\n[гл.  разместить (сов.)]",
-  "image_b64": null,
   "answer_text": null,
-  "audio_b64": null,
-  "error": null
+  "error": null,
+  "image_file": null,
+  "audio_file": null
 }

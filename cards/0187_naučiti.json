@@ -7,8 +7,8 @@
   "dalle_prompt": "graduate receiving diploma, flat illustration",
   "status": "pending",
   "query_text": "научить / выучить\n[гл.  усвоить знания (сов.)]",
-  "image_b64": null,
   "answer_text": null,
-  "audio_b64": null,
-  "error": null
+  "error": null,
+  "image_file": null,
+  "audio_file": null
 }

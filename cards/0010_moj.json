@@ -5,10 +5,10 @@
   "pos": "местоим.",
   "context_ru": "притяж. м.р.",
   "dalle_prompt": "person holding their belongings, flat illustration",
-  "status": "pending",
+  "status": "done",
   "query_text": "мой\n[местоим.  притяж. м.р.]",
-  "image_b64": null,
-  "answer_text": null,
-  "audio_b64": null,
-  "error": null
+  "answer_text": "moj — мой  [местоим.]\n\nGRAMMAR & FORMS  \nRod: muški  \nDeklinacija:  \n┌─────────┬────────┬────────┬────────┬────────┬────────┬────────┐  \n│    | Nominativ | Genitiv | Dativ | Akuzativ | Vokativ | Instrumental | Lokativ │  \n├─────────┼────────┼────────┼────────┼────────┼────────┼────────┼────────┤  \n│ Singl  | moj    | mog    | mom    | mog    | moje    | mojim    | o mom   │  \n│ Plural | naši   | naših  | našim  | naše    | naši    | našim    | o našim │  \n└─────────┴────────┴────────┴────────┴────────┴────────┴────────┴────────┘  \n\nEXAMPLE SENTENCES  \n1. Ovo je moj pas. → Это моя собака.  \n2. Moj prijatelj je došao juče. → Мой друг пришёл вчера.  \n3. Moj dom je moja tvrđava. → Мой дом — моя крепость.  \n\nCOLLOCATIONS / SYNONYMS / ANTONYMS  \n• moj prijatelj — мой друг  \n• moj dom — мой дом  \n• tvoj — твой  \n• naš — наш",
+  "error": null,
+  "image_file": "out/media/0010_moj.png",
+  "audio_file": "out/media/0010_moj.aac"
 }

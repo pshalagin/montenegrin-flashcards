@@ -7,8 +7,8 @@
   "dalle_prompt": "teacher explaining on whiteboard, flat illustration",
   "status": "pending",
   "query_text": "объяснить\n[гл.  растолковать (сов.)]",
-  "image_b64": null,
   "answer_text": null,
-  "audio_b64": null,
-  "error": null
+  "error": null,
+  "image_file": null,
+  "audio_file": null
 }

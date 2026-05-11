@@ -24,8 +24,6 @@ import os, sys, argparse, json, time
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-from generate_card import process_card
-
 CARDS_DIR = Path("cards")
 
 
@@ -90,11 +88,8 @@ def main():
                         help="List cards to process without calling APIs")
     args = parser.parse_args()
 
-    if not os.environ.get("OPENAI_API_KEY"):
-        sys.exit("ERROR: set OPENAI_API_KEY environment variable")
-
     if not CARDS_DIR.exists():
-        sys.exit("ERROR: cards/ directory not found. Run init_stubs.py first.")
+        sys.exit("ERROR: cards/ directory not found. Add card JSON files first.")
 
     range_ = tuple(args.range) if args.range else None
     to_do = get_cards(retry_errors=args.retry_errors, range_=range_)
@@ -123,6 +118,11 @@ def main():
         if len(to_do) > 20:
             print(f"  … and {len(to_do) - 20} more")
         return
+
+    if not os.environ.get("OPENAI_API_KEY"):
+        sys.exit("ERROR: set OPENAI_API_KEY environment variable")
+
+    from generate_card import process_card
 
     start = time.time()
     done_count = error_count = 0

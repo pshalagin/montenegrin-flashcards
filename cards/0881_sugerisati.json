@@ -7,8 +7,8 @@
   "dalle_prompt": "person suggesting idea, flat illustration",
   "status": "pending",
   "query_text": "предлагать / советовать\n[гл.  предложение идеи]",
-  "image_b64": null,
   "answer_text": null,
-  "audio_b64": null,
-  "error": null
+  "error": null,
+  "image_file": null,
+  "audio_file": null
 }

@@ -7,8 +7,8 @@
   "dalle_prompt": "rakija traditional drink bottle, flat illustration",
   "status": "pending",
   "query_text": "ракия\n[сущ.  балканский напиток]",
-  "image_b64": null,
   "answer_text": null,
-  "audio_b64": null,
-  "error": null
+  "error": null,
+  "image_file": null,
+  "audio_file": null
 }

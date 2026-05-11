@@ -7,8 +7,8 @@
   "dalle_prompt": "leaf or person falling, flat illustration",
   "status": "pending",
   "query_text": "падать\n[гл.  падение (несов.)]",
-  "image_b64": null,
   "answer_text": null,
-  "audio_b64": null,
-  "error": null
+  "error": null,
+  "image_file": null,
+  "audio_file": null
 }

@@ -7,8 +7,8 @@
   "dalle_prompt": "object placed on top of table, flat illustration",
   "status": "pending",
   "query_text": "на\n[предл.  на поверхности]",
-  "image_b64": null,
   "answer_text": null,
-  "audio_b64": null,
-  "error": null
+  "error": null,
+  "image_file": null,
+  "audio_file": null
 }

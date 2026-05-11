@@ -7,8 +7,8 @@
   "dalle_prompt": "revealing truth layer, flat illustration",
   "status": "pending",
   "query_text": "на самом деле (вар.)\n[нар.  уточнение (вариант)]",
-  "image_b64": null,
   "answer_text": null,
-  "audio_b64": null,
-  "error": null
+  "error": null,
+  "image_file": null,
+  "audio_file": null
 }

@@ -7,8 +7,8 @@
   "dalle_prompt": "person emerging from building, flat illustration",
   "status": "pending",
   "query_text": "из\n[предл.  из внутренности]",
-  "image_b64": null,
   "answer_text": null,
-  "audio_b64": null,
-  "error": null
+  "error": null,
+  "image_file": null,
+  "audio_file": null
 }

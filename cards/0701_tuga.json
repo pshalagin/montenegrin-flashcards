@@ -7,8 +7,8 @@
   "dalle_prompt": "sad person with rain cloud, flat illustration",
   "status": "pending",
   "query_text": "грусть / печаль\n[сущ.  ж.р.]",
-  "image_b64": null,
   "answer_text": null,
-  "audio_b64": null,
-  "error": null
+  "error": null,
+  "image_file": null,
+  "audio_file": null
 }

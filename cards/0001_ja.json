@@ -5,10 +5,10 @@
   "pos": "местоим.",
   "context_ru": "личное",
   "dalle_prompt": "person pointing to themselves, simple flat illustration",
-  "status": "pending",
+  "status": "done",
   "query_text": "я\n[местоим.  личное]",
-  "image_b64": null,
-  "answer_text": null,
-  "audio_b64": null,
-  "error": null
+  "answer_text": "ja — я  [местоим.]\n\nGRAMMAR & FORMS  \nLični zamjenik.  \nNominativ: ja  \nGenitiv: mene  \nDativ: meni  \nAkuzativ: mene  \nVokativ: (nema)  \nInstrumental: mnom  \nLokativ: o meni  \n\nEXAMPLE SENTENCES  \n– Ja sam ovdje. → Я здесь.  \n– Ja volim čitati knjige. → Я люблю читать книги.  \n– Ja ću to uraditi sutra. → Я сделаю это завтра.  \n\nCOLLOCATIONS / SYNONYMS / ANTONYMS  \n• ja — личное местоимение, обозначающее говорящего  \n• mene — форма в родительном падеже, используется для указания на говорящего  \n• ti — местоимение, обозначающее собеседника  \n• oni — местоимение, обозначающее третье лицо множественного числа",
+  "error": null,
+  "image_file": "out/media/0001_ja.png",
+  "audio_file": "out/media/0001_ja.aac"
 }

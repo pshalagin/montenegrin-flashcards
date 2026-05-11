@@ -3,7 +3,7 @@
 generate_card.py
 ────────────────
 Generates ONE flashcard: GPT-4o-mini answer text + DALL-E 3 image + TTS audio.
-Updates the card's JSON stub in place.
+Writes media files under out/media/ and updates the card JSON in place.
 
 Usage:
     # Generate card 0042
@@ -39,6 +39,7 @@ TTS_MODEL    = "tts-1"
 TTS_VOICE    = "nova"          # nova = clear feminine, alloy = neutral
 MAX_RETRIES  = 5
 RETRY_DELAY  = 10
+MEDIA_DIR    = Path("out") / "media"
 
 
 # ── Prompt templates ──────────────────────────────────────────────────────────
@@ -129,8 +130,34 @@ def generate_answer_text(card: dict) -> str:
     return response.choices[0].message.content.strip()
 
 
-def generate_image_b64(card: dict) -> str:
-    """Returns base64-encoded JPEG bytes."""
+def detect_image_extension(data: bytes) -> str:
+    if data.startswith(b"\x89PNG\r\n\x1a\n"):
+        return ".png"
+    if data.startswith(b"\xff\xd8\xff"):
+        return ".jpg"
+    if data.startswith(b"RIFF") and data[8:12] == b"WEBP":
+        return ".webp"
+    return ".img"
+
+
+def relative_path(path: Path) -> str:
+    try:
+        return str(path.resolve().relative_to(Path.cwd()))
+    except ValueError:
+        return str(path)
+
+
+def write_media_file(card_path: Path, suffix: str, data: bytes) -> str:
+    MEDIA_DIR.mkdir(parents=True, exist_ok=True)
+    media_path = MEDIA_DIR / f"{card_path.stem}{suffix}"
+    media_path.write_bytes(data)
+    if media_path.read_bytes() != data:
+        raise OSError(f"Verification failed after writing {media_path}")
+    return relative_path(media_path)
+
+
+def generate_image_bytes(card: dict) -> bytes:
+    """Returns generated image bytes."""
     full_prompt = DALLE_SYSTEM_PREFIX + card["dalle_prompt"]
     response = retry(
         client.images.generate,
@@ -141,11 +168,11 @@ def generate_image_b64(card: dict) -> str:
         style=DALLE_STYLE,
         response_format="b64_json",
     )
-    return response.data[0].b64_json          # already base64 string
+    return base64.b64decode(response.data[0].b64_json)
 
 
-def generate_audio_b64(word: str) -> str:
-    """Returns base64-encoded AAC/MP4 audio bytes."""
+def generate_audio_bytes(word: str) -> bytes:
+    """Returns AAC audio bytes."""
     response = retry(
         client.audio.speech.create,
         model=TTS_MODEL,
@@ -153,8 +180,7 @@ def generate_audio_b64(word: str) -> str:
         input=word,
         response_format="aac",
     )
-    raw_bytes = response.read()
-    return base64.b64encode(raw_bytes).decode("ascii")
+    return response.read()
 
 
 # ── Main ──────────────────────────────────────────────────────────────────────
@@ -180,12 +206,18 @@ def process_card(path: Path, force: bool = False):
 
         # 2. DALL-E image
         print(f"    · DALL-E image …", end=" ", flush=True)
-        card["image_b64"] = generate_image_b64(card)
+        image_bytes = generate_image_bytes(card)
+        card["image_file"] = write_media_file(
+            path,
+            detect_image_extension(image_bytes),
+            image_bytes,
+        )
         print("✓")
 
         # 3. TTS audio
         print(f"    · TTS audio …", end=" ", flush=True)
-        card["audio_b64"] = generate_audio_b64(word)
+        audio_bytes = generate_audio_bytes(word)
+        card["audio_file"] = write_media_file(path, ".aac", audio_bytes)
         print("✓")
 
         card["status"] = "done"
@@ -201,7 +233,7 @@ def process_card(path: Path, force: bool = False):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Generate one flashcard")
-    parser.add_argument("card", help="Path to a card JSON stub, e.g. cards/0001_biti.json")
+    parser.add_argument("card", help="Path to a card JSON file, e.g. cards/0001_biti.json")
     parser.add_argument("--force", action="store_true", help="Regenerate even if already done")
     args = parser.parse_args()
 

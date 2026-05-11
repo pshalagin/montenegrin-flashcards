@@ -5,10 +5,10 @@
   "pos": "местоим.",
   "context_ru": "ср.р. ед.ч.",
   "dalle_prompt": "various neutral objects, simple flat illustration",
-  "status": "pending",
+  "status": "done",
   "query_text": "оно\n[местоим.  ср.р. ед.ч.]",
-  "image_b64": null,
-  "answer_text": null,
-  "audio_b64": null,
-  "error": null
+  "answer_text": "ono — оно  [местоим.]\n\nGRAMMAR & FORMS  \nRod: srednji  \nDeklinacija:  \n┌─────────┬─────────┬─────────┬─────────┬─────────┬─────────┬─────────┐  \n│ Nominativ │ Genitiv  │ Dativ    │ Akuzativ │ Vokativ  │ Instrumental │ Lokativ   │  \n├─────────┼─────────┼─────────┼─────────┼─────────┼─────────┼─────────┤  \n│ ono     │ onog    │ onome   │ ono     │ ono      │ onim       │ onome    │  \n└─────────┴─────────┴─────────┴─────────┴─────────┴─────────┴─────────┘  \nMnožina:  \n┌─────────┬─────────┬─────────┬─────────┬─────────┬─────────┬─────────┐  \n│ Nominativ │ Genitiv  │ Dativ    │ Akuzativ │ Vokativ  │ Instrumental │ Lokativ   │  \n├─────────┼─────────┼─────────┼─────────┼─────────┼─────────┼─────────┤  \n│ ona     │ onih    │ onima   │ ona     │ ona      │ onima      │ onima    │  \n└─────────┴─────────┴─────────┴─────────┴─────────┴─────────┴─────────┘  \n\nEXAMPLE SENTENCES  \nOno je lepo. → Оно красивое.  \nOno što želiš je važno. → То, что ты хочешь, важно.  \nOno je kao san. → Это как сон.  \n\nCOLLOCATIONS / SYNONYMS / ANTONYMS  \n• to je ono — это то  \n• ono što — то, что  \n• ništa — ничего (антоним)  \n• sve — всё (антоним)",
+  "error": null,
+  "image_file": "out/media/0005_ono.png",
+  "audio_file": "out/media/0005_ono.aac"
 }

@@ -5,10 +5,10 @@
   "pos": "местоим.",
   "context_ru": "ж.р. ед.ч.",
   "dalle_prompt": "silhouette of a woman, simple flat illustration",
-  "status": "pending",
+  "status": "done",
   "query_text": "она\n[местоим.  ж.р. ед.ч.]",
-  "image_b64": null,
-  "answer_text": null,
-  "audio_b64": null,
-  "error": null
+  "answer_text": "ona — она  [местоим.]\n\nGRAMMAR & FORMS  \nRod: ženski  \nDeklinacija:  \n┌─────────┬─────────┬─────────┬─────────┬─────────┬─────────┬─────────┐  \n│ Nominativ │ Genitiv │ Dativ │ Akuzativ │ Vokativ │ Instrumental │ Lokativ │  \n├─────────┼─────────┼─────────┼─────────┼─────────┼─────────┼─────────┤  \n│ ona     │ nje      │ njoj   │ nju      │ o! ona  │ njom        │ njoj   │  \n│ one     │ njih     │ njima   │ njih     │ o! one  │ njima       │ njima   │  \n└─────────┴─────────┴─────────┴─────────┴─────────┴─────────┴─────────┘  \n\nEXAMPLE SENTENCES  \nOna je moja prijateljica. → Она моя подруга.  \nOna voli da čita knjige. → Она любит читать книги.  \nOna je kao sunce u mom životu. → Она как солнце в моей жизни.  \n\nCOLLOCATIONS / SYNONYMS / ANTONYMS  \n• ona — местоимение, используемое для обозначения женского рода  \n• ona sama — сама она  \n• ona i on — она и он  \n• ne ona — не она",
+  "error": null,
+  "image_file": "out/media/0004_ona.png",
+  "audio_file": "out/media/0004_ona.aac"
 }

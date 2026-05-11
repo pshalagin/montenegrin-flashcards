@@ -5,10 +5,10 @@
   "pos": "местоим.",
   "context_ru": "ж.р. мн.ч.",
   "dalle_prompt": "group of women, simple flat illustration",
-  "status": "pending",
+  "status": "done",
   "query_text": "они (ж.р.)\n[местоим.  ж.р. мн.ч.]",
-  "image_b64": null,
-  "answer_text": null,
-  "audio_b64": null,
-  "error": null
+  "answer_text": "one — они (ж.р.)  [местоим.]\n\nGRAMMAR & FORMS  \nПолная таблица склонения:  \n┌─────────┬─────────┬─────────┬─────────┬─────────┬─────────┬─────────┐  \n│         │    Имен. │   Род.   │   Дат.  │   Вин.  │   Зов.  │   Твор. │   Мест. │  \n├─────────┼─────────┼─────────┼─────────┼─────────┼─────────┼─────────┼─────────┤  \n│ Сингл.  │   она   │   её     │   њој    │   њу    │   она   │   њом    │   њој    │  \n│ Плурал. │   оне   │   њих    │   њима   │   њих   │   оне   │   њима   │   њима   │  \n└─────────┴─────────┴─────────┴─────────┴─────────┴─────────┴─────────┴─────────┘  \n\nEXAMPLE SENTENCES  \nOna je najbolja prijateljica. → Она лучшая подруга.  \nOni su došli ranije nego što smo očekivali. → Они пришли раньше, чем мы ожидали.  \nSvi oni su bili tu. → Все они были здесь.  \n\nCOLLOCATIONS / SYNONYMS / ANTONYMS  \n• svi — все, общее обозначение для группы людей  \n• neki — некоторые, обозначает неопределённую группу  \n• nijedan — ни один, обозначает отсутствие людей в группе",
+  "error": null,
+  "image_file": "out/media/0009_one.png",
+  "audio_file": "out/media/0009_one.aac"
 }

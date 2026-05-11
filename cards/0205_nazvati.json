@@ -7,8 +7,8 @@
   "dalle_prompt": "person making a phone call, flat illustration",
   "status": "pending",
   "query_text": "позвонить\n[гл.  сделать звонок (сов.)]",
-  "image_b64": null,
   "answer_text": null,
-  "audio_b64": null,
-  "error": null
+  "error": null,
+  "image_file": null,
+  "audio_file": null
 }

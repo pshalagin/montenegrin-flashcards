@@ -7,8 +7,8 @@
   "dalle_prompt": "Budva beach town, flat illustration",
   "status": "pending",
   "query_text": "Будва\n[сущ.  курортный город]",
-  "image_b64": null,
   "answer_text": null,
-  "audio_b64": null,
-  "error": null
+  "error": null,
+  "image_file": null,
+  "audio_file": null
 }

@@ -5,10 +5,10 @@
   "pos": "местоим.",
   "context_ru": "м.р. ед.ч.",
   "dalle_prompt": "silhouette of a man, simple flat illustration",
-  "status": "pending",
+  "status": "done",
   "query_text": "он\n[местоим.  м.р. ед.ч.]",
-  "image_b64": null,
-  "answer_text": null,
-  "audio_b64": null,
-  "error": null
+  "answer_text": "on — он  [местоим.]\n\nGRAMMAR & FORMS  \nRod: muški, jedina forma.\n\nDeklinacija:  \n┌─────────┬─────────┬─────────┬─────────┬─────────┬─────────┬─────────┐  \n│ Nominativ │ Genitiv │ Dativ │ Akuzativ │ Vokativ │ Instrumental │ Lokativ │  \n├─────────┼─────────┼─────────┼─────────┼─────────┼─────────┼─────────┤  \n│ on      │ njega   │ njemu  │ njega    │ o! on   │ s njim      │ o njemu │  \n└─────────┴─────────┴─────────┴─────────┴─────────┴─────────┴─────────┘  \n\nEXAMPLE SENTENCES  \nOn je dobar prijatelj. → Он хороший друг.  \nOn mi je pomogao. → Он мне помог.  \nSvi ga znaju, on je poznat. → Все его знают, он известен.\n\nCOLLOCATIONS / SYNONYMS / ANTONYMS  \n• onaj — тот (указательный местоим.)  \n• neko — кто-то (неопределенное местоим.)  \n• ona — она (женский род местоим.)  \n• ništa — ничто (отрицательное местоим.)",
+  "error": null,
+  "image_file": "out/media/0003_on.png",
+  "audio_file": "out/media/0003_on.aac"
 }

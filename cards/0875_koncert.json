@@ -7,8 +7,8 @@
   "dalle_prompt": "concert live music crowd, flat illustration",
   "status": "pending",
   "query_text": "концерт\n[сущ.  м.р.]",
-  "image_b64": null,
   "answer_text": null,
-  "audio_b64": null,
-  "error": null
+  "error": null,
+  "image_file": null,
+  "audio_file": null
 }

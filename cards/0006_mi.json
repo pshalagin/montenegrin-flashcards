@@ -5,10 +5,10 @@
   "pos": "местоим.",
   "context_ru": "1-е л. мн.ч.",
   "dalle_prompt": "small group of people together, simple illustration",
-  "status": "pending",
+  "status": "done",
   "query_text": "мы\n[местоим.  1-е л. мн.ч.]",
-  "image_b64": null,
-  "answer_text": null,
-  "audio_b64": null,
-  "error": null
+  "answer_text": "mi — мы  [местоим.]\n\nGRAMMAR & FORMS  \n1-е л. мн.ч.  \nNominative: mi  \nGenitive: nas  \nDative: nama  \nAccusative: nas  \nVocative:  \nInstrumental: nama  \nLocative: nama  \n\nEXAMPLE SENTENCES  \n– Mi idemo u školu. → Мы идем в школу.  \n– Mi smo završili zadatak. → Мы закончили задание.  \n– Mi smo kao porodica. → Мы как семья.  \n\nCOLLOCATIONS / SYNONYMS / ANTONYMS  \n• mi i ti — мы и ты  \n• mi smo — мы есть  \n• mi zajedno — мы вместе  \n• mi protiv njih — мы против них",
+  "error": null,
+  "image_file": "out/media/0006_mi.png",
+  "audio_file": "out/media/0006_mi.aac"
 }

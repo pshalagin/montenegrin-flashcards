@@ -7,8 +7,8 @@
   "dalle_prompt": "house backyard, flat illustration",
   "status": "pending",
   "query_text": "двор\n[сущ.  ср.р.]",
-  "image_b64": null,
   "answer_text": null,
-  "audio_b64": null,
-  "error": null
+  "error": null,
+  "image_file": null,
+  "audio_file": null
 }

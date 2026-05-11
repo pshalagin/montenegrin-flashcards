@@ -5,10 +5,10 @@
   "pos": "местоим.",
   "context_ru": "м./смешан. мн.ч.",
   "dalle_prompt": "group of people, simple flat illustration",
-  "status": "pending",
+  "status": "done",
   "query_text": "они\n[местоим.  м./смешан. мн.ч.]",
-  "image_b64": null,
-  "answer_text": null,
-  "audio_b64": null,
-  "error": null
+  "answer_text": "oni — они  [местоим.]\n\nGRAMMAR & FORMS  \nMnožina (м./смешан. мн.ч.)  \nNominativ: oni  \nGenitiv: njih  \nDativ: njima  \nAkuzativ: njih  \nVokativ: o!  \nInstrumental: njima  \nLokativ: o njima  \n\nEXAMPLE SENTENCES  \nOni idu u školu. → Они идут в школу.  \nOni su završili zadatak. → Они закончили задание.  \nOni su kao porodica. → Они как семья.\n\nCOLLOCATIONS / SYNONYMS / ANTONYMS  \n• oni — используется для обозначения группы людей или stvari  \n• njih — форма genitiva za \"oni\"  \n• svi — все, общее обозначение за группу  \n• neki — некоторые, обозначает неопределенную группу",
+  "error": null,
+  "image_file": "out/media/0008_oni.png",
+  "audio_file": "out/media/0008_oni.aac"
 }

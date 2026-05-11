@@ -7,8 +7,8 @@
   "dalle_prompt": "person giving green light approval, flat illustration",
   "status": "pending",
   "query_text": "разрешить\n[гл.  дать разрешение (сов.)]",
-  "image_b64": null,
   "answer_text": null,
-  "audio_b64": null,
-  "error": null
+  "error": null,
+  "image_file": null,
+  "audio_file": null
 }

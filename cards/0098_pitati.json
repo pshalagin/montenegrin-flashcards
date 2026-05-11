@@ -7,8 +7,8 @@
   "dalle_prompt": "person raising hand to ask, flat illustration",
   "status": "pending",
   "query_text": "спрашивать\n[гл.  задавать вопрос]",
-  "image_b64": null,
   "answer_text": null,
-  "audio_b64": null,
-  "error": null
+  "error": null,
+  "image_file": null,
+  "audio_file": null
 }

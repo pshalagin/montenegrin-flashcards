@@ -7,8 +7,8 @@
   "dalle_prompt": "diploma certificate, flat illustration",
   "status": "pending",
   "query_text": "диплом\n[сущ.  ж.р.]",
-  "image_b64": null,
   "answer_text": null,
-  "audio_b64": null,
-  "error": null
+  "error": null,
+  "image_file": null,
+  "audio_file": null
 }

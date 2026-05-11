@@ -5,10 +5,10 @@
   "pos": "местоим.",
   "context_ru": "личное, 2-е л. ед.ч.",
   "dalle_prompt": "two people, one pointing at the other, friendly illustration",
-  "status": "pending",
+  "status": "done",
   "query_text": "ты\n[местоим.  личное, 2-е л. ед.ч.]",
-  "image_b64": null,
-  "answer_text": null,
-  "audio_b64": null,
-  "error": null
+  "answer_text": "ti — ты  [местоим.]\n\nGRAMMAR & FORMS  \nLično, 2. lice, jednine.  \nNema deklinacije.\n\nEXAMPLE SENTENCES  \n– Ti si dobar prijatelj. → Ты хороший друг.  \n– Da li ti možeš pomoći? → Можешь мне помочь?  \n– Ti si kao sunce. → Ты как солнце.\n\nCOLLOCATIONS / SYNONYMS / ANTONYMS  \n• ti i ja — ты и я  \n• ti si — ты есть  \n• ti i tvoji — ты и твои  \n• ne ti — не ты",
+  "error": null,
+  "image_file": "out/media/0002_ti.png",
+  "audio_file": "out/media/0002_ti.aac"
 }

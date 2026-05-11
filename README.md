@@ -1,7 +1,9 @@
 # Montenegrin / Serbian Flashcard Generator — 1000 cards
 
-Generates a complete `.achfx` flashcard deck (1000 cards) for learning
-Montenegrin/Serbian from Russian.
+Generates flashcard decks for learning Montenegrin/Serbian from Russian.
+The canonical storage format is `cards/*.json` plus media files under
+`out/media/`; exporters can build app-specific deck files from the same
+generated cards.
 
 ## Card format
 
@@ -15,6 +17,10 @@ Montenegrin/Serbian from Russian.
 - Collocations / synonyms / antonyms
 
 **Audio** — TTS pronunciation of the Montenegrin word (nova voice)
+
+Generated card JSON stores text plus reviewable media paths:
+- `image_file`: generated illustration under `out/media/`, usually `.png`
+- `audio_file`: generated pronunciation under `out/media/`, `.aac`
 
 ---
 
@@ -31,12 +37,23 @@ export OPENAI_API_KEY="sk-proj-..."
 
 ## Workflow
 
-### Step 1 — Create stubs
-```bash
-python3 init_stubs.py
-```
-Creates `cards/0001_ja.json` … `cards/1000_….json` — one stub per word,
-all with `status: pending`. Safe to re-run.
+### Step 1 — Edit card content
+Card JSON files under `cards/` are the source of truth. To add or change
+vocabulary, edit those files directly.
+
+Pending cards should include the generation inputs:
+- `id`
+- `montenegrin`
+- `russian`
+- `pos`
+- `context_ru`
+- `dalle_prompt`
+- `status: "pending"`
+- `query_text`
+- `answer_text: null`
+- `image_file: null`
+- `audio_file: null`
+- `error: null`
 
 ### Step 2 — Generate cards
 ```bash
@@ -58,29 +75,49 @@ python3 generate_all.py --dry-run
 
 Each card calls three OpenAI APIs:
 1. **GPT-4o-mini** → grammar table + 3 example sentences
-2. **DALL-E 3** → 1024×1024 JPEG illustration
+2. **DALL-E 3** → 1024×1024 illustration file
 3. **TTS-1** → AAC audio of the word
 
-Results are saved immediately into the JSON stub, so you can interrupt
-and resume at any time.
+Results are saved immediately into the card JSON and `out/media/`,
+so you can interrupt and resume at any time.
 
 ### Step 3 — Inspect individual cards
 You can open any `cards/XXXX_word.json` and edit `answer_text` by hand,
-or regenerate it:
+or review the generated image/audio files under `out/media/`. You can also regenerate it:
 ```bash
 python3 generate_card.py cards/0042_biti.json --force
 ```
 
-### Step 4 — Assemble the database
+### Step 4 — Export decks
 ```bash
-python3 assemble_db.py
+python3 export.py status
+python3 export.py achfx
+python3 export.py mochi
 ```
-Produces `Montenegrin_1000.achfx` — a SQLite file ready to import.
+
+Default outputs:
+- `out/Montenegrin_1000.achfx` — SQLite ACHFX deck
+- `out/Montenegrin_1000.mochi` — native Mochi ZIP import
 
 ```bash
-# Check how many cards are done before assembling
-python3 assemble_db.py --status
+# Custom output paths
+python3 export.py achfx --output out/custom.achfx
+python3 export.py mochi --output out/custom.mochi
 ```
+
+`export.py` reads only generated cards with `status: done`. Done cards must have
+`query_text`, `answer_text`, `image_file`, and `audio_file`; missing media fails
+clearly.
+
+## Exporters
+
+Built-in exporters:
+- `achfx` — writes the SQLite schema used by the current flashcard app.
+- `mochi` — writes a native `.mochi` ZIP with `data.edn` and `media/` files.
+
+Mochi cards are simple Markdown cards. The front side contains the illustration
+and `query_text`; the back side contains `answer_text` and the audio reference,
+with `---` separating the sides.
 
 ---
 
@@ -92,19 +129,3 @@ python3 assemble_db.py --status
 | GPT-4o-mini  | ~$0.0005 | $0.50  |
 | TTS-1        | ~$0.003  | $3.00  |
 | **Total**    |          | **≈ $43.50** |
-
----
-
-## Word categories (1000 total)
-
-| Category | Count |
-|---|---|
-| Nouns (people, family, body, nature, food, places…) | 554 |
-| Verbs | 186 |
-| Adjectives (incl. colours) | 95 |
-| Adverbs | 70 |
-| Prepositions | 27 |
-| Pronouns | 25 |
-| Numerals | 21 |
-| Conjunctions | 16 |
-| Interjections | 6 |

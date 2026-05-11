@@ -7,8 +7,8 @@
   "dalle_prompt": "gift box labeled for you, flat illustration",
   "status": "pending",
   "query_text": "для / за / через\n[предл.  цель / направление]",
-  "image_b64": null,
   "answer_text": null,
-  "audio_b64": null,
-  "error": null
+  "error": null,
+  "image_file": null,
+  "audio_file": null
 }

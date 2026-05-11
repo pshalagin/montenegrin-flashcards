@@ -7,8 +7,8 @@
   "dalle_prompt": "person walking through a doorway, flat illustration",
   "status": "pending",
   "query_text": "через / сквозь\n[предл.  движение через]",
-  "image_b64": null,
   "answer_text": null,
-  "audio_b64": null,
-  "error": null
+  "error": null,
+  "image_file": null,
+  "audio_file": null
 }

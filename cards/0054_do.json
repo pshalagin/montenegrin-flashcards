@@ -7,8 +7,8 @@
   "dalle_prompt": "road leading to a destination, flat illustration",
   "status": "pending",
   "query_text": "до / к\n[предл.  предельная точка]",
-  "image_b64": null,
   "answer_text": null,
-  "audio_b64": null,
-  "error": null
+  "error": null,
+  "image_file": null,
+  "audio_file": null
 }
