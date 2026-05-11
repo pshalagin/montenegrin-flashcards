@@ -12,7 +12,9 @@ generated cards.
 - DALL-E 3 illustration (1024 × 1024 flat-vector style)
 
 **Back (answer)**
-- Full grammar: declension / conjugation table for all forms
+- Markdown headings, paragraphs, and lists only
+- Russian explanations with Montenegrin/Serbian target forms and examples
+- No tables
 - 3 example sentences (Montenegrin → Russian)
 - Collocations / synonyms / antonyms
 

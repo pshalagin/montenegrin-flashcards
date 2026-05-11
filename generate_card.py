@@ -46,9 +46,18 @@ MEDIA_DIR    = Path("out") / "media"
 
 ANSWER_SYSTEM = """\
 You are a professional Montenegrin/Serbian language teacher creating flashcard backs for a \
-Russian-speaking learner. Your output will be stored as plain UTF-8 text in a mobile app. \
-Do NOT use Markdown headers (###), do NOT use HTML. Use plain text with Unicode box-drawing \
-characters for tables if helpful. Keep it dense but clear.
+Russian-speaking learner.
+
+Write explanations in Russian. Use Montenegrin/Serbian for the target word, forms, examples, \
+collocations, and short target-language phrases. Every Montenegrin/Serbian example sentence \
+must have a Russian translation.
+
+Output Markdown only:
+- use Markdown headings, short paragraphs, and bullet or numbered lists;
+- do NOT use tables of any kind;
+- do NOT use HTML, code fences, or box-drawing characters.
+
+Keep it dense but clear.
 """
 
 ANSWER_PROMPT_TEMPLATE = """\
@@ -61,34 +70,54 @@ Disambiguation: {context_ru}
 
 Produce the following sections in this exact order, separated by blank lines:
 
-1. TRANSLATION LINE
-   Format:  {montenegrin} — {russian}  [{pos}]
+## {montenegrin} — {russian}
+- Part of speech: {pos}
+- Short Russian explanation of meaning and usage.
 
-2. GRAMMAR & FORMS
-   For NOUNS: gender, declension table (sing + plur, all 7 cases: Nom Gen Dat Acc Voc Ins Lok)
-   For VERBS: aspect (sov/nesov), infinitive, present tense all 6 persons (ja/ti/on/mi/vi/oni), \
-past tense (m/f/n sing + plur), imperative (sing + plur), verbal noun if common
-   For ADJECTIVES: declension (m/f/n sing nom, gen, dat; plur nom), comparative & superlative
-   For ADVERBS / PREPOSITIONS / CONJUNCTIONS: list the main constructions/uses with short notes
-   For PRONOUNS & NUMERALS: full declension table
+## Грамматика и формы
+- For NOUNS: give gender and the key singular/plural case forms as bullet lists, not a table.
+- For VERBS: give aspect, infinitive, present forms for all persons, past forms, imperative, \
+and verbal noun if common, as nested bullet lists, not a table.
+- For ADJECTIVES: give masculine/feminine/neuter forms, common case forms, comparative, \
+and superlative as bullet lists, not a table.
+- For ADVERBS / PREPOSITIONS / CONJUNCTIONS: list the main constructions and usage notes.
+- For PRONOUNS & NUMERALS: list the important declined forms as bullets, not a table.
+- Explain grammar notes in Russian.
 
-3. EXAMPLE SENTENCES  (exactly 3)
-   Each: Montenegrin sentence → Russian translation
-   – Sentence 1: simple, everyday use
-   – Sentence 2: slightly more complex, shows a different word form or meaning
-   – Sentence 3: idiomatic or collocational use if applicable
+## Примеры
+Write exactly 3 numbered examples:
+1. Simple everyday Montenegrin sentence — Russian translation.
+2. Slightly more complex sentence showing another form or meaning — Russian translation.
+3. Idiomatic or collocational use if applicable — Russian translation.
 
-4. COLLOCATIONS / SYNONYMS / ANTONYMS  (2–4 items, whichever is relevant)
-   Format:  • item — explanation in Russian
+## Сочетания, синонимы и антонимы
+- Give 2–4 useful items.
+- Format each item as: Montenegrin item — Russian explanation.
 
-Keep total length under 600 words. Write in clear, accurate Montenegrin.
+Keep total length under 600 words. Use clear, accurate Montenegrin and natural Russian.
 """
 
-DALLE_SYSTEM_PREFIX = (
-    "Flat vector illustration, clean minimal design, white background, "
-    "no text, no letters, no numbers, friendly and educational style, "
-    "vibrant but not garish colors. Scene: "
-)
+IMAGE_PROMPT_TEMPLATE = """\
+Create one clear educational flashcard illustration for this vocabulary concept.
+
+Target word: {montenegrin}
+Russian meaning: {russian}
+Part of speech: {pos}
+Meaning/context in Russian: {context_ru}
+
+Illustration rules:
+- Illustrate the core concept directly, not a full narrative scene.
+- Prefer one central, recognizable subject or action.
+- Keep the composition simple enough to understand at thumbnail size.
+- Use a flat vector style, clean minimal design, white background, friendly educational look.
+- Use vibrant but not garish colors.
+- Do not include text, letters, numbers, labels, speech bubbles, captions, flags, or UI.
+- Avoid visual clutter, surreal combinations, and unnecessary background details.
+- If the concept is abstract, use a simple universal visual metaphor.
+
+Optional semantic hint from the card data:
+{dalle_prompt}
+"""
 
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
@@ -158,7 +187,13 @@ def write_media_file(card_path: Path, suffix: str, data: bytes) -> str:
 
 def generate_image_bytes(card: dict) -> bytes:
     """Returns generated image bytes."""
-    full_prompt = DALLE_SYSTEM_PREFIX + card["dalle_prompt"]
+    full_prompt = IMAGE_PROMPT_TEMPLATE.format(
+        montenegrin=card["montenegrin"],
+        russian=card["russian"],
+        pos=card["pos"],
+        context_ru=card["context_ru"],
+        dalle_prompt=card["dalle_prompt"],
+    )
     response = retry(
         client.images.generate,
         model=DALLE_MODEL,
